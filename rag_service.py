@@ -35,7 +35,7 @@ class RAGService:
             query_embedding = await embedding_service.create_embedding(query)
             
             # Search similar chunks
-            chunks = await db_manager.search_similar_chunks(query_embedding, top_k)
+            chunks = await db_manager.search_similar_chunks(query_embedding, top_k, similarity_threshold)
             
             # Filter by similarity threshold
             filtered_chunks = [
