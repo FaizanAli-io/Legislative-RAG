@@ -1,0 +1,15293 @@
+Income Tax Assessment Act 1997
+No. 38, 1997
+
+Compilation No. 258
+Compilation date:
+
+1 July 2025
+
+Includes amendments: Act No. 70, 2015
+This compilation is in 12 volumes
+Volume 1:
+Volume 2:
+Volume 3:
+Volume 4:
+Volume 5:
+Volume 6:
+Volume 7:
+Volume 8:
+Volume 9:
+Volume 10:
+Volume 11:
+Volume 12:
+
+sections 1-1 to 36-55
+sections 40-1 to 67-30
+sections 70-1 to 121-35
+sections 122-1 to 197-85
+sections 200-1 to 253-15
+sections 275-1 to 313-85
+sections 315-1 to 420-70
+sections 615-1 to 721-40
+sections 723-1 to 880-205
+sections 900-1 to 995-1
+Endnotes 1 to 3
+Endnote 4
+
+Each volume has its own contents
+
+Prepared by the Office of Parliamentary Counsel, Canberra
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+About this compilation
+This compilation
+This is a compilation of the Income Tax Assessment Act 1997 that shows the
+text of the law as amended and in force on 1 July 2025 (the compilation date).
+The notes at the end of this compilation (the endnotes) include information
+about amending laws and the amendment history of provisions of the compiled
+law.
+Uncommenced amendments
+The effect of uncommenced amendments is not shown in the text of the
+compiled law. Any uncommenced amendments affecting the law are accessible
+on the Register (www.legislation.gov.au). The details of amendments made up
+to, but not commenced at, the compilation date are underlined in the endnotes.
+For more information on any uncommenced amendments, see the Register for
+the compiled law.
+Application, saving and transitional provisions for provisions and
+amendments
+If the operation of a provision or amendment of the compiled law is affected by
+an application, saving or transitional provision that is not included in this
+compilation, details are included in the endnotes.
+Editorial changes
+For more information about any editorial changes made in this compilation, see
+the endnotes.
+Modifications
+If the compiled law is modified by another law, the compiled law operates as
+modified but the modification does not amend the text of the law. Accordingly,
+this compilation does not show the text of the compiled law as modified. For
+more information on any modifications, see the Register for the compiled law.
+Self-repealing provisions
+If a provision of the compiled law has been repealed in accordance with a
+provision of the law, details are included in the endnotes.
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Contents
+Endnotes
+
+1
+
+Endnote 1—About the endnotes
+
+1
+
+Endnote 2—Abbreviation key
+
+3
+
+Endnote 3—Legislation history
+
+4
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+i
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 1—About the endnotes
+
+Endnotes
+Endnote 1—About the endnotes
+The endnotes provide information about this compilation and the compiled law.
+The following endnotes are included in every compilation:
+Endnote 1—About the endnotes
+Endnote 2—Abbreviation key
+Endnote 3—Legislation history
+Endnote 4—Amendment history
+Abbreviation key—Endnote 2
+The abbreviation key sets out abbreviations that may be used in the endnotes.
+Legislation history and amendment history—Endnotes 3 and 4
+Amending laws are annotated in the legislation history and amendment history.
+The legislation history in endnote 3 provides information about each law that
+has amended (or will amend) the compiled law. The information includes
+commencement details for amending laws and details of any application, saving
+or transitional provisions that are not included in this compilation.
+The amendment history in endnote 4 provides information about amendments at
+the provision (generally section or equivalent) level. It also includes information
+about any provision of the compiled law that has been repealed in accordance
+with a provision of the law.
+Editorial changes
+The Legislation Act 2003 authorises First Parliamentary Counsel to make
+editorial and presentational changes to a compiled law in preparing a
+compilation of the law for registration. The changes must not change the effect
+of the law. Editorial changes take effect from the compilation registration date.
+If the compilation includes editorial changes, the endnotes include a brief
+outline of the changes in general terms. Full details of any changes can be
+obtained from the Office of Parliamentary Counsel.
+Misdescribed amendments
+A misdescribed amendment is an amendment that does not accurately describe
+how an amendment is to be made. If, despite the misdescription, the amendment
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+1
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 1—About the endnotes
+can be given effect as intended, then the misdescribed amendment can be
+incorporated through an editorial change made under section 15V of the
+Legislation Act 2003.
+If a misdescribed amendment cannot be given effect as intended, the
+amendment is not incorporated and “(md not incorp)” is added to the
+amendment history.
+
+2
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 2—Abbreviation key
+
+Endnote 2—Abbreviation key
+ad = added or inserted
+
+o = order(s)
+
+am = amended
+
+Ord = Ordinance
+
+amdt = amendment
+
+orig = original
+
+c = clause(s)
+C[x] = Compilation No. x
+
+par = paragraph(s)/subparagraph(s)
+/sub-subparagraph(s)
+
+Ch = Chapter(s)
+
+pres = present
+
+def = definition(s)
+
+prev = previous
+
+Dict = Dictionary
+
+(prev…) = previously
+
+disallowed = disallowed by Parliament
+
+Pt = Part(s)
+
+Div = Division(s)
+
+r = regulation(s)/rule(s)
+
+ed = editorial change
+
+reloc = relocated
+
+exp = expires/expired or ceases/ceased to have
+effect
+
+renum = renumbered
+
+F = Federal Register of Legislation
+
+rs = repealed and substituted
+
+gaz = gazette
+
+s = section(s)/subsection(s)
+
+LA = Legislation Act 2003
+
+Sch = Schedule(s)
+
+LIA = Legislative Instruments Act 2003
+
+Sdiv = Subdivision(s)
+
+(md) = misdescribed amendment can be given
+effect
+
+SLI = Select Legislative Instrument
+
+(md not incorp) = misdescribed amendment
+cannot be given effect
+
+Sub-Ch = Sub-Chapter(s)
+
+mod = modified/modification
+
+underlining = whole or part not
+commenced or to be commenced
+
+No. = Number(s)
+
+rep = repealed
+
+SR = Statutory Rules
+SubPt = Subpart(s)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+3
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Income Tax
+Assessment Act 1997
+
+38, 1997
+
+17 Apr
+1997
+
+1 July 1997 (s 1-2)
+
+Taxation Laws
+Amendment (Private
+Health Insurance
+Incentives) Act 1997
+
+56, 1997
+
+30 Apr
+1997
+
+Sch 2 (items 7–10):
+1 July 1997 (s 2(4))
+
+Taxation Laws
+Amendment Act
+(No. 2) 1997
+
+95, 1997
+
+30 June
+1997
+
+s 4 and Sch 3 (items 15–
+18): 30 June 1997 (s
+2(1))
+
+Taxation Laws
+(Technical
+Amendments) Act
+1998
+
+41, 1998
+
+4 June 1998
+
+Sch 6 (items 23, 24):
+4 June 1998 (s 2(14))
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Sch 6 (item 50): 29 June
+2010 (s 2(1) item 9)
+
+—
+
+Tax Law Improvement
+Act 1997
+
+121, 1997
+
+8 July 1997
+
+s 4: 8 July 1997 (s 2(1))
+Sch 1, Sch 2 (items 3–
+17), Sch 3 (items 3–30),
+Sch 4 (items 5–62, Sch 5
+(items 3–42), Sch 6
+
+s 4 and Sch 5
+(item 24)
+
+Sch 2 (item 10)
+
+as amended by
+
+(items 3–67), Sch7
+(items 2–4), Sch 8
+(items 2–31), Sch 9
+(items 3–15), Sch 10
+(items 2–11), Sch 11
+(items 2–36) and Sch 12
+(items 1–14): 1 July
+1997 (s 2(2), (3), (4) (5))
+
+4
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+57, 2002
+
+3 July 2002
+
+Sch 12 (items 83, 86):
+3 July 2002 (s 2(1)
+item 66)
+
+Sch 12 (item 86)
+
+Franchise Fees
+Windfall Tax
+(Consequential
+Amendments) Act
+1997
+
+134, 1997
+
+19 Sept
+1997
+
+s 4(2) and Sch 1
+(items 3–6): 19 Sept
+1997 (s 2)
+
+s 4(2)
+
+Taxation Laws
+Amendment Act
+(No. 3) 1997
+
+147, 1997
+
+14 Oct
+1997
+
+s 4 and Sch 2 (items 2–
+7): 14 Oct 1997 (s 2(1))
+Sch 6 (items 10–13):
+1 July 1997 (s 2(3))
+Sch 14 (items 43–60):
+
+Sch 6 (item 13) and
+Sch 15 (item 13)
+
+as amended by
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+1 July 1997 (s 2(7))
+Sch 15 (items 7–13):
+1 July 1997 (s 2(9))
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Taxation Laws
+Amendment Act
+(No. 4) 1997
+
+75, 2010
+
+28 June
+2010
+
+Sch 6 (item 64): 29 June
+2010 (s 2(1) item 9)
+
+—
+
+174, 1997
+
+21 Nov
+1997
+
+Sch 6 (items 1–16,
+23(1)) and Sch 9
+(items 1–23, 30(1)):
+21 Nov 1997 (s 2(1), (3))
+
+Sch 6 (item 23(1))
+and Sch 9
+(item 30(1))
+
+75, 2010
+
+28 June
+2010
+
+Sch 6 (item 77): 29 June
+2010 (s 2(1) item 9)
+
+—
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+5
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Farm Household
+Support Amendment
+(Restart and
+Exceptional
+Circumstances) Act
+
+179, 1997
+
+25 Nov
+1997
+
+Sch 2 (items 12–26) and
+Sch 3 (item 4): 25 Nov
+1997 (s 2)
+
+Sch 3 (item 4)
+
+Superannuation
+Contributions and
+Termination Payments
+Taxes Legislation
+Amendment Act 1997
+
+191, 1997
+
+7 Dec 1997
+
+Sch 2: 7 Dec 1997
+(s 2(1))
+
+—
+
+Child Care Payments
+(Consequential
+Amendments and
+Transitional
+Provisions) Act 1997
+
+196, 1997
+
+8 Dec 1997
+
+Sch 1 (items 19, 20): 9
+Dec 1997 (s 2(5))
+
+—
+
+Social Security
+Legislation
+Amendment
+(Parenting and Other
+Measures) Act 1997
+
+197, 1997
+
+11 Dec
+1997
+
+Sch 1 (items 338–343):
+20 Mar 1998 (s 2(2))
+Sch 1 (items 369–381):
+1 July 1998 (s 2(2))
+
+Sch 1 (item 343)
+
+Social Security and
+Veterans’ Affairs
+Legislation
+Amendment (Family
+and Other Measures)
+
+202, 1997
+
+16 Dec
+1997
+
+Sch 1 (items 44, 45): 1
+Jan 1998 (s 2(3))
+
+—
+
+16, 1998
+
+16 Apr
+1998
+
+s 4, Sch 3–5, Sch 10
+(items 1–19) and Sch 11:
+16 Apr 1998 (s 2(1))
+
+s 4, Sch 3 (items 20–
+22), Sch 4 (item 2),
+Sch 5 (item 44), Sch
+10 (item 19) and Sch
+11 (item 123)
+
+1997
+
+Act 1997
+Taxation Laws
+Amendment Act
+(No. 1) 1998
+
+6
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+57, 2002
+
+3 July 2002
+
+Schedule 12 (items 74,
+75, 86): Royal Assent
+
+Sch. 12 (item 86)
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 34):
+29 June 2010
+
+—
+
+Taxation Laws
+Amendment (Trust
+Loss and Other
+Deductions) Act 1998
+
+17, 1998
+
+16 Apr
+1998
+
+16 Apr 1998
+
+s4
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 109):
+29 June 2010
+
+—
+
+Commonwealth Places
+(Consequential
+Amendments) Act
+1998
+
+23, 1998
+
+17 Apr
+1998
+
+17 Apr 1998
+
+s. 4(2)
+
+Taxation Laws
+(Technical
+Amendments) Act
+1998
+
+41, 1998
+
+4 June 1998
+
+s 4, Sch 3 (items 4–7),
+Sch 4 (items 1–3, 5):
+4 June 1998 (s 2(1))
+
+s 4, Sch 3 (item 7)
+and Sch 4 (item 5)
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 110):
+29 June 2010
+
+—
+
+as amended by
+
+as amended by
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+7
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Social Security
+Legislation
+Amendment (Youth
+Allowance
+Consequential and
+
+45, 1998
+
+17 June
+1998
+
+Sch 12 (items 25–46):
+1 July 1998 (s 2(1))
+
+—
+
+46, 1998
+
+22 June
+1998
+
+s 4, Sch 1, Sch 2
+(items 4–48), Sch 3
+(items 3–12), Sch 4
+(items 2–11), Sch 5
+(items 3–5), Sch 6
+
+s 4 and Sch 9
+(item 8)
+
+Related Measures) Act
+1998
+Tax Law Improvement
+Act (No. 1) 1998
+
+(items 2–7), Sch 7
+(items 2–11), Sch 9
+(items 2–6, 8) and
+Sch 10: 22 June 1998 (s
+2(1)–(4))
+as amended by
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+Taxation Laws
+Amendment Act
+(No. 3) 1998
+
+57, 2002
+
+3 July 2002
+
+Schedule 12 (items 85,
+86): Royal Assent
+
+Sch. 12 (item 86)
+
+47, 1998
+
+23 June
+1998
+
+Schedule 1 (items 2, 4):
+1 July 1998
+Remainder: Royal
+Assent
+
+s 4, Sch 1 (item 5),
+Sch 3 (item 16), Sch
+5 (item 4) and Sch 9
+(items 14–16)
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 65):
+29 June 2010
+
+—
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+8
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment
+(Company Law
+Review) Act 1998
+
+63, 1998
+
+29 June
+1998
+
+Sch 6: 1 July 1998 (s
+2(3)(a))
+
+Sch 6 (item 18)
+
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+57, 2002
+
+3 July 2002
+
+Sch 12 (items 60, 61):
+1 July 1998 (s 2(1)
+item 59)
+
+—
+
+Social Security and
+Veterans’ Affairs
+Legislation
+Amendment (Pension
+Bonus Scheme) Act
+
+67, 1998
+
+30 June
+1998
+
+30 June 1998
+
+—
+
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+57, 2002
+
+3 July 2002
+
+Schedule 12 (items 73,
+86): Royal Assent
+
+Sch. 12 (item 86)
+
+Taxation Laws
+Amendment (Farm
+Management
+Deposits) Act 1998
+
+85, 1998
+
+2 July 1998
+
+2 Jan 1999
+
+—
+
+Taxation Laws
+Amendment
+(Landcare and Water
+Facility Tax Offset)
+Act 1998
+
+91, 1998
+
+14 July
+1998
+
+Sch 1 (items 1–13, 19):
+14 July 1998 (s 2(1))
+
+Sch 1 (item 19)
+
+57, 2002
+
+3 July 2002
+
+Schedule 12 (items 80,
+86): Royal Assent
+
+Sch. 12 (item 86)
+
+as amended by
+
+1998
+as amended by
+
+as amended by
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+9
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Social Security and
+Veterans’ Affairs
+Legislation
+Amendment (Budget
+and Other Measures)
+
+93, 1998
+
+15 July
+1998
+
+Sch 7 (items 40–45): 1
+Apr 1998 (s 2(9))
+
+Sch 7 (item 45)
+
+Primary Industries and
+Energy Legislation
+Amendment Act
+(No. 1) 1998
+
+102, 1998
+
+30 July
+1998
+
+30 July 1998
+
+Sch. 2 (item 11)
+
+Taxation Laws
+Amendment (Film
+Licensed Investment
+Company) Act 1998
+
+108, 1998
+
+7 Dec 1998
+
+7 Dec 1998 (see s. 2)
+
+—
+
+Taxation Laws
+Amendment (Private
+Health Insurance) Act
+1998
+
+128, 1998
+
+21 Dec
+1998
+
+21 Dec 1998
+
+Sch. 2 (item 16)
+
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+57, 2002
+
+3 July 2002
+
+Sch 12 (item 62): 21 Dec
+1998 (s 2(1) item 60)
+
+—
+
+Payment Processing
+Legislation
+Amendment (Social
+Security and Veterans’
+Entitlements) Act
+
+132, 1998
+
+24 Dec
+1998
+
+Sch 5 (items 2–9): 1 July
+1999 (s 2(1))
+
+—
+
+11, 1999
+
+31 Mar
+1999
+
+Sch 1 (items 277–280,
+404): 1 July 1999 (s
+2(3))
+
+Sch 1 (item 404)
+
+Act 1998
+
+as amended by
+
+1998
+Taxation Laws
+Amendment Act
+(No. 3) 1999
+
+10
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Assistance for Carers
+Legislation
+Amendment Act 1999
+
+13, 1999
+
+9 Apr 1999
+
+Sch 1 (items 122–125,
+128): 1 July 1997 (s
+2(3))
+Sch 1 (items 129–133):
+1 July 1998 (s 2(4))
+
+Sch 1 (items 128,
+133, 137) and Sch 2
+(items 63, 64(1), (3))
+
+Sch 1 (items 134–137)
+and Sch 2 (items 50–55,
+63, 64(1), (3)): 1 July
+1999 (s 2(2)(a), (b))
+Taxation Laws
+Amendment Act
+(No. 1) 1999
+
+16, 1999
+
+9 Apr 1999
+
+s 4, Sch 3 (items 11,
+12(3)), Sch 4 and Sch 7
+(items 9–14): 9 Apr 1999
+(s 2(1))
+
+s 4, Sch 3
+(item 12(3)), Sch 4
+(item 2) and Sch 7
+(item 14)
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 35):
+29 June 2010
+
+—
+
+Taxation Laws
+Amendment (Software
+Depreciation) Act
+1999
+
+39, 1999
+
+31 May
+1999
+
+31 May 1999
+
+s 4 and Sch 1
+(items 21–24)
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 103):
+29 June 2010
+
+—
+
+44, 1999
+
+17 June
+1999
+
+Sch 7 (item 105): 1 July
+1999 (s 3(2)(e), (16) and
+gaz 1999, No S283)
+
+—
+
+as amended by
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Financial Sector
+Reform (Amendments
+and Transitional
+Provisions) Act
+(No. 1) 1999
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+11
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment Act
+(No. 6) 1999
+
+54, 1999
+
+5 July 1999
+
+5 July 1999 (s 2(1), (2))
+
+Sch 1 (item 36), Sch
+2 (item 16), Sch 5
+(item 10) and Sch 7
+(item 3)
+
+A New Tax System
+(Income Tax Laws
+Amendment) Act 1999
+
+60, 1999
+
+8 July 1999
+
+9 July 1999 (see s. 2)
+
+Sch. 2 (item 7)
+
+A New Tax System
+(Personal Income Tax
+Cuts) Act 1999
+
+69, 1999
+
+8 July 1999
+
+9 July 1999 (see s. 2)
+
+Sch. 3 (item 1(1))
+
+A New Tax System
+(Closely Held Trusts)
+Act 1999
+
+70, 1999
+
+8 July 1999
+
+8 July 1999
+
+Sch. 2 (item 14)
+
+A New Tax System
+(Family Assistance)
+(Consequential and
+Related Measures) Act
+(No. 2) 1999
+
+83, 1999
+
+8 July 1999
+
+Sch 10 (items 24–54,
+68(1), 69): 1 July 2000 (s
+2(2))
+
+Sch 10 (items 68(1),
+69)
+
+Taxation Laws
+Amendment Act
+(No. 2) 1999
+
+93, 1999
+
+16 July
+1999
+
+Schedule 4 (item 24): 16
+Apr 1998
+Remainder: Royal
+Assent
+
+s 4 and Sch 1
+(item 39(1)) and Sch
+3 (item 33)
+
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+57, 2002
+
+3 July 2002
+
+Sch 12 (item 53): 16 July
+1999 (s 2(1) item 53)
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 51):
+29 June 2010
+
+—
+
+as amended by
+
+12
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment Act
+(No. 4) 1999
+
+94, 1999
+
+16 July
+1999
+
+16 July 1999 (s 2(1)–(3))
+
+s 4, Sch 1 (item 30),
+Sch 2 (items 3, 4, 6),
+Sch 3 (items 6, 32,
+42), Sch 5
+(items 35–37) and
+Sch 6 (item 73)
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 78):
+29 June 2010
+
+—
+
+Taxation Laws
+Amendment
+(Demutualisation of
+Non-insurance Mutual
+Entities) Act 1999
+
+103, 1999
+
+16 July
+1999
+
+16 July 1999
+
+—
+
+Taxation Laws
+Amendment Act
+(No. 7) 1999
+
+117, 1999
+
+22 Sept
+1999
+
+Sch 2 (item 2): 22 Sept
+1999 (s 2(1))
+
+—
+
+Public Employment
+(Consequential and
+Transitional)
+Amendment Act 1999
+
+146, 1999
+
+11 Nov
+1999
+
+Sch 1 (items 532–534):
+5 Dec 1999 (s 2(1), (2))
+
+—
+
+Further 1998 Budget
+Measures Legislation
+Amendment (Social
+Security) Act 1999
+
+152, 1999
+
+11 Nov
+1999
+
+Sch 4 (items 17–19): 11
+Nov 1999 (s 2(4))
+
+Sch 4 (item 19)
+
+Corporate Law
+Economic Reform
+Program Act 1999
+
+156, 1999
+
+24 Nov
+1999
+
+Sch 5 (items 17–21): 13
+Mar 2000 (s 2(2)(b) and
+gaz 2000, No S114)
+
+—
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+13
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+New Business Tax
+System (Capital
+Allowances) Act 1999
+
+164, 1999
+
+10 Dec
+1999
+
+Sch 1, Sch 2 (items 1–
+16, 19–23), Sch 3
+(items 1–10, 14) and Sch
+4–6: 10 Dec 1999 (s
+2(1))
+
+Sch 1 (item 15), Sch
+2 (item 23), Sch 3
+(item 14), Sch 4
+(item 12) and Sch 5
+(item 6)
+
+Sch 2 (items 17, 18):
+never commenced (s
+2(2))
+New Business Tax
+System (Capital Gains
+Tax) Act 1999
+
+165, 1999
+
+10 Dec
+1999
+
+s 4, Sch 1 (items 1–53,
+61, 62), Sch 2, Sch 3
+(items 1–4, 18) and Sch
+4: 10 Dec 1999 (s 2(1),
+(2))
+
+s 4, Sch 1 (items 61,
+62), Sch 2 (item 7)
+and Sch 3 (item 18)
+
+Taxation Laws
+Amendment Act
+(No. 7) 2000
+
+173, 2000
+
+21 Dec
+2000
+
+Sch 3 (item 16): 21 Dec
+2000 (s 2(1))
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 11):
+29 June 2010
+
+—
+
+169, 1999
+
+10 Dec
+1999
+
+Sch 5 (items 1–12): 22
+Feb 1999 (s 2(2))
+Sch 1 (items 1–13, 18),
+Sch 2 (items 1–3, 5),
+Sch 3 (items 1–4, 7),
+
+Sch 1 (item 18), Sch
+2 (item 5), Sch 3
+(item 7), Sch 4
+(item 19), Sch 6
+(item 16), Sch 7
+
+Sch 4 (items 1–15, 19),
+Sch 6, Sch 7 (item 11),
+Sch 8, Sch 9 (items 1–
+14, 23–33) and Sch 10:
+10 Dec 1999 (s 2(1))
+
+(item 12(1)), Sch 8
+(item 10) and Sch 9
+(items 14, 31, 33)
+
+as amended by
+
+New Business Tax
+System (Integrity and
+Other Measures) Act
+1999
+
+14
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+A New Tax System
+(Indirect Tax and
+Consequential
+Amendments) Act
+1999
+
+176, 1999
+
+22 Dec
+1999
+
+Sch 3: 1 July 2000 (s
+2(9))
+
+—
+
+57, 2002
+
+3 July 2002
+
+Schedule 12 (items 69,
+70, 86): Royal Assent
+
+Sch. 12 (item 86)
+
+A New Tax System
+(Indirect Tax and
+Consequential
+Amendments) Act
+(No. 2) 1999
+
+177, 1999
+
+22 Dec
+1999
+
+Sch 5: 22 Dec 1999 (s
+2(1))
+Sch 8 (items 1–6): 1 July
+2000 (s 2(10))
+
+—
+
+A New Tax System
+(Pay As You Go) Act
+1999
+
+178, 1999
+
+22 Dec
+1999
+
+Schedule 1 (items 6, 8,
+70–78): 1 July 2000
+Remainder: Royal
+Assent
+
+s 4 and Sch 2
+(items 92, 93)
+s. 2(1A) (ad. by 179,
+1999, Sch. 10
+[item 19])
+
+A New Tax System
+(Tax
+Administration) Act
+1999
+
+179, 1999
+
+22 Dec
+1999
+
+Sch 10 (item 19): 22 Dec
+1999 (s 2(11))
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 1):
+29 June 2010
+
+—
+
+as amended by
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+as amended by
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+15
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+A New Tax System
+(Tax Administration)
+Act 1999
+
+179, 1999
+
+22 Dec
+1999
+
+Sch 7, Sch 8, Sch 16
+(items 18, 19, 37) and
+Sch 18: 22 Dec 1999 (s
+2(1), (7)(d), (e))
+Sch 11 (items 80–105)
+
+Sch 7 (item 18), Sch
+8 (item 16) and Sch
+16 (item 37)
+
+and Sch 18 (items 4, 5,
+17, 21, 32): 1 July 2000
+(s 2(9)(b), (14))
+as amended by
+A New Tax System
+(Tax
+Administration) Act
+(No. 2) 2000
+
+91, 2000
+
+30 June
+2000
+
+Sch 3 (items 17, 18): 22
+Dec 1999 (s 3(4))
+
+Sch 3 (item 18)
+
+Dairy Industry
+Adjustment Act 2000
+
+22, 2000
+
+3 Apr 2000
+
+3 Apr 2000
+
+—
+
+A New Tax System
+(Tax Administration
+Act (No. 1) 2000
+
+44, 2000
+
+3 May 2000
+
+Sch 3 (item 38), Sch 4
+(items 13–16) and Sch 5:
+22 Dec 1999 (s 2(1))
+
+—
+
+Taxation Laws
+Amendment Act
+(No. 2) 2000
+
+58, 2000
+
+31 May
+2000
+
+s 4, Sch 2 (items 2–4(2)),
+Sch 5, Sch 6 (items 1–
+13, 17, 18, 20–32, 34),
+Sch 9 and Sch 10
+(items 12–17(3)–(6), 31–
+
+s 4, Sch 2
+(item 4(2)), Sch 4
+(item 6), Sch 5
+(item 6), Sch 6
+(item 34) and Sch 10
+
+38(3)–(7)): 31 May 2000
+(s 2(1))
+Sch 4: 17 Dec 1999 (s
+2(8))
+Sch 6 (items 14–16):
+never commenced (s
+2(10))
+Sch 6 (item 19): 16 July
+1999 (s 2(11))
+Sch 8 (item 19): 1 July
+1998 (s 2(13))
+
+(items 17(3)–(6),
+38(3)–(7))
+
+16
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+57, 2002
+
+3 July 2002
+
+Schedule 12 (items 76,
+86): Royal Assent
+
+Sch. 12 (item 86)
+
+Tax Laws
+Amendment (2006
+Measures No. 2)
+Act 2006
+
+58, 2006
+
+22 June
+2006
+
+Schedule 7 (item 170):
+Royal Assent
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 52):
+29 June 2010
+
+—
+
+Taxation Laws
+Amendment Act
+(No. 3) 2000
+
+66, 2000
+
+22 June
+2000
+
+Sch 2 (items 3, 4): 7 Dec
+1998 (s 2(3))
+Sch 3–5: 22 June 2000 (s
+2(1))
+
+Sch 3 (item 5), Sch
+4 and Sch 5 (item 2)
+
+Taxation Laws
+Amendment Act
+(No. 6) 2000
+
+76, 2000
+
+28 June
+2000
+
+28 June 2000
+
+s4
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 91):
+29 June 2010
+
+—
+
+79, 2000
+
+30 June
+2000
+
+s 4: 30 June 2000 (s
+2(1))
+Sch 1 (items 3, 4(2)),
+Sch 2 (items 1–7) and
+Sch 6 (items 1–11, 15):
+
+s 4, Sch 1
+(item 4(2)), Sch 2
+(item 7) and Sch 6
+(item 15)
+
+as amended by
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+New Business Tax
+System
+(Miscellaneous) Act
+(No. 1) 2000
+
+1 July 2000 (s 2(2))
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+17
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 17):
+29 June 2010
+
+—
+
+New Business Tax
+System (Alienation of
+Personal Services
+Income) Act 2000
+
+86, 2000
+
+30 June
+2000
+
+Sch 1 (items 1–26):
+30 June 2000 (s 2(1))
+
+Sch 1 (item 26)
+
+New Business Tax
+System
+(Miscellaneous) Act
+(No. 2) 2000
+
+89, 2000
+
+30 June
+2000
+
+s 4, Sch 1 (items 1–17,
+19–25, 30–32, 34–65,
+65A, 68), Sch 2
+(items 63–66, 69, 71–79,
+79A, 79B, 80–83, 83A,
+
+s 4, Sch 1 (item 68),
+Sch 4 (item 6), Sch
+5 (items 31, 34) and
+Sch 6 (item 2)
+
+as amended by
+
+84), Sch 4, Sch 5
+(items 1–31, 34), Sch 6
+and Sch 9 (items 5, 9,
+26, 43, 55–57, 62, 63,
+66, 67): 30 June 2000 (s
+2(1))
+Sch 1 (item 18): 1 pm
+(A.C.T.) 11 Nov 1999 (s
+2(2))
+Sch 1 (items 26–29, 33):
+31 May 2000 (s 2(3))
+Sch 2 (items 67, 68, 70):
+1 July 2001 (s 2(5))
+Sch 9 (items 1–4, 6–8,
+10–25, 27–42, 44–54,
+58–61, 64, 65, 68–73):
+1 July 2000 (s 2(11))
+
+18
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+57, 2002
+
+3 July 2002
+
+Sch 12 (items 47–49):
+31 May 2000 (s 2(1)
+item 50)
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 18):
+29 June 2010
+
+—
+
+New Business Tax
+System (Integrity
+Measures) Act 2000
+
+90, 2000
+
+30 June
+2000
+
+30 June 2000
+
+Sch. 1 (item 4)
+
+A New Tax System
+(Tax Administration)
+Act (No. 2) 2000
+
+91, 2000
+
+30 June
+2000
+
+Sch 2 (items 49–53),
+Sch 4A and Sch 5: 1 July
+2000 (s 3(1), (6))
+
+—
+
+Indirect Tax
+Legislation
+Amendment Act 2000
+
+92, 2000
+
+30 June
+2000
+
+Sch 7 (items 28–30):
+1 July 2000 (s 2(1))
+
+—
+
+Taxation Laws
+Amendment Act
+(No. 4) 2000
+
+114, 2000
+
+5 Sept 2000
+
+Schedule 4 (items 43,
+44): 1 July 1998
+Remainder: Royal
+Assent
+
+s 4 and Sch. 4
+(item 82)
+
+Taxation Laws
+Amendment Act
+(No. 3) 2003
+
+101, 2003
+
+14 Oct
+2003
+
+Sch 6 (items 41, 42): 5
+Sept 2000 (s 2(1)
+items 36, 37)
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 79):
+29 June 2010
+
+—
+
+140, 2000
+
+24 Nov
+2000
+
+24 May 2001
+
+—
+
+as amended by
+
+as amended by
+
+Patents Amendment
+(Innovation Patents)
+Act 2000
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+19
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Farm Household
+Support Amendment
+Act 2000
+
+144, 2000
+
+7 Dec 2000
+
+Sch 2 (items 7–19) and
+Sch 3 (items 7(3), 8): 18
+Dec 2000 (s 2(2) and gaz
+2000, No S634)
+
+Sch 3 (items 7(3), 8)
+
+Taxation Laws
+Amendment Act
+(No. 8) 2000
+
+156, 2000
+
+21 Dec
+2000
+
+Sch 6 (items 47, 48,
+49(3)) and Sch 7
+(item 15): 21 Dec 2000
+(s 2(1))
+
+Sch 6 (item 49(3))
+
+Taxation Laws
+Amendment Act
+(No. 7) 2000
+
+173, 2000
+
+21 Dec
+2000
+
+s 4, Sch 1, Sch 3
+(items 1–15, 17), Sch 4
+(items 6–45, 47–49, 51–
+59, 65(1), (3)) and Sch 6:
+21 Dec 2000 (s 2(1))
+
+s 4, Sch 3 (item 17),
+Sch 4 (item 65(1),
+(3)) and Sch 6
+(item 6)
+
+Sch 4 (items 46, 50):
+1 July 1998 (s 2(3))
+Sch 5: 31 May 2000 (s
+2(4))
+as amended by
+Taxation Laws
+Amendment Act
+(No. 3) 2003
+
+101, 2003
+
+14 Oct
+2003
+
+Sch 6 (item 43): 21 Dec
+2000 (s 2(1) item 38)
+
+—
+
+Taxation Laws
+Amendment Act
+(No. 5) 2003
+
+142, 2003
+
+17 Dec
+2003
+
+Schedule 2 (items 50,
+51): Royal Assent
+
+Sch. 2 (item 51)
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 94):
+29 June 2010
+
+—
+
+20
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Defence Legislation
+Amendment
+(Enhancement of the
+Reserves and
+Modernisation) Act
+
+10, 2001
+
+22 Mar
+2001
+
+Sch 2 (items 62, 94, 95):
+19 Apr 2001 (s 2(1))
+
+Sch 2 (items 94, 95)
+
+43, 2001
+
+25 May
+2001
+
+25 May 2001
+
+—
+
+Taxation Laws
+Amendment (Changes
+for Senior Australians)
+Act 2001
+
+44, 2001
+
+25 May
+2001
+
+25 May 2001
+
+Sch. 3 (item 2)
+
+Corporations (Repeals,
+Consequentials and
+Transitionals) Act
+2001
+
+55, 2001
+
+28 June
+2001
+
+s 4–14 and Sch 3
+(items 264–275): 15 July
+2001 (s 2(1), (3))
+
+s 4–14
+
+Governor-General
+Legislation
+Amendment Act 2001
+
+57, 2001
+
+28 June
+2001
+
+28 June 2001
+
+Sch. 2 (item 4)
+
+Taxation Laws
+Amendment Act
+(No. 1) 2001
+
+72, 2001
+
+30 June
+2001
+
+30 June 2001
+
+Sch. 2 (items 108–
+110)
+
+77, 2001
+
+30 June
+2001
+
+Sch 3: 30 June 2001 (s
+2(2))
+
+Sch 3 (item 6)
+
+2001
+Family and
+Community Services
+Legislation
+Amendment (One-off
+Payment to the Aged)
+Act 2001
+
+as amended by
+New Business Tax
+System (Capital
+Allowances—
+Transitional and
+Consequential) Act
+2001
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+21
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+Taxation Laws
+Amendment Act
+(No. 3) 2001
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+57, 2002
+
+3 July 2002
+
+Sch 12 (items 51, 52):
+30 June 2001 (s 2(1)
+item 52)
+
+—
+
+73, 2001
+
+30 June
+2001
+
+Schedule 1 (items 69–
+78): 23 May 2001
+Schedule 2 (items 48–
+52): 1 Jan 2001
+Schedule 3 (items 34–
+
+Sch. 1 (item 62(2)),
+Sch. 2 (items 47, 48)
+and Sch. 3 (item 19)
+
+36): 1 Apr 2001
+Remainder: Royal
+Assent
+New Business Tax
+System (Capital
+Allowances) Act 2001
+
+76, 2001
+
+30 June
+2001
+
+Schedule 2: 1 July 2000
+Schedule 3: 9 May 2001
+Remainder: Royal
+Assent
+
+Sch. 1 (item 2), Sch.
+2 (item 4) and Sch. 3
+(item 3)
+
+New Business Tax
+System (Capital
+Allowances—
+Transitional and
+Consequential) Act
+
+77, 2001
+
+30 June
+2001
+
+Sch 2 (items 149–476,
+488): 30 June 2001 (s
+2(1))
+
+Sch 2 (item 488)
+
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+57, 2002
+
+3 July 2002
+
+Sch 12 (items 44, 45):
+30 June 2001 (s 2(1)
+item 48)
+
+—
+
+Taxation Laws
+Amendment Act
+(No. 5) 2002
+
+119, 2002
+
+2 Dec 2002
+
+Sch 3 (items 97–99):
+30 June 2001 (s 2(1)
+item 9)
+
+—
+
+New Business Tax
+System (Simplified
+Tax System) Act 2001
+
+78, 2001
+
+30 June
+2001
+
+Sch 1 and 2: 30 June
+2001 (s 2(1))
+
+Sch 1 (item 2) and
+Sch 2 (item 24)
+
+2001
+as amended by
+
+22
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment
+(Superannuation
+Contributions) Act
+2001
+
+89, 2001
+
+18 July
+2001
+
+18 July 2001
+
+Sch. 1 (item 11(1))
+
+Family Law
+Legislation
+Amendment
+(Superannuation)
+(Consequential
+
+114, 2001
+
+18 Sept
+2001
+
+Sch 1 (items 16–19, 21–
+24): 28 Dec 2002 (s 2)
+
+—
+
+Treasury Legislation
+Amendment
+(Application of
+Criminal Code) Act
+(No. 2) 2001
+
+146, 2001
+
+1 Oct 2001
+
+Sch 4 (items 92–101): 15
+Dec 2001 (s 2(1))
+
+—
+
+New Business Tax
+System (Thin
+Capitalisation) Act
+2001
+
+162, 2001
+
+1 Oct 2001
+
+Sch 1 (items 1, 14–16)
+and Sch 2: 1 July 2001 (s
+2(1))
+Sch 1 (items 17, 19):
+15 July 2001 (s 2(2)(b))
+
+—
+
+Provisions) Act 2001
+
+Sch 1 (item 18): 1 July
+2002 (s 2(3)(b))
+New Business Tax
+System (Debt and
+Equity) Act 2001
+
+163, 2001
+
+1 Oct 2001
+
+1 July 2001
+
+Sch. 1 (item 118)
+
+Taxation Laws
+Amendment Act
+(No. 2) 2001
+
+167, 2001
+
+1 Oct 2001
+
+Sch 4 (items 8–10) and
+Sch 7 and 8: 1 Oct 2001
+(s 2(1))
+
+Sch 4 (item 10), Sch
+7 (item 15) and Sch
+8 (item 4)
+
+Taxation Laws
+Amendment Act
+(No. 5) 2001
+
+168, 2001
+
+1 Oct 2001
+
+Schedule 2: 1 July 2000
+Remainder: Royal
+Assent
+
+s 4, Sch. 1 (item 17),
+Sch. 3 (items 4, 5),
+Sch. 4 (items 7, 9,
+16) and Sch. 5
+(item 5)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+23
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 87):
+29 June 2010
+
+—
+
+169, 2001
+
+1 Oct 2001
+
+s 4, Sch 4, Sch 5
+(items 1–9) and Sch 6
+(items 1–4, 4A–4C, 5,
+5A, 6–16, 16L–16N, 17,
+19): 1 Oct 2001 (s 2(1),
+
+s 4, Sch 4 (item 15),
+Sch 5 (item 9) and
+Sch 6 (item 19(1)–
+(2A))
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Taxation Laws
+Amendment Act
+(No. 6) 2001
+
+(4), (4B), (4C), (5))
+as amended by
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+57, 2002
+
+3 July 2002
+
+Sch 12 (items 58, 59): 1
+Oct 2001 (s 2(1)
+item 58)
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 92):
+29 June 2010
+
+—
+
+Taxation Laws
+Amendment (Research
+and Development) Act
+2001
+
+170, 2001
+
+1 Oct 2001
+
+Sch 2 (items 28–44, 51):
+12 pm (A.C.T.) 29 Jan
+2001 (s 2(2))
+Sch 2 (items 69–84, 92):
+30 June 2001 (s 2(3))
+
+Sch 2 (items 51, 92)
+and Sch 3
+(item 19(1))
+
+Sch 3 (items 11–13,
+19(1)): 1 Oct 2001 (s
+2(1))
+as amended by
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+24
+Compilation No. 258
+
+57, 2002
+
+3 July 2002
+
+Sch 12 (item 63): 1 Oct
+2001 (s 2(1) item 61)
+
+—
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment
+(Superannuation Act
+(No. 1) 2002
+
+15, 2002
+
+4 Apr 2002
+
+4 Apr 2002
+
+Sch. 1 (item 21)
+
+Taxation Laws
+Amendment Act
+(No. 1) 2002
+
+26, 2002
+
+4 Apr 2002
+
+4 Apr 2002
+
+Sch. 1 (items 4, 9(1),
+(2))
+
+Taxation Laws
+Amendment (Film
+Incentives) Act 2002
+
+27, 2002
+
+4 Apr 2002
+
+4 Apr 2002
+
+Sch. 1 (item 12)
+
+Taxation Laws
+Amendment (Baby
+Bonus) Act 2002
+
+32, 2002
+
+30 May
+2002
+
+30 May 2002
+
+s. 4
+
+New Business Tax
+System (Imputation)
+Act 2002
+
+48, 2002
+
+29 June
+2002
+
+29 June 2002
+
+—
+
+Taxation Laws
+Amendment
+(Superannuation) Act
+(No. 2) 2002
+
+51, 2002
+
+29 June
+2002
+
+s. 4, Schedule 1
+(item 202(2)) and
+Schedule 3 (items 3, 4):
+Royal Assent
+Schedule 1 (items 185,
+
+s 4, Sch. 1
+(item 202(2)) and
+Sch. 3 (item 4)
+
+186): 1 July 2003
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Taxation Laws
+Amendment Act
+(No. 4) 2002
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 108):
+29 June 2010
+
+—
+
+53, 2002
+
+29 June
+2002
+
+Schedules 3 and 4:
+1 July 2002
+Remainder: Royal
+Assent
+
+s 4, Sch. 1 (item 46),
+Sch. 2 (items 16, 17)
+and Sch. 4 (item 15)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+25
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 80):
+29 June 2010
+
+—
+
+57, 2002
+
+3 July 2002
+
+Sch 2: 1 July 2002 (s
+2(1) item 3)
+Sch 4 (items 3, 4): 1 July
+2000 (s 2(1) item 5)
+Sch 4 (items 5–8), Sch 7,
+
+Sch 4 (items 4(2),
+8), Sch 7 (item 3),
+Sch 9 (item 45), Sch
+11 (item 5) and Sch
+12 (items 22, 24)
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Taxation Laws
+Amendment Act
+(No. 2) 2002
+
+Sch 9 (items 9, 11, 12,
+15–20, 22–40, 45),
+Sch 11 (items 2–5),
+Sch 12 (items 16–18, 20,
+25, 26): 3 July 2002 (s
+2(1) items 6, 7, 9, 11, 13,
+15, 16, 18, 28, 30, 33)
+Sch 9 (items 10, 13, 14,
+21) and Sch 12
+(items 23, 24): 1 July
+1997 (s 2(1) items 10,
+12, 14, 32)
+Sch 12 (item 19):
+30 June 1998 (s 2(1)
+item 29)
+Sch 12 (items 21, 22):
+22 June 1998 (s 2(1)
+item 31)
+Sch 12 (items 27, 28): 16
+Apr 1998 (s 2(1)
+item 34)
+Sch 12 (item 29): 19
+Sept 1997 (s 2(1)
+item 35)
+
+26
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+New Business Tax
+System
+(Consolidation) Act
+(No. 1) 2002
+
+68, 2002
+
+22 Aug
+2002
+
+24 Oct 2002 (see s. 2)
+
+s 4 and Sch 3
+(items 2, 19, 23, 37–
+39)
+
+90, 2002
+
+24 Oct
+2002
+
+Sch 11: 24 Oct 2002 (s
+2(1) item 2)
+
+—
+
+New Business Tax
+System
+(Consolidation and
+Other Measures)
+Act 2003
+
+16, 2003
+
+11 Apr
+2003
+
+Sch 19 (items 6, 7): 24
+Oct 2002 (s 2(1)
+items 11, 12)
+
+—
+
+Tax Laws
+Amendment (2004
+Measures No. 7)
+Act 2005
+
+41, 2005
+
+1 Apr 2005
+
+Sch 10 (item 265): 24
+Oct 2002 (s 2(1)
+item 18)
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 12):
+29 June 2010
+
+—
+
+New Business Tax
+System
+(Consolidation, Value
+Shifting, Demergers
+and Other Measures)
+
+90, 2002
+
+24 Oct
+2002
+
+s 4, Sch 1–6, 12, Sch 14
+(items 1–15, 17–19), Sch
+15 (items 1, 3–15, 19–
+89) and Sch 16 (items 1,
+21–55): 24 Oct 2002 (s
+
+s 4, Sch 14
+(item 19), Sch 15
+(items 13–15) and
+Sch 16 (items 54,
+55)
+
+as amended by
+New Business Tax
+System
+(Consolidation,
+Value Shifting,
+Demergers and
+Other Measures)
+Act 2002
+
+Act 2002
+
+2(1) items 1, 2, 4, 5)
+Sch 13: 29 June 2002 (s
+2(1) item 3)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+27
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment Act
+(No. 6) 2003
+
+67, 2003
+
+30 June
+2003
+
+Schedule 8 (items 1, 3):
+Royal Assent
+
+Sch. 8 (item 3)
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 15):
+29 June 2010
+
+—
+
+Tax and
+Superannuation
+Laws Amendment
+(2014 Measures
+No. 4) Act 2014
+
+110, 2014
+
+16 Oct
+2014
+
+Sch 5 (item 141, 142):
+29 June 2002 (s 2(1)
+item 8)
+Sch 5 (item 143): 24 Oct
+2002 (s 2(1) item 9)
+
+—
+
+97, 2002
+
+10 Nov
+2002
+
+s. 4, Schedule 1 (item 8)
+and Schedule 2
+(items 9A, 9B, 10–12):
+Royal Assent
+
+s4
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 66):
+29 June 2010
+
+—
+
+as amended by
+
+Taxation Laws
+Amendment Act
+(No. 3) 2002
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+28
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+New Business Tax
+System (Consolidation
+and Other Measures)
+Act (No. 1) 2002
+
+117, 2002
+
+2 Dec 2002
+
+s 4: 2 Dec 2002 (s 2(1)
+item 1)
+Sch 1, 2, Sch 3 (items 1–
+7), Sch 4, Sch 5
+(items 1–12), Sch 6–8,
+
+s 4, Sch 2 (item 11),
+Sch 8 (item 6), Sch
+12 (items 12, 22)
+and Sch 17 (item 6)
+
+Sch 11 (items 8–11),
+Sch 12 (items 1–23),
+Sch 13 (items 1–14) and
+Sch 14 (items 8–13): 24
+Oct 2002 (s 2(1) items 2,
+3, 5, 6, 9)
+Sch 17: 29 June 2002 (s
+2(1) item 11)
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Taxation Laws
+Amendment Act
+(No. 5) 2002
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 14):
+29 June 2010
+
+—
+
+119, 2002
+
+2 Dec 2002
+
+s 4, Sch 1 (items 2–5, 8),
+Sch 2 and Sch 3
+(item 100): 2 Dec 2002
+(s 2(1) items 1, 2, 10)
+Sch 1 (items 6, 7): (see
+
+s 4, Sch 1 (item 8),
+Sch 2 (item 7) and
+Sch 3 (item 100)
+
+Sch 10 (item 242) of Act
+No. 41, 2005)
+Sch 3 (items 4–78):
+30 June 2001 (s 2(1)
+items 3–8)
+as amended by
+Tax Laws
+Amendment (2004
+Measures No. 7)
+Act 2005
+
+41, 2005
+
+1 Apr 2005
+
+Sch 10 (item 242): 1 Apr
+2005 (s 2(1) item 5)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+—
+
+29
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Taxation Laws
+Amendment (Venture
+Capital) Act 2002
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 88):
+29 June 2010
+
+—
+
+136, 2002
+
+19 Dec
+2002
+
+Sch 1 (items 1, 5):
+31 May 2000 (s 2(1)
+items 2, 4)
+Sch 1 (items 2–4, 6–27),
+Sch 2 (items 18–28), Sch
+
+Sch 1 (item 27), Sch
+2 (item 28) and Sch
+3 (item 18)
+
+3 (items 2–18) and Sch 4
+(items 1, 2): 19 Dec
+2002 (s 2(1) items 3, 5,
+6)
+Taxation Laws
+Amendment
+(Structured
+Settlements and
+Structured Orders) Act
+
+139, 2002
+
+19 Dec
+2002
+
+19 Dec 2002
+
+s 4 and Sch. 1
+(item 16A)
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 104):
+29 June 2010
+
+—
+
+12, 2003
+
+2 Apr 2003
+
+Schedule 1: 29 Aug 2001
+Remainder: Royal
+Assent
+
+Sch. 2 (item 2) and
+Sch. 3 (items 2, 6,
+11, 13)
+
+2002
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Taxation Laws
+Amendment Act
+(No. 1) 2003
+
+30
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+New Business Tax
+System (Consolidation
+and Other Measures)
+Act 2003
+
+16, 2003
+
+11 Apr
+2003
+
+s 4: 11 Apr 2003 (s 2(1)
+item 1)
+Sch 1 (items 1–6, 9–26),
+Sch 2, 3, Sch 4 (items 1–
+7), Sch 5 (items 2–5),
+
+s 4, Sch 9 (item 21),
+Sch 13 (item 5), Sch
+24 (item 23), Sch 26
+(item 8), Sch 27
+(item 21), Sch 28
+
+Sch 6 (items 1–9), Sch 7
+(items 1, 2, 4–29), Sch 8,
+Sch 9 (items 1, 2, 13–
+21), Sch 10 (item 2),
+Sch 11 (items 1–3),
+Sch 12, 13, Sch 14
+(items 1–7), Sch 16
+(items 1–3), Sch 19
+(items 1–3), Sch 21, 22,
+Sch 23 (items 10–13)
+and Sch 24 (items 20–
+23): 24 Oct 2002 (s 2(1)
+items 1A, 2–11, 13, 14)
+Sch 7 (item 3): (see Sch
+10 (item 224) of Act
+No. 41, 2005)
+Sch 25 (items 1–10),
+Sch 26 (items 1–4, 8),
+Sch 27 (items 1–19, 21),
+Sch 28 (items 1–12, 19),
+Sch 29 (items 12, 13)
+and Sch 30 (items 1, 2):
+29 June 2002 (s 2(1)
+items 15–19, 21, 23)
+
+(item 19) and Sch 30
+(item 2)
+
+Sch 10 (item 224): 1 Apr
+2005 (s 2(1) item 5)
+Sch 10 (item 266): 24
+Oct 2002 (s 2(1)
+item 19)
+
+—
+
+as amended by
+Tax Laws
+Amendment (2004
+Measures No. 7)
+Act 2005
+
+41, 2005
+
+1 Apr 2005
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+31
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2010
+Measures No. 1)
+Act 2010
+
+56, 2010
+
+3 June 2010
+
+Sch 5 (items 137, 139,
+140): 3 June 2010 (s 2(1)
+item 11D)
+
+Sch 5 (items 139,
+140)
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 13):
+29 June 2010
+
+—
+
+Family and
+Community Services
+Legislation
+Amendment
+(Australians Working
+
+35, 2003
+
+24 Apr
+2003
+
+Schedules 1, 1A, 2, 4, 5
+and 6: 20 Sept 2003
+Schedule 3: 22 May
+2003
+Remainder: Royal
+
+Sch. 2 (item 7)
+
+Together and other
+2001 Budget
+Measures) Act 2003
+Taxation Laws
+Amendment Act
+(No. 2) 2003
+
+Assent
+
+65, 2003
+
+30 June
+2003
+
+s. 4, Schedule 2,
+Schedule 3 (items 3–5)
+and Schedule 5 (item 3):
+Royal Assent
+
+s 4 and Sch. 2
+(item 5)
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 53):
+29 June 2010
+
+—
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+32
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Taxation Laws
+Amendment Act
+(No. 4) 2003
+
+66, 2003
+
+30 June
+2003
+
+s 4, Sch 2 (items 1–5,
+17), Sch 3 (items 49–70,
+71–128, 129–131, 140,
+141), Sch 4, Sch 6
+(items 1, 3) and Sch 7
+
+s 4, Sch 2 (item 17),
+Sch 3 (items 140(1)–
+(6), (8), 141), Sch 4
+(item 5), Sch 6
+(item 3) and Sch 7
+
+(items 6–9): 30 June
+2003 (s 2(1) items 1, 3,
+6–8, 8B–12, 12B, 14, 15,
+17, 18)
+Sch 3 (items 70A,
+128A): 2 Apr 2003 (s
+2(1) items 8A, 12A)
+
+(item 9)
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Taxation Laws
+Amendment Act
+(No. 6) 2003
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 81):
+29 June 2010
+
+—
+
+67, 2003
+
+30 June
+2003
+
+s 4, Sch 10 (items 1–11)
+and Sch 12: 30 June
+2003 (s 2(1) items 1, 6,
+7, 12)
+Sch 3, 4 and Sch 5
+
+s 4 and Sch 10
+(item 23)
+
+(items 1–3): 24 Oct 2002
+(s 2(1) item 3)
+Sch 9 (items 16, 17): 1
+Sept 2003 (s 2(1) item 5)
+Sch 10 (items 17–23): 17
+Dec 2003 (s 2(1) item 9)
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 93):
+29 June 2010
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+—
+
+33
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Australian Heritage
+Council
+(Consequential and
+Transitional
+Provisions) Act 2003
+
+86, 2003
+
+23 Sept
+2003
+
+Sch 1 (items 4–6): 1 Jan
+2004 (s 2(1) item 2)
+
+Sch 1 (item 5)
+
+Taxation Laws
+Amendment Act
+(No. 3) 2003
+
+101, 2003
+
+14 Oct
+2003
+
+s. 4, Schedule 1
+(items 2–20, 22),
+Schedule 2 (items 1–12),
+Schedule 3 (items 2–6)
+and Schedule 6
+
+s 4, 5, Sch. 1
+(item 22), Sch. 2
+(item 12) and Sch. 3
+(item 6)
+s. 2(1) (am. by 67,
+
+(items 16, 22–25, 27, 28,
+30): Royal Assent
+s. 5: 11 Oct 2002
+Sch 6 (items 17–19):
+1 July 1997 (s 2(1)
+items 17, 18)
+Sch 6 (items 20, 21): 21
+Dec 2000 (s 2(1)
+items 19, 20)
+Sch 6 (item 26): 10 Dec
+1999 (s 2(1) item 22)
+Sch 6 (item 29): 30 June
+2000 (s 2(1) item 25)
+
+2003, Sch. 10
+[item 13])
+
+as amended by
+Taxation Laws
+Amendment Act
+(No. 6) 2003
+
+67, 2003
+
+30 June
+2003
+
+Schedule 10 (items 13–
+16): 14 Oct 2003 (see s.
+2(1))
+
+—
+
+Tax Laws
+Amendment (Loss
+Recoupment Rules
+and Other
+Measures) Act 2005
+
+147, 2005
+
+14 Dec
+2005
+
+Schedule 5 (items 19,
+20): Royal Assent
+
+Sch. 5 (item 20)
+
+34
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+Taxation Laws
+Amendment Act
+(No. 8) 2003
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 67):
+29 June 2010
+
+—
+
+107, 2003
+
+21 Oct
+2003
+
+Sch 6: 1 July 2003 (s
+2(1) item 3)
+Sch 7 (items 6–8):
+30 June 2003 (s 2(1)
+item 5)
+
+s 4, Sch 1
+(item 9(1)), Sch 2
+(item 40), Sch 3
+(item 2), Sch 5
+(item 3) and Sch 7
+
+Sch 7 (item 15): 17 Dec
+2003 (s 2(1) item 7)
+Remainder: 21 Oct 2003
+(s 2(1) items 1, 2, 4, 6, 8)
+
+(items 9, 18)
+s. 2(1) (am. by 23,
+2005, Sch. 11
+[item 1])
+
+as amended by
+Tax Laws
+Amendment (2004
+Measures No. 6)
+Act 2005
+
+23, 2005
+
+21 Mar
+2005
+
+Sch 11: 21 Oct 2003 (s
+2(1) item 8)
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 95):
+29 June 2010
+
+—
+
+111, 2003
+
+12 Nov
+2003
+
+12 Nov 2003
+
+Sch. 1 (item 25)
+
+133, 2003
+
+17 Dec
+2003
+
+17 Dec 2003
+
+s 4, Sch. 1
+(item 17(2)), Sch. 2
+(item 9), Sch. 3
+(item 2) and Sch. 4
+(items 77, 78)
+
+Superannuation
+(Government
+Co-contribution for
+Low Income Earners)
+(Consequential
+Amendments) Act
+2003
+New Business Tax
+System (Taxation of
+Financial
+Arrangements) Act
+(No. 1) 2003
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+35
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+15, 2009
+
+26 Mar
+2009
+
+Sch 1 (items 113, 114):
+17 Dec 2003 (s 2(1)
+item 3)
+
+Sch 1 (item 114)
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 19):
+29 June 2010
+
+—
+
+Financial Services
+Reform Amendment
+Act 2003
+
+141, 2003
+
+17 Dec
+2003
+
+Schedule 3 (item 1): 18
+Dec 2003
+
+—
+
+Taxation Laws
+Amendment Act
+(No. 5) 2003
+
+142, 2003
+
+17 Dec
+2003
+
+s 4, Sch 1 (items 1–15,
+18–40), Sch 2 (items 1,
+2, 4–29, 33–49, 52, 53),
+Sch 3, Sch 7 (items 1–
+23) and Sch 8 (items 4–
+
+s 4, Sch 1 (item 1),
+Sch 2 (items 1, 49),
+Sch 3 (items 15, 18),
+Sch 7 (items 15, 23)
+and Sch 8
+
+17, 17A, 17B, 18–21,
+24(2), (3)): 17 Dec 2003
+(s 2(1) items 1–5, 10, 11,
+13)
+
+(items 24(2), (3))
+
+Schedule 6 (item 89):
+29 June 2010
+
+—
+
+as amended by
+Tax Laws
+Amendment
+(Taxation of
+Financial
+Arrangements) Act
+2009
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+36
+Compilation No. 258
+
+75, 2010
+
+28 June
+2010
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Higher Education
+Support (Transitional
+Provisions and
+Consequential
+Amendments) Act
+
+150, 2003
+
+19 Dec
+2003
+
+Sch 2 (items 136–143): 1
+Jan 2004 (s 2(1) item 16)
+
+—
+
+20, 2004
+
+23 Mar
+2004
+
+Schedule 6: 1 July 2000
+Remainder: Royal
+Assent
+
+s 4, Sch. 3 (item 6),
+Sch. 4 (item 9), Sch.
+7 (item 9) and Sch. 8
+(item 14)
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 54):
+29 June 2010
+
+—
+
+Family Assistance
+Legislation
+Amendment
+(Extension of Time
+Limits) Act 2004
+
+33, 2004
+
+20 Apr
+2004
+
+20 Apr 2004
+
+Sch. 1 (item 9)
+
+Military Rehabilitation
+and Compensation
+(Consequential and
+Transitional
+Provisions) Act 2004
+
+52, 2004
+
+27 Apr
+2004
+
+Schedule 4 (items 10–13,
+14(2), (3), 15): 1 July
+2004 (see s. 2)
+
+Sch. 4 (items 14(2),
+(3), 15)
+
+Family Assistance
+Legislation
+Amendment (More
+Help for Families—
+Increased Payments)
+
+59, 2004
+
+26 May
+2004
+
+Schedule 2 (items 36–
+42): 1 July 2004
+
+Sch. 2 (items 38, 42)
+
+2003
+Taxation Laws
+Amendment Act
+(No. 2) 2004
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+Act 2004
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+37
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Family Assistance
+Legislation
+Amendment (More
+Help for Families—
+One-off Payments)
+
+60, 2004
+
+26 May
+2004
+
+26 May 2004
+
+—
+
+80, 2004
+
+23 June
+2004
+
+Sch 1 (items 197, 212,
+213, 215): 1 Dec 2004 (s
+2(1) item 2)
+
+Sch 1 (items 212,
+213, 215)
+
+Act 2004
+Bankruptcy
+Legislation
+Amendment Act 2004
+
+38
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2004 Measures No. 2)
+Act 2004
+
+83, 2004
+
+25 June
+2004
+
+s 4, Sch 1 (items 116–
+124), Sch 2 (items 1, 2,
+5–8, 10–18, 20–33, 36–
+50, 52–64, 67–74), Sch 3
+(items 4–7), Sch 5
+
+s 4, Sch 1
+(items 126(2)–(5),
+(8)–(10)), Sch 2
+(items 1, 6, 37, 53,
+64), Sch 3 (items 6,
+
+(items 1, 2), Sch 6, Sch 8
+(items 9–11), Sch 10
+(items 43, 44) and
+Sch 12: 25 June 2004 (s
+2(1) items 1, 12–14, 16,
+17, 20, 27, 29, 30)
+Sch 1 (items 2–79):
+30 June 2000 (s 2(1)
+item 2)
+Sch 1 (items 85–94):
+30 June 2001 (s 2(1)
+items 3–5)
+Sch 1 (items 95–99): 24
+Oct 2002 (s 2(1) item 6)
+Sch 1 (item 100): 19 Dec
+2002 (s 2(1) item 7)
+Sch 1 (items 101–104)
+and Sch 10 (items 23–
+29, 30–42): 30 June
+2003 (s 2(1) items 8, 9,
+24–26)
+Sch 1 (items 105, 106):
+17 Dec 2003 (s 2(1)
+item 10)
+Sch 10 (items 3–22):
+29 June 2002 (s 2(1)
+item 23)
+
+7), Sch 5 (item 2),
+Sch 6 (item 4), Sch
+8 (item 11), Sch 10
+(items 43(2)–(4), 44)
+and Sch 12 (items 9,
+16)
+s. 2(1) (am. by 41,
+2005, Sch. 10
+[item 269])
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+39
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2004
+Measures No. 7)
+Act 2005
+
+41, 2005
+
+1 Apr 2005
+
+Sch 10 (item 269):
+25 June 2004 (s 2(1)
+item 22)
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 112):
+29 June 2010
+
+—
+
+Superannuation Laws
+Amendment (2004
+Measures No. 1) Act
+2004
+
+92, 2004
+
+29 June
+2004
+
+29 June 2004
+
+Sch. 1 (item 3)
+
+Superannuation Laws
+Amendment (2004
+Measures No. 2) Act
+2004
+
+93, 2004
+
+29 June
+2004
+
+s. 4(1) and Schedule 1
+(item 3): Royal Assent
+
+s. 4(1)
+
+Tax Laws Amendment
+(2004 Measures No. 1)
+Act 2004
+
+95, 2004
+
+29 June
+2004
+
+s. 4, Schedules 2, 3, 5
+and 11: Royal Assent
+Schedule 7 (items 1–10,
+13): 1 July 2004
+Schedule 10 (items 28–
+
+s 4, Sch. 2 (item 11),
+Sch. 3 (items 7–9),
+Sch. 5 (item 9), Sch.
+7 (item 13) and Sch.
+10 (items 44, 45)
+
+as amended by
+
+39, 44, 45): 1 July 2005
+as amended by
+Tax Laws
+Amendment (2006
+Measures No. 2)
+Act 2006
+
+58, 2006
+
+22 June
+2006
+
+Sch 7 (item 210): 1 July
+2005 (s 2(1) item 22)
+
+—
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 111):
+29 June 2010
+
+—
+
+40
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+New International Tax
+Arrangements
+(Participation
+Exemption and Other
+Measures) Act 2004
+
+96, 2004
+
+29 June
+2004
+
+29 June 2004
+
+Sch. 1 (item 1) and
+Sch. 2 (item 140(2),
+(3)
+
+64, 2005
+
+26 June
+2005
+
+Sch 5: 29 June 2004 (s
+2(1) item 5)
+
+—
+
+Veterans’ Entitlements
+(Clarke Review) Act
+2004
+
+100, 2004
+
+30 June
+2004
+
+Schedule 2 (items 32–
+35): 20 Sept 2004
+
+—
+
+Taxation Laws
+Amendment Act
+(No. 1) 2004
+
+101, 2004
+
+30 June
+2004
+
+s. 4, Schedule 1
+(items 2–4), Schedule 9,
+Schedule 10 (items 7–
+37) and Schedule 11
+(items 144–146): Royal
+
+s 4, Sch. 1 (item 4),
+Sch. 3 (item 72),
+Sch. 7 (item 8), Sch.
+9 (item 17) and Sch.
+11 (items 143, 145)
+
+as amended by
+New International
+Tax Arrangements
+(Foreign-owned
+Branches and Other
+Measures) Act 2005
+
+Assent
+Sch 2 and Sch 7
+(items 1–8): 30 June
+2003 (s 2(1) items 3, 8)
+Sch 3: 1 July 2003 (s
+2(1) item 4)
+Sch 11 (item 35):
+30 June 2000 (s 2(1)
+item 13)
+Sch 11 (items 52–59, 88,
+89): 1 July 2000 (s 2(1)
+item 14)
+Sch 11 (items 141–143):
+1 July 2001 (s 2(1)
+item 16)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+41
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 36):
+29 June 2010
+
+—
+
+Tax Laws Amendment
+(2004 Measures No. 3)
+Act 2004
+
+105, 2004
+
+30 June
+2004
+
+Schedule 2: 1 Apr 2004
+Remainder: Royal
+Assent
+
+s 4 and Sch. 1
+(item 19)
+
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Schedule 6 (item 113):
+29 June 2010
+
+—
+
+Tax Laws Amendment
+(Wine Producer
+Rebate and Other
+Measures) Act 2004
+
+129, 2004
+
+31 Aug
+2004
+
+Schedules 1 and 3: 1 Oct
+2004
+Remainder: Royal
+Assent
+
+Sch. 3 (item 25)
+
+Family and
+Community Services
+and Veterans’ Affairs
+Legislation
+Amendment (2004
+
+132, 2004
+
+8 Dec 2004
+
+Schedule 1 (items 1, 2,
+17, 18) and Schedule 2
+(items 1, 2, 13–15, 24):
+1 Dec 2004
+
+Sch. 2 (items 13, 24)
+
+Private Health
+Insurance Incentives
+Amendment Act 2005
+
+9, 2005
+
+22 Feb
+2005
+
+22 Feb 2005
+
+Sch. 1 (item 7)
+
+New International Tax
+Arrangements
+(Managed Funds and
+Other Measures) Act
+2005
+
+21, 2005
+
+21 Mar
+2005
+
+21 Mar 2005
+
+Sch. 1 (item 7) and
+Sch. 3 (item 47(1))
+
+as amended by
+
+as amended by
+
+Election
+Commitments) Act
+2004
+
+42
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2004 Measures No. 6)
+Act 2005
+
+23, 2005
+
+21 Mar
+2005
+
+s. 4, Schedule 1
+(items 2–8, 11, 13–19,
+21–24, 26, 27, 29–32),
+Schedule 2 (items 1–11,
+14), Schedule 3
+
+s 4, Sch. 1 (items 1,
+19), Sch. 2
+(item 14), Sch. 3
+(item 111(1)–(3)),
+Sch. 4 (item 2), Sch.
+
+(items 1–13, 75–102,
+111(1)–(3)),
+Schedules 4–6, 8, 10 and
+Schedule 12 (items 2–6,
+11(1)): Royal Assent
+Schedule 12 (item 1):
+1 July 2000
+
+6 (item 14), Sch. 8
+(item 8), Sch. 10
+(item 23) and Sch.
+12 (item 11(1))
+
+Schedule 6 (item 114):
+29 June 2010
+
+—
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+43
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2004 Measures No. 7)
+Act 2005
+
+41, 2005
+
+1 Apr 2005
+
+s. 4, Schedule 1
+(items 1–11), Schedule 2
+(items 1–9, 11),
+Schedule 3 (items 17–
+22), Schedule 6
+
+s 4, Sch. 1 (item 11),
+Sch. 2 (item 11),
+Sch. 3 (item 22),
+Sch. 6 (item 1), Sch.
+7 (item 20) and
+
+(items 1–3, 5, 12–15,
+17–28), Schedule 7,
+Schedule 10 (items 36–
+221, 271–273) and
+Schedule 11 (items 4, 5):
+Royal Assent
+Sch 10 (item 247): 28
+Dec 2002 (s 2(1) item 9)
+Sch 10 (items 248, 259,
+260): 24 Oct 2002 (s
+2(1) items 10, 14, 15)
+Sch 10 (items 249, 250–
+257, 263, 264): 29 June
+2002 (s 2(1) items 11,
+12, 17)
+Sch 10 (item 258):
+30 June 2000 (s 2(1)
+item 13)
+Sch 10 (items 261, 262):
+1 July 2000 (s 2(1)
+item 16)
+
+Sch. 11 (item 5)
+
+Schedule 6 (item 115):
+29 June 2010
+
+—
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 2)
+Act 2010
+
+44
+Compilation No. 258
+
+75, 2010
+
+28 June
+2010
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Australian
+Communications and
+Media Authority
+(Consequential and
+Transitional
+
+45, 2005
+
+1 Apr 2005
+
+Schedule 1 (items 66,
+67) and Schedule 4:
+1 July 2005 (see s. 2(1))
+
+Sch. 4
+
+55, 2005
+
+25 May
+2005
+
+25 May 2005
+
+Sch. 2 (item 1)
+
+19, 2008
+
+26 May
+2008
+
+Schedule 3 (item 70):
+Royal Assent
+
+—
+
+Statute Law
+Revision Act
+2010
+
+8, 2010
+
+1 Mar 2010
+
+Sch 2 (item 20): 26 May
+2008 (s 2(1) item 21)
+
+—
+
+Statute Update
+(Autumn 2018) Act
+2018
+
+41, 2018
+
+22 May
+2018
+
+Sch 5 (item 1): 19 June
+2018 (s 2(1) item 4)
+
+—
+
+58, 2005
+
+26 June
+2005
+
+Schedule 1: 27 June
+2005 (see s. 2(1))
+Remainder: Royal
+Assent
+
+Sch. 1 (item 17)
+
+Provisions) Act 2005
+Social Security
+Legislation
+Amendment (One-off
+Payments for Carers)
+Act 2005
+as amended by
+Social Security and
+Veterans’
+Entitlements
+Legislation
+Amendment
+(One-off Payments
+and Other Budget
+Measures) Act 2008
+as amended by
+
+Film Licensed
+Investment Company
+(Consequential
+Provisions) Act 2005
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+45
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2005 Measures No. 3)
+Act 2005
+
+63, 2005
+
+26 June
+2005
+
+Schedule 1 (items 5–23):
+Royal Assent
+
+Sch. 1 (item 23)
+
+New International Tax
+Arrangements
+(Foreign-owned
+Branches and Other
+Measures) Act 2005
+
+64, 2005
+
+26 June
+2005
+
+Schedule 2: 27 June
+2005
+Schedule 5: 29 June
+2004
+Remainder: Royal
+
+Sch. 2 (item 11(2)),
+Sch. 3 (items 11, 39)
+and Sch. 4
+(items 40, 41)
+
+Assent
+Social Security
+Amendment
+(Extension of Youth
+Allowance and
+Austudy Eligibility to
+
+66, 2005
+
+26 June
+2005
+
+New Apprentices) Act
+2005
+
+Schedules 1 and 2:
+1 July 2005
+Schedule 3: 20 Mar 2000
+(see s. 2(1))
+Remainder: Royal
+
+Sch. 2 (item 3)
+
+Assent
+
+Tax Laws Amendment
+(Improvements to Self
+Assessment) Act
+(No. 1) 2005
+
+75, 2005
+
+29 June
+2005
+
+29 June 2005
+
+Sch. 1 (item 31)
+
+Tax Laws Amendment
+(2005 Measures No. 1)
+Act 2005
+
+77, 2005
+
+29 June
+2005
+
+29 June 2005
+
+Sch. 2 (item 3) and
+Sch. 4 (item 5)
+
+Tax Laws Amendment
+(2005 Measures No. 2)
+Act 2005
+
+78, 2005
+
+29 June
+2005
+
+29 June 2005
+
+Sch. 1 (item 3) and
+Sch. 3 (items 5, 12)
+
+Superannuation
+(Consequential
+Amendments) Act
+2005
+
+81, 2005
+
+29 June
+2005
+
+Schedule 7 (items 2, 3):
+1 July 2005
+
+Sch. 7 (item 3)
+
+46
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+26, 2008
+
+23 June
+2008
+
+Schedule 1 (items 117–
+121): Royal Assent
+
+—
+
+147, 2005
+
+14 Dec
+2005
+
+Schedule 1 (items 4–168,
+169(2), 170–176),
+Schedule 2 (items 1, 12–
+24, 26–28), Schedule 3,
+Schedule 4 (items 4–12),
+
+Sch. 1 (items 169(2),
+170–176), Sch. 2
+(items 26–28),
+Sch. 3 (item 5),
+Sch. 4 (item 12),
+
+Schedule 5 (items 13, 14,
+20), Schedule 6 (items 1,
+2, 10(1)) and Schedule 7
+(items 14–16, 20): Royal
+Assent
+
+Sch. 5 (item 20),
+Sch. 6 (item 10(1))
+and Sch. 7 (item 20)
+
+as amended by
+Superannuation
+Legislation
+Amendment
+(Trustee Board and
+Other Measures)
+(Consequential
+Amendments) Act
+2008
+Tax Laws Amendment
+(Loss Recoupment
+Rules and Other
+Measures) Act 2005
+
+Tax Laws Amendment
+(2005 Measures No. 4)
+Act 2005
+
+160, 2005
+
+19 Dec
+2005
+
+Schedule 1 (items 1–10,
+14(1)) and Schedule 2
+(items 1–12): Royal
+Assent
+
+Sch. 1 (item 14(1))
+and Sch. 2 (item 12)
+
+Tax Laws Amendment
+(Improvements to Self
+Assessment) Act
+(No. 2) 2005
+
+161, 2005
+
+19 Dec
+2005
+
+Schedule 1 (item 26) and
+Schedule 2 (items 6–14,
+32): Royal Assent
+
+Sch. 2 (item 32)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+47
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2005 Measures No. 5)
+Act 2005
+
+162, 2005
+
+19 Dec
+2005
+
+Schedule 2 (items 1–13),
+Schedule 3 (items 1–3,
+16–19, 33) and
+Schedule 6 (items 28–
+32): Royal Assent
+
+Sch. 2 (item 13),
+Sch. 3 (item 33) and
+Sch. 6 (items 13, 25)
+
+Schedule 6 (items 1–5,
+7–13): 1 July 2005
+Sch 6 (items 6, 16–25):
+1 July 2001 (s 2(1)
+items 4, 6)
+Tax Laws Amendment
+(2005 Measures No. 6)
+Act 2006
+
+13, 2006
+
+29 Mar
+2006
+
+29 Mar 2006
+
+Sch. 1 (item 2),
+Sch. 2 (item 4) and
+Sch. 3 (item 3)
+
+Offshore Petroleum
+(Repeals and
+Consequential
+Amendments) Act
+2006
+
+17, 2006
+
+29 Mar
+2006
+
+Sch 2 (items 41, 42):
+1 July 2008 (s 2(1)
+item 2)
+
+Sch 2 (item 42)
+
+Tax Laws Amendment
+(2006 Measures No. 1)
+Act 2006
+
+32, 2006
+
+6 Apr 2006
+
+6 Apr 2006
+
+Sch. 1 (item 40(1)–
+(7), (9)), Sch. 2
+(item 51) and Sch. 3
+(item 17)
+
+Statute Law
+Revision Act 2010
+
+8, 2010
+
+1 Mar 2010
+
+Sch 2 (item 23): 6 Apr
+2006 (s 2(1) item 23)
+
+—
+
+Social Security and
+Veterans’ Entitlements
+Legislation
+Amendment (One-off
+Payments to Increase
+
+41, 2006
+
+22 May
+2006
+
+22 May 2006
+
+—
+
+as amended by
+
+Assistance for Older
+Australians and Carers
+and Other Measures)
+Act 2006
+
+48
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Family Law
+Amendment (Shared
+Parental
+Responsibility) Act
+2006
+
+46, 2006
+
+22 May
+2006
+
+Schedule 4 (items 113A,
+113B, 129, 138A): 1 July
+2006
+
+Sch. 4 (items 129,
+138A)
+
+Tax Laws Amendment
+(Personal Tax
+Reduction and
+Improved
+Depreciation
+
+55, 2006
+
+19 June
+2006
+
+Schedules 1, 3 and 4:
+1 July 2006
+Remainder: Royal
+Assent
+
+—
+
+58, 2006
+
+22 June
+2006
+
+s. 4, Schedules 1, 2,
+Schedule 3 (items 1–3,
+7), Schedule 4,
+Schedule 5 (items 1–3)
+and Schedule 7
+
+s. 4, Sch. 1 (item 3),
+Sch. 3 (item 7), Sch.
+4 (item 6), Sch. 5
+(item 3) and Sch. 7
+(items 55, 69, 92)
+
+Arrangements) Act
+2006
+Tax Laws Amendment
+(2006 Measures No. 2)
+Act 2006
+
+(items 51–113, 213–216,
+257–263): Royal Assent
+Sch 7 (items 179–188):
+1 July 2004 (s 2(1)
+item 15)
+Sch 7 (item 189): 5 July
+1999 (s 2(1) item 16)
+Sch 7 (item 190):
+30 June 2000 (s 2(1)
+item 17)
+Sch 7 (item 191): 24 Oct
+2002 (s 2(1) item 18)
+Sch 7 (item 192):
+30 June 2004 (s 2(1)
+item 19)
+Sch 7 (item 193): 22 Dec
+1999 (s 2(1) item 20)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+49
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2009
+Measures No. 6)
+Act 2010
+
+19, 2010
+
+24 Mar
+2010
+
+Sch 3 (item 3): 22 June
+2006 (s 2(1) item 6)
+Sch 3 (item 12): 24 Mar
+2010 (s 2(1) item 9)
+
+Sch. 3 (item 12)
+
+Electoral and
+Referendum
+Amendment (Electoral
+Integrity and Other
+Measures) Act 2006
+
+65, 2006
+
+22 June
+2006
+
+Schedule 4 (items 1–10,
+12): Royal Assent
+
+Sch. 4 (item 12)
+
+Fuel Tax
+(Consequential and
+Transitional
+Provisions) Act 2006
+
+73, 2006
+
+26 June
+2006
+
+Schedule 5 (items 5–38,
+156–159): 1 July 2006
+(see s. 2(1))
+
+—
+
+Tax Laws Amendment
+(2006 Measures No. 3)
+Act 2006
+
+80, 2006
+
+30 June
+2006
+
+Schedule 1 (items 2–4),
+Schedule 2, Schedule 4
+(items 1, 5–9, 14, 20,
+23–30), Schedule 5,
+Schedule 6 (items 3–7)
+
+Sch. 1 (item 4),
+Sch. 2, Sch. 3
+(item 5), Sch. 4
+(items 14, 30), Sch.
+5 (item 2) and
+
+and Schedule 11
+(items 1, 2, 4–24): Royal
+Assent
+Schedule 3 (items 2–5):
+30 June 2006 (s 2(1)
+item 3)
+
+Sch. 11 (items 23,
+24)
+s. 2(1) (item 10)
+(rep. by 12, 2012,
+Sch. 6 [item 8])
+
+Sch 6 (items 8, 9):
+30 June 2006 (s 2(1)
+item 8)
+
+—
+
+as amended by
+
+as amended by
+Tax Laws
+Amendment (2011
+Measures No. 9)
+Act 2012
+
+50
+Compilation No. 258
+
+12, 2012
+
+21 Mar
+2012
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Families, Community
+Services and
+Indigenous Affairs and
+Other Legislation
+(2006 Budget and
+
+82, 2006
+
+30 June
+2006
+
+Schedule 4 (items 6–9):
+1 Dec 2006
+
+—
+
+International Tax
+Agreements
+Amendment Act
+(No. 1) 2006
+
+100, 2006
+
+14 Sept
+2006
+
+14 Sept 2006
+
+Sch. 1 (item 11)
+
+Tax Laws Amendment
+(Repeal of Inoperative
+Provisions) Act 2006
+
+101, 2006
+
+14 Sept
+2006
+
+Schedules 3 and 4: 1 Jan
+2008
+Remainder: Royal
+Assent
+
+Sch. 6 (items 1, 4–
+11)
+
+Tax Laws
+Amendment (2006
+Measures No. 7)
+Act 2007
+
+55, 2007
+
+12 Apr
+2007
+
+Schedule 4 (item 5):
+Royal Assent
+
+—
+
+Tax Laws
+Amendment (2007
+Measures No. 2)
+Act 2007
+
+78, 2007
+
+21 June
+2007
+
+Schedule 5 (item 9):
+Royal Assent
+
+—
+
+Tax Laws
+Amendment (2009
+Measures No. 2)
+Act 2009
+
+42, 2009
+
+23 June
+2009
+
+Sch 5 (items 13, 14): 1
+Jan 2008 (s 2(1) item 11)
+
+—
+
+Statute Law
+Revision Act 2010
+
+8, 2010
+
+1 Mar 2010
+
+Sch 2 (item 29): 14 Sept
+2006 (s 2(1) item 25)
+
+—
+
+Other Measures) Act
+2006
+
+as amended by
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+51
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2011
+Measures No. 2)
+Act 2011
+
+41, 2011
+
+27 June
+2011
+
+Sch 5 (items 55, 56): 1
+Jan 2008 (s 2(1) item 16)
+
+Sch 5 (item 56)
+
+Australian Participants
+in British Nuclear
+Tests (Treatment)
+(Consequential
+Amendments and
+
+136, 2006
+
+30 Nov
+2006
+
+Schedules 1 and 2: 1 Dec
+2006 (see s. 2(1))
+Remainder: Royal
+Assent
+
+Sch. 2 (items 1–3)
+
+168, 2006
+
+12 Dec
+2006
+
+Schedule 3 (items 3–5):
+13 Dec 2005
+Remainder: Royal
+Assent
+
+s. 4, Sch. 1
+(items 10, 11), Sch.
+3 (item 2) and Sch. 4
+(item 112)
+
+Statute Law
+Revision Act 2010
+
+8, 2010
+
+1 Mar 2010
+
+Sch 2 (item 24): 1 Mar
+2010 (s 2(1) item 24)
+
+—
+
+Tax Laws Amendment
+(2006 Measures No. 6)
+Act 2007
+
+4, 2007
+
+19 Feb
+2007
+
+Schedule 1 and
+Schedule 2 (items 11–16,
+26): Royal Assent
+
+—
+
+Tax Laws Amendment
+(Simplified
+Superannuation) Act
+2007
+
+9, 2007
+
+15 Mar
+2007
+
+Schedule 1 (items 1, 2,
+5–17, 24(1)), Schedule 2
+(items 1, 2), Schedule 3,
+Schedule 5 (items 6–8,
+36(1)) and Schedule 10:
+
+Sch. 1 (items 2,
+24(1)), Sch. 2
+(item 2), Sch. 5
+(items 8, 36(1)) and
+Sch. 10 (item 96)
+
+Transitional
+Provisions) Act 2006
+Tax Laws Amendment
+(2006 Measures No. 4)
+Act 2006
+as amended by
+
+Royal Assent
+
+52
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Superannuation
+Legislation
+Amendment
+(Simplification) Act
+2007
+
+15, 2007
+
+15 Mar
+2007
+
+s 4, Sch 1 (items 150–
+236, 240, 242–260,
+406(1)–(3)), Sch 3
+(items 8–44, 66) and
+Sch 4 (items 1–8): 15
+
+s 4, Sch 1
+(item 406(1)–(3)),
+Sch 2 (item 12) and
+Sch 3 (item 66)
+
+Mar 2007 (s 2(1)
+items 1, 2, 6, 8, 9)
+Sch 2: 12 Apr 2007 (s
+2(1) item 3)
+as amended by
+Tax Laws
+Amendment (2007
+Measures No. 4)
+Act 2007
+
+143, 2007
+
+24 Sept
+2007
+
+Sch 5 (item 28): 24 Sept
+2007 (s 2(1) item 5)
+
+—
+
+Tax Laws
+Amendment (2009
+Measures No. 6)
+Act 2010
+
+19, 2010
+
+24 Mar
+2010
+
+Sch 3 (item 9): 15 Mar
+2007 (s 2(1) item 8)
+Sch 3 (item 12): 24 Mar
+2010 (s 2(1) item 9)
+
+Sch 3 (item 12)
+
+Acts and
+Instruments
+(Framework
+Reform)
+(Consequential
+
+126, 2015
+
+10 Sept
+2015
+
+Sch 1 (item 589): 5 Mar
+2016 (s 2(1) item 2)
+
+—
+
+32, 2007
+
+30 Mar
+2007
+
+Schedule 2 (item 52): 1
+Apr 2007 (see s. 2(1))
+Schedule 3 (items 7A, 8,
+9, 9A–9C): 1 July 2007
+
+Sch. 3 (item 9A)
+
+Provisions) Act
+2015
+Private Health
+Insurance
+(Transitional
+Provisions and
+Consequential
+Amendments) Act
+2007
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+53
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2006 Measures No. 7)
+Act 2007
+
+55, 2007
+
+12 Apr
+2007
+
+12 Apr 2007
+
+Sch. 1 (item 68(1)),
+Sch. 5 (item 2) and
+Sch. 7 (item 5)
+
+Tax Laws Amendment
+(2007 Measures No. 1)
+Act 2007
+
+56, 2007
+
+12 Apr
+2007
+
+12 Apr 2007
+
+Sch. 3 (item 39)
+
+Social Security and
+Veterans’ Affairs
+Legislation
+Amendment (One-off
+Payments and Other
+
+66, 2007
+
+11 May
+2007
+
+Schedule 1 (items 17–
+26) and Schedule 3
+(items 13–16): Royal
+Assent
+
+—
+
+78, 2007
+
+21 June
+2007
+
+Schedule 7 (items 2–14):
+1 July 2005
+Schedule 8 (items 350–
+353): 19 Dec 2002 (s
+2(1) item 7)
+
+s. 4, Sch. 1 (item 7),
+Sch. 2 (item 18),
+Sch. 4 (item 10),
+Sch. 6 (item 10),
+Sch. 7 (items 15, 16)
+
+Remainder: Royal
+Assent
+
+and Sch. 8
+(items 85, 205)
+
+Schedule 1 (items 28, 29,
+39–42, 43(1), (6)),
+Schedules 3, 4,
+Schedule 6 (items 3–8),
+Schedule 9 (items 14–26,
+
+Sch. 1 (item 43(1),
+(6)), Sch. 3 (items 3,
+4), Sch. 4 (items 4,
+5), Sch. 6 (item 8),
+Sch. 8 (item 26(1)–
+
+30, 34) and Schedule 10
+(items 10–13, 32): Royal
+Assent
+Schedule 8 (items 2, 12–
+25, 26(1)–(3)): 1 July
+2007
+
+(3)), Sch. 9
+(items 30, 34) and
+Sch. 10 (item 32)
+
+2007 Budget
+Measures) Act 2007
+Tax Laws Amendment
+(2007 Measures No. 2)
+Act 2007
+
+Tax Laws Amendment
+(2007 Measures No. 3)
+Act 2007
+
+54
+Compilation No. 258
+
+79, 2007
+
+21 June
+2007
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(Small Business) Act
+2007
+
+80, 2007
+
+21 June
+2007
+
+21 June 2007
+
+Sch. 1 (item 8),
+Sch. 2 (item 67(2),
+(3)), Sch. 3
+(item 176), Sch. 4
+(item 31(1)), Sch. 7
+(item 2) and Sch. 8
+(item 9)
+
+as amended by
+Statute Law
+Revision Act 2010
+
+8, 2010
+
+1 Mar 2010
+
+Sch 2 (items 30, 31):
+21 June 2007 (s 2(1)
+items 26, 27)
+
+—
+
+82, 2007
+
+21 June
+2007
+
+Schedule 6 (items 39,
+40): 1 July 2007
+
+—
+
+Veterans’ Affairs
+Legislation
+Amendment (2007
+Measures No. 1) Act
+2007
+
+89, 2007
+
+21 June
+2007
+
+Schedule 5: 1 July 2007
+
+—
+
+Families, Community
+Services and
+Indigenous Affairs
+Legislation
+Amendment (Child
+
+113, 2007
+
+28 June
+2007
+
+Schedule 1 (items 20–
+22): 1 July 2007
+
+—
+
+Families, Community
+Services and
+Indigenous Affairs
+Legislation
+Amendment (Child
+Support Reform
+Consolidation and
+Other Measures) Act
+2007
+
+Care and Other 2007
+Budget Measures) Act
+2007
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+55
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Social Security
+Amendment
+(Apprenticeship Wage
+Top-Up for Australian
+Apprentices) Act 2007
+
+114, 2007
+
+28 June
+2007
+
+Schedule 1: 1 July 2007
+Remainder: Royal
+Assent
+
+Sch. 1 (item 3)
+
+Financial Sector
+Legislation
+Amendment
+(Restructures) Act
+2007
+
+117, 2007
+
+28 June
+2007
+
+28 June 2007
+
+Sch. 2 (item 4) and
+Sch. 3 (item 24)
+
+Tax Laws Amendment
+(2007 Measures No. 4)
+Act 2007
+
+143, 2007
+
+24 Sept
+2007
+
+Schedule 1 (items 1, 4,
+128–194, 222, 223, 225,
+226), Schedule 2,
+Schedule 5 (items 1–16,
+48(1)–(3)), Schedule 6
+
+Sch. 1 (items 222,
+223, 225, 226),
+Sch. 2 (item 6),
+Sch. 5 (item 48(1)–
+(3)) and Sch. 7
+
+and Schedule 7
+(items 18–68): Royal
+Assent
+Schedule 5 (items 31–
+46): 15 Mar 2007 (s 2(1)
+item 6)
+
+(items 22, 38)
+
+International Trade
+Integrity Act 2007
+
+147, 2007
+
+24 Sept
+2007
+
+Schedule 2 (items 5–9):
+25 Sept 2007
+
+Sch. 2 (item 9)
+
+Financial Sector
+Legislation
+Amendment
+(Simplifying
+Regulation and
+
+154, 2007
+
+24 Sept
+2007
+
+Schedule 1 (items 173–
+176): 1 Jan 2008
+Schedule 1 (item 296):
+Royal Assent
+
+Sch. 1 (item 296)
+
+161, 2007
+
+24 Sept
+2007
+
+Schedule 1: 25 Sept
+2007 (see s. 2(1))
+Remainder: Royal
+Assent
+
+—
+
+Review) Act 2007
+Higher Education
+Endowment Fund
+(Consequential
+Amendments) Act
+2007
+
+56
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2007 Measures No. 5)
+Act 2007
+
+164, 2007
+
+25 Sept
+2007
+
+s. 4, Schedule 1
+(items 1–24, 36–67, 71),
+Schedules 2–6,
+Schedule 7 (items 1–3,
+5–12, 14), Schedule 8
+
+s. 4, Sch. 1
+(item 71), Sch. 2
+(item 2), Sch. 3
+(item 11), Sch. 4
+(item 7), Sch. 5
+
+(items 6–13), Schedule 9
+and Schedule 10
+(items 1, 7–25, 91, 92):
+Royal Assent
+Schedule 10 (items 57–
+88): 1 July 2010
+Sch 12 (items 72–87):
+27 Sept 2007 (s 2(1)
+item 9)
+
+(item 3), Sch. 6
+(item 68), Sch 7
+(item 14), Sch. 8
+(item 13), Sch. 9
+(item 3) and Sch. 10
+(items 91, 92)
+
+as amended by
+Tax Laws
+Amendment (2009
+Measures No. 4)
+Act 2009
+Families, Community
+Services and
+Indigenous Affairs
+Legislation
+Amendment (Child
+
+88, 2009
+
+18 Sept
+2009
+
+Schedule 5 (item 343):
+Royal Assent
+
+—
+
+182, 2007
+
+28 Sept
+2007
+
+Schedule 1: 1 Oct 2007
+Remainder: Royal
+Assent
+
+—
+
+183, 2007
+
+28 Sept
+2007
+
+1 Jan 2008
+
+—
+
+Disability Assistance)
+Act 2007
+Families, Community
+Services and
+Indigenous Affairs
+Legislation
+Amendment (Further
+2007 Budget
+Measures) Act 2007
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+57
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Social Security
+Legislation
+Amendment (2007
+Budget Measures for
+Students) Act 2007
+
+184, 2007
+
+28 Sept
+2007
+
+Schedule 3: 1 Jan 2008
+
+Sch. 3 (item 10)
+
+Workplace Relations
+Amendment
+(Transition to Forward
+with Fairness) Act
+2008
+
+8, 2008
+
+20 Mar
+2008
+
+Sch 1 (item 271): 28 Mar
+2008 (s 2(1) item 2)
+
+—
+
+Screen Australia and
+the National Film and
+Sound Archive
+(Consequential and
+Transitional
+
+13, 2008
+
+20 Mar
+2008
+
+Sch 1 (items 3, 4): 1 July
+2008 (s 2(1) item 2)
+
+—
+
+19, 2008
+
+26 May
+2008
+
+Schedule 1 (items 17–
+25) and Schedule 3
+(items 14–32): Royal
+Assent
+
+—
+
+32, 2008
+
+23 June
+2008
+
+23 June 2008
+
+Sch. 1 (item 58) and
+Sch. 2 (item 3)
+
+Provisions) Act 2008
+Social Security and
+Veterans’ Entitlements
+Legislation
+Amendment (One-off
+Payments and Other
+Budget Measures) Act
+2008
+Tax Laws Amendment
+(Election
+Commitments No. 1)
+Act 2008
+
+58
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2008 Measures No. 2)
+Act 2008
+
+38, 2008
+
+24 June
+2008
+
+Schedule 1,
+Schedules 3–6,
+Schedule 7 (items 1–3,
+5), Schedule 8 (items 1–
+11), Schedule 9
+
+Sch. 1 (item 19),
+Sch. 3 (item 3),
+Sch. 4 (item 5),
+Sch. 5 (item 4),
+Sch. 7 (item 5),
+
+(items 2–4),
+Schedule 10,
+Schedule 12 and
+Schedule 13: 24 June
+2008
+Schedule 8 (items 12–
+21): 1 July 2012
+
+Sch. 8 (items 11,
+21), Sch. 9 (item 4),
+Sch. 10 (item 5),
+Sch. 12 (item 2) and
+Sch. 13 (item 3)
+
+First Home Saver
+Accounts
+(Consequential
+Amendments) Act
+2008
+
+45, 2008
+
+25 June
+2008
+
+26 June 2008
+
+—
+
+Veterans’ Entitlements
+Legislation
+Amendment (2007
+Election
+Commitments) Act
+
+48, 2008
+
+25 June
+2008
+
+Schedule 3 (items 1, 2,
+16(1)): 1 July 2008
+
+Sch. 3 (item 16(1))
+
+59, 2008
+
+30 June
+2008
+
+30 June 2008
+
+Sch. 1 (items 9, 15)
+and Sch. 2 (item 2)
+
+14, 2009
+
+26 Mar
+2009
+
+Schedule 4 (item 51):
+Royal Assent
+
+—
+
+2008
+Tax Laws Amendment
+(Budget Measures)
+Act 2008
+as amended by
+Tax Laws
+Amendment (2008
+Measures No. 6)
+Act 2009
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+59
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Social Security and
+Other Legislation
+Amendment
+(Employment Entry
+Payment) Act 2008
+
+64, 2008
+
+30 June
+2008
+
+1 July 2008
+
+Sch. 1 (item 11(1))
+
+Tax Laws Amendment
+(2008 Measures No. 3)
+Act 2008
+
+91, 2008
+
+20 Sept
+2008
+
+Schedule 1: Royal
+Assent
+
+Sch. 1 (item 9)
+
+First Home Saver
+Accounts (Further
+Provisions)
+Amendment Act 2008
+
+92, 2008
+
+30 Sept
+2008
+
+Schedule 1 (items 10–22,
+26): 1 Oct 2008
+
+Sch. 1 (item 26)
+
+Tax Laws Amendment
+(2008 Measures No. 4)
+Act 2008
+
+97, 2008
+
+3 Oct 2008
+
+Sch 1 (items 3–12) and
+Sch 3 (items 44–173,
+189): 3 Oct 2008 (s 2(1)
+items 2, 3–5)
+
+Sch 1 (item 12) and
+Sch 3 (items 147,
+155)
+
+Family Law
+Amendment
+(De Facto Financial
+Matters and Other
+Measures) Act 2008
+
+115, 2008
+
+21 Nov
+2008
+
+Sch 2 (items 34–41):
+1 Mar 2009 (s 2(1)
+item 5)
+
+—
+
+Dairy Adjustment
+Levy Termination Act
+2008
+
+123, 2008
+
+25 Nov
+2008
+
+Schedule 3 (items 1, 2):
+26 Nov 2008
+
+Sch. 3 (item 2)
+
+National Rental
+Affordability Scheme
+(Consequential
+Amendments) Act
+2008
+
+130, 2008
+
+28 Nov
+2008
+
+1 July 2008
+
+Sch. 1 (item 14)
+
+60
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Social Security and
+Other Legislation
+Amendment
+(Economic Security
+Strategy) Act 2008
+
+131, 2008
+
+1 Dec 2008
+
+Schedule 5 (items 3–12):
+Royal Assent
+
+—
+
+Tax Laws Amendment
+(Education Refund)
+Act 2008
+
+141, 2008
+
+9 Dec 2008
+
+Schedule 1 (items 2–5,
+10): Royal Assent
+
+Sch. 1 (item 10)
+
+Same-Sex
+Relationships (Equal
+Treatment in
+Commonwealth
+Laws—General Law
+
+144, 2008
+
+9 Dec 2008
+
+Schedule 14 (items 59–
+96): 10 Dec 2008
+
+Sch. 14 (item 96)
+
+Tax Laws Amendment
+(2008 Measures No. 5)
+Act 2008
+
+145, 2008
+
+9 Dec 2008
+
+Schedule 2: Royal
+Assent
+
+Sch. 2 (item 9)
+
+Temporary Residents’
+Superannuation
+Legislation
+Amendment Act 2008
+
+151, 2008
+
+11 Dec
+2008
+
+Sch 1 (items 27–37):
+18 Dec 2008 (s 2(1)
+item 2)
+
+—
+
+Nation-building Funds
+(Consequential
+Amendments) Act
+2008
+
+155, 2008
+
+18 Dec
+2008
+
+Schedule 2 (items 45–
+47) and Schedule 3
+(item 8): 1 Jan 2009 (see
+s. 2(1))
+
+Sch. 3 (item 8)
+
+Household Stimulus
+Package Act (No. 2)
+2009
+
+4, 2009
+
+18 Feb
+2009
+
+Schedule 4 and
+Schedule 5 (items 6–14):
+Royal Assent
+
+Sch. 4
+
+Tax Bonus for
+Working Australians
+(Consequential
+Amendments) Act
+(No. 2) 2009
+
+6, 2009
+
+18 Feb
+2009
+
+Schedule 1 (items 2, 3):
+18 Feb 2009 (see s. 2(1))
+
+—
+
+Reform) Act 2008
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+61
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2008 Measures No. 6)
+Act 2009
+
+14, 2009
+
+26 Mar
+2009
+
+Schedule 1, Schedule 4
+(items 11–34, 52) and
+Schedule 5 (items 7–13):
+Royal Assent
+Schedule 5 (items 2, 3,
+
+Sch. 1 (item 6), Sch.
+4 (items 17, 25) and
+Sch. 5 (item 14)
+
+14): 29 Jan 2009
+Schedule 5 (items 5, 6):
+1 July 2011
+as amended by
+Tax Laws
+Amendment (2009
+Measures No. 2)
+Act 2009
+
+62
+Compilation No. 258
+
+42, 2009
+
+23 June
+2009
+
+Sch 2 (item 40): 26 Mar
+2009 (s 2(1) item 5)
+
+—
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(Taxation of Financial
+Arrangements) Act
+2009
+
+15, 2009
+
+26 Mar
+2009
+
+Sch 1 (items 1–30, 52–
+97, 102–105): 26 Mar
+2009 (s 2(1) item 2)
+Sch 1 (items 106–112,
+114): 17 Dec 2003 (s
+
+Sch. 1 (items 102,
+103, 104(1)–(4), (6),
+(8)–(13), (16)–(19),
+105(2), 114)
+Sch. 1 (item 104(5))
+
+2(1) item 3)
+
+(am. by 147, 2011,
+Sch. 4 [item 1])
+Sch. 1 (item 104(7))
+(am. by 136, 2010,
+Sch. 3 [item 133])
+Sch. 1
+(item 104(7A)) (ad.
+by 136, 2010, Sch. 3
+[item 134])
+Sch. 1
+(item 104(14)) (am.
+by 85, 2013, Sch. 8
+[items 49–51])
+Sch. 1
+(item 104(15)) (am.
+by 85, 2013, Sch. 8
+[items 52–54])
+Sch. 1 (item 104A)
+(ad. by 147, 2011,
+Sch. 4 [item 2])
+Sch. 1 (items 104B,
+104C) (ad. by 99,
+2012, Sch. 2
+[item 5])
+Sch. 1 (item 105(1))
+(am. by 147, 2011,
+Sch. 4 [item 3])
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+63
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2010
+Measures No. 4)
+Act 2010
+
+136, 2010
+
+7 Dec 2010
+
+Sch 3 (items 133, 134):
+26 Mar 2009 (s 2(1)
+item 8)
+
+—
+
+Tax Laws
+Amendment (2011
+Measures No. 7)
+Act 2011
+
+147, 2011
+
+29 Nov
+2011
+
+Schedule 4: 30 Nov 2011
+
+Sch. 4 (item 4)
+
+Tax Laws
+Amendment (2012
+Measures No. 2)
+Act 2012
+
+99, 2012
+
+29 June
+2012
+
+Sch 2 (item 5): 26 Mar
+2009 (s 2(1) item 6)
+
+—
+
+Tax and
+Superannuation
+Laws Amendment
+(2013 Measures
+No. 2) Act 2013
+
+85, 2013
+
+28 June
+2013
+
+Sch 8 (items 49–54): 26
+Mar 2009 (s 2(1)
+item 11)
+
+—
+
+Social Security
+Amendment (Liquid
+Assets Waiting
+Period) Act 2009
+
+25, 2009
+
+26 Mar
+2009
+
+Sch 1 (items 8–10): 18
+Feb 2009 (s 2(1) item 3)
+
+—
+
+Tax Laws Amendment
+(2009 Measures No. 1)
+Act 2009
+
+27, 2009
+
+26 Mar
+2009
+
+Schedule 2 (items 43–
+52) and Schedule 3
+(items 6–10, 44–47,
+102(1)): 27 Mar 2009
+
+Sch. 3 (item 102(1))
+
+Tax Laws Amendment
+(Small Business and
+General Business Tax
+Break) Act 2009
+
+31, 2009
+
+22 May
+2009
+
+22 May 2009
+
+—
+
+as amended by
+
+64
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Social Security and
+Family Assistance
+Legislation
+Amendment (2009
+Budget Measures) Act
+
+35, 2009
+
+27 May
+2009
+
+Schedule 1 (items 13–
+15): Royal Assent
+
+—
+
+42, 2009
+
+23 June
+2009
+
+Schedule 1 (items 17–
+26), Schedule 2
+(items 2–16, 19–39, 41–
+48), Schedule 4
+(items 2–12), Schedule 5
+
+Sch. 1 (item 22),
+Sch. 2 (items 41–
+48), Sch. 3 (item 2),
+Sch. 5 (item 15) and
+Sch. 8 (item 5)
+
+2009
+Tax Laws Amendment
+(2009 Measures No. 2)
+Act 2009
+
+(items 1–12, 15) and
+Schedule 8 (items 1, 2,
+5): Royal Assent
+Sch 2 (item 1): 21 June
+2007 (s 2(1) item 3)
+Schedule 3: 1 July 2009
+Schedule 8 (items 3, 4):
+1 July 2011
+as amended by
+Tax Laws
+Amendment (2011
+Measures No. 1)
+Act 2011
+
+31, 2011
+
+25 May
+2011
+
+Schedule 2 (item 3):
+Royal Assent
+
+—
+
+Tax Laws
+Amendment (2012
+Measures No. 6)
+Act 2013
+
+84, 2013
+
+28 June
+2013
+
+Schedule 8 (item 38):
+Royal Assent
+
+—
+
+Tax Laws Amendment
+(2009 Measures No. 3)
+Act 2009
+
+47, 2009
+
+24 June
+2009
+
+Schedule 2 (item 1) and
+Schedule 4: Royal
+Assent
+
+Sch. 4 (item 7)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+65
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Family Assistance
+Legislation
+Amendment (Child
+Care) Act 2009
+
+50, 2009
+
+24 June
+2009
+
+Schedule 1 (items 15, 40,
+41): Royal Assent
+
+—
+
+Social Security and
+Other Legislation
+Amendment
+(Australian
+Apprentices) Act 2009
+
+52, 2009
+
+24 June
+2009
+
+Schedule 1 (items 1–3):
+1 July 2009
+
+Sch. 1 (item 3)
+
+Fair Work (State
+Referral and
+Consequential and
+Other Amendments)
+Act 2009
+
+54, 2009
+
+25 June
+2009
+
+Sch 18 (items 6–9):
+1 July 2009 (s 2(1)
+item 41)
+
+—
+
+Social Security and
+Other Legislation
+Amendment (Pension
+Reform and Other
+2009 Budget
+
+60, 2009
+
+29 June
+2009
+
+Schedule 4 (items 35–
+40): 20 Sept 2009
+
+—
+
+Tax Laws Amendment
+(2009 Budget
+Measures No. 1) Act
+2009
+
+62, 2009
+
+29 June
+2009
+
+Schedule 3 (items 1–10):
+Royal Assent
+
+—
+
+Financial Sector
+Legislation
+Amendment
+(Enhancing
+Supervision and
+
+75, 2009
+
+27 Aug
+2009
+
+Schedule 1 (item 208):
+27 Feb 2010
+
+—
+
+Measures) Act 2009
+
+Enforcement) Act
+2009
+
+66
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Veterans’ Affairs
+Legislation
+Amendment (Budget
+Measures) Act 2009
+
+80, 2009
+
+10 Sept
+2009
+
+Schedule 1 (items 13,
+14): 11 Sept 2009
+
+—
+
+Veterans’ Affairs and
+Other Legislation
+Amendment (Pension
+Reform) Act 2009
+
+81, 2009
+
+10 Sept
+2009
+
+Schedule 4 (items 54–67,
+209(3), 210(3), 211(3),
+212(2), 214(4), 215(1)):
+20 Sept 2009
+
+Sch. 4 (items 209(3),
+210(3), 211(3),
+212(2), 214(4),
+215(1))
+
+Tax Laws Amendment
+(2009 Measures No. 4)
+Act 2009
+
+88, 2009
+
+18 Sept
+2009
+
+s. 4, Schedule 3 (items 1,
+5–23), Schedule 4
+(items 2–5) and
+Schedule 5 (items 113–
+204, 237, 238, 258, 282,
+
+s. 4, Sch. 2
+(items 25–27, 30,
+31), Sch. 3
+(item 23), Sch. 4
+(item 5) and Sch. 5
+
+319–341, 344): 18 Sept
+2009
+Schedule 2 (items 4–15,
+25–27, 30, 31): 1 Oct
+2009
+Schedule 2 (item 23): 1
+Jan 2010
+
+(items 282, 336,
+338, 344)
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 1)
+Act 2010
+Tax Agent Services
+(Transitional
+Provisions and
+Consequential
+Amendments) Act
+
+56, 2010
+
+3 June 2010
+
+Sch 6 (items 112, 113):
+18 Sept 2009 (s 2(1)
+items 21, 22)
+
+—
+
+114, 2009
+
+16 Nov
+2009
+
+Sch 1 (items 8–12) and
+Sch 2: 1 Mar 2010 (s
+2(1) items 2, 4)
+
+Sch 2
+
+2009
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+67
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2009 Measures No. 5)
+Act 2009
+
+118, 2009
+
+4 Dec 2009
+
+Sch 3 and Sch 6 (item 5):
+4 Dec 2009 (s 2(1)
+items 7, 11)
+Sch 4: 1 July 2010 (s
+2(1) item 8)
+
+Sch 3 (item 3) and
+Sch 4 (item 3)
+
+Sch 6 (item 6): never
+commenced (s 2(1)
+item 12)
+Sch 6 (item 7): 30 June
+2016 (s 2(1) item 12)
+as amended by
+Australian Charities
+and Not-for-profits
+Commission
+(Consequential and
+Transitional) Act
+
+169, 2012
+
+3 Dec 2012
+
+Sch 2 (item 24): 3 Dec
+2012 (s 2(1) item 3)
+
+—
+
+Tax Laws Amendment
+(Resale Royalty Right
+for Visual Artists) Act
+2009
+
+126, 2009
+
+9 Dec 2009
+
+Schedule 1 (items 1–17,
+20): 9 June 2010 (see s.
+2(1))
+
+Sch. 1 (items 9, 20)
+
+Tax Laws Amendment
+(2009 Budget
+Measures No. 2) Act
+2009
+
+133, 2009
+
+14 Dec
+2009
+
+Schedule 1 (items 1, 21–
+76, 86, 87): 14 Dec 2009
+Schedule 2 (items 1–13,
+15) and Schedule 3
+(items 28–40, 44, 45):
+
+Sch. 1 (items 86,
+87), Sch. 2 (item 15)
+and Sch. 3
+(items 44, 45)
+
+2012
+
+Royal Assent
+as amended by
+Tax and
+Superannuation
+Laws Amendment
+(2014 Measures
+No. 4) Act 2014
+
+68
+Compilation No. 258
+
+110, 2014
+
+16 Oct
+2014
+
+Sch 5 (item 146): 14 Dec
+2009 (s.2(1) item 11)
+
+—
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Statute Law Revision
+Act 2010
+
+8, 2010
+
+1 Mar 2010
+
+Sch 1 (item 33) and
+Sch 5 (item 137(a)): 1
+Mar 2010 (s 2(1)
+items 4, 38)
+
+—
+
+International Tax
+Agreements
+Amendment Act
+(No. 1) 2010
+
+13, 2010
+
+11 Mar
+2010
+
+Schedule 1 (items 1, 2):
+Royal Assent
+
+Sch. 1 (item 2)
+
+Tax Laws Amendment
+(Political
+Contributions and
+Gifts) Act 2010
+
+16, 2010
+
+15 Mar
+2010
+
+15 Mar 2010
+
+Sch. 1 (item 21)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+69
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2009 Measures No. 6)
+Act 2010
+
+19, 2010
+
+24 Mar
+2010
+
+Sch 1 (items 1–13, 16–
+20), Sch 3 (items 11, 12),
+Sch 4 (items 3–6) and
+Sch 5 (item 6): 24 Mar
+2010 (s 2(1) items 2, 9,
+
+Sch 1 (items 3, 11–
+13), Sch 2 (items 11,
+22–26), Sch 3
+(items 11, 12), Sch 4
+(item 6) and Sch 5
+
+11, 14)
+Sch 2 (items 1–11): 25
+Mar 2010 (s 2(1) item 3)
+Sch 2 (items 12–
+26):repealed before
+commencing (s 2(1)
+item 4)
+Sch 3 (items 1, 2):
+30 June 2000 (s 2(1)
+item 5)
+Sch 3 (items 4–8): 15
+Mar 2007 (s 2(1) item 7)
+Sch 4 (items 1, 2):
+4 June 2009 (s 2(1)
+item 10)
+Sch 5 (items 2, 3): 25
+Feb 2009 (s 2(1)
+item 12)
+Sch 5 (items 4, 5): 1 July
+2011 (s 2(1) item 13)
+
+(item 6)
+
+Schedule 4 (item 18):
+17 Nov 2010
+
+—
+
+as amended by
+Superannuation
+Legislation
+Amendment Act
+2010
+
+70
+Compilation No. 258
+
+117, 2010
+
+16 Nov
+2010
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Acts Interpretation
+Amendment Act
+2011
+
+46, 2011
+
+27 June
+2011
+
+Schedule 2 (items 1112,
+1113) and Schedule 3
+(items 10, 11): 27 Dec
+2011
+
+Sch. 3 (items 10, 11)
+
+Tax Laws
+Amendment (2011
+Measures No. 7)
+Act 2011
+
+147, 2011
+
+29 Nov
+2011
+
+Schedule 6 (items 2–6):
+Royal Assent
+
+Sch. 6 (item 6)
+
+Superannuation
+Laws Amendment
+(Capital Gains Tax
+Relief and Other
+Efficiency
+
+158, 2012
+
+28 Nov
+2012
+
+Schedule 1 (items 3, 4):
+Royal Assent
+
+—
+
+Treasury Laws
+Amendment (2018
+Measures No. 1)
+Act 2018
+
+23, 2018
+
+29 Mar
+2018
+
+Sch 2 (items 4–6): 1 Apr
+2018 (s 2(1) item 10)
+
+Sch 2 (item 6)
+
+Treasury Laws
+Amendment (2020
+Measures No. 1)
+Act 2020
+
+49, 2020
+
+25 May
+2020
+
+Sch 2 (items 3–7): 1 July
+2020 (s 2(1) item 1)
+
+Sch 2 (item 7)
+
+Tax Laws Amendment
+(2009 GST
+Administration
+Measures) Act 2010
+
+20, 2010
+
+24 Mar
+2010
+
+Schedule 1 (items 14,
+19): Royal Assent
+
+Sch. 1 (item 19)
+
+Measures) Act 2012
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+71
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2010 Measures No. 1)
+Act 2010
+
+56, 2010
+
+3 June 2010
+
+s. 4, Schedule 3
+(items 2–7, 10(1)–(4)),
+Schedule 4, Schedule 5
+(items 1–3, 3A, 3B, 4–
+53, 55–72, 78–110, 112–
+
+s. 4, Sch. 2 (item 4),
+Sch. 3 (item 10(1)–
+(4)), Sch. 4 (item 9),
+Sch. 5 (items 7, 8,
+17, 35, 37, 38, 55,
+
+129, 131–136, 141–146,
+146A, 147, 148, 148A,
+149, 150, 150A–150F,
+151–188, 193–220) and
+Schedule 6 (items 1–11,
+19–26, 56, 57, 115, 127–
+155): 3 June 2010
+Schedule 2 (items 2, 4):
+4 June 2010
+Sch 5 (item 111): 26 Mar
+2009 (s 2(1) item 11B)
+
+57, 78, 87, 89, 113,
+117, 119, 126, 131,
+134, 136, 152, 154,
+193, 197, 202, 220)
+and Sch. 6 (items 6,
+8, 20, 23, 26, 130,
+132, 134, 146, 149)
+
+as amended by
+Tax Laws
+Amendment (2010
+Measures No. 4)
+Act 2010
+
+136, 2010
+
+7 Dec 2010
+
+Sch 3 (item 132): 3 June
+2010 (s 2(1) item 7)
+
+—
+
+Tax Laws
+Amendment (2011
+Measures No. 2)
+Act 2011
+
+41, 2011
+
+27 June
+2011
+
+Sch 5 (items 368–371):
+3 June 2010 (s 2(1)
+items 18–21)
+
+—
+
+Tax Laws Amendment
+(2010 GST
+Administration
+Measures No. 2) Act
+2010
+
+74, 2010
+
+28 June
+2010
+
+Schedule 2 (items 7–12):
+1 July 2010
+
+—
+
+72
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2010 Measures No. 2)
+Act 2010
+
+75, 2010
+
+28 June
+2010
+
+Sch 1 (items 34, 35) and
+Sch 6 (items 7–10):
+29 June 2010 (s 2(1)
+items 2, 9)
+Sch 2 (item 26): 1 July
+
+Sch. 1 (item 35),
+Sch. 3 (item 4) and
+Sch. 4 (item 5)
+
+2010 (s 2(1) item 4)
+Sch 2 (item 27): never
+commenced (s 2(1)
+item 5)
+Sch 3, Sch 4 and Sch 5
+(items 1, 7–9): 28 June
+2010 (s 2(1) items 6, 7)
+Sch 5 (items 10, 11): 1
+Jan 2018 (s 2(1) item 8)
+as amended by
+Australian Charities
+and Not-for-profits
+Commission
+(Consequential and
+Transitional) Act
+
+169, 2012
+
+3 Dec 2012
+
+Schedule 2 (item 41):
+3 Dec 2012 (see s. 2(1))
+
+—
+
+79, 2010
+
+29 June
+2010
+
+Sch 1 (items 3–5, 27–
+32), Sch 2 (items 2–8,
+17–45), Sch 3 (items 2–
+59), Sch 4 (items 2–6,
+38–46, 51) and Sch 5
+
+Sch 4 (item 51) and
+Sch 5 (item 13)
+
+2012
+Tax Laws Amendment
+(Transfer of
+Provisions) Act 2010
+
+(items 2, 6–13): 1 July
+2010 (s 2(1) items 2–4)
+Tax Laws Amendment
+(2010 Measures No. 3)
+Act 2010
+
+90, 2010
+
+29 June
+2010
+
+Sch 2, Sch 4 (items 5–8)
+and Sch 5 (items 1–3, 6–
+8): 29 June 2010 (s 2(1)
+item 3)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+Sch 2 (item 9), Sch
+4 (item 8) and Sch 5
+(items 6–8)
+
+73
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2011
+Measures No. 9)
+Act 2012
+
+12, 2012
+
+21 Mar
+2012
+
+Sch 6 (item 190): 21 Mar
+2012 (s 2(1) item 31)
+
+—
+
+Tax Laws
+Amendment (New
+Tax System for
+Managed
+Investment Trusts)
+
+53, 2016
+
+5 May 2016
+
+Sch 6 (item 69) and Sch
+8 (item 1): 5 May 2016
+(s 2(1) items 2, 4)
+
+Sch 8 (item 1)
+
+Treasury Laws
+Amendment
+(2018 Measures
+No. 5) Act 2019
+
+15, 2019
+
+12 Mar
+2019
+
+Sch 1 (items 43–46): 1
+Apr 2019 (s 2(1) item 2)
+
+Sch 1 (item 46)
+
+Social Security and
+Other Legislation
+Amendment (Welfare
+Reform and
+Reinstatement of
+
+93, 2010
+
+29 June
+2010
+
+Schedule 2 (items 54–
+57): 1 July 2010
+
+—
+
+Paid Parental Leave
+(Consequential
+Amendments) Act
+2010
+
+105, 2010
+
+14 July
+2010
+
+Schedule 1 (item 53) and
+Schedule 2 (items 1, 2):
+1 Oct 2010 (see s. 2(1))
+
+Sch. 2 (items 1, 2)
+
+Tax Laws Amendment
+(Foreign Source
+Income Deferral) Act
+(No. 1) 2010
+
+114, 2010
+
+14 July
+2010
+
+Schedule 1 (items 40–86,
+93(1), 95): Royal Assent
+
+Sch. 1 (items 93(1),
+95)
+
+as amended by
+
+Act 2016
+as amended by
+
+Racial Discrimination
+Act) Act 2010
+
+74
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Superannuation
+Legislation
+Amendment Act 2010
+
+117, 2010
+
+16 Nov
+2010
+
+Sch 1 (items 15–20,
+21(2)) and Sch 4
+(items 1–17, 19–24, 26–
+29, 31, 32): 17 Nov 2010
+(s 2(1) items 2, 6)
+
+Sch. 1 (item 21(2))
+and Sch. 4
+(items 31, 32)
+
+Sch 2 (items 2, 3): 1 Dec
+2010 (s 2(1) item 3)
+Sch 2 (item 6): 1 Jan
+2017 (s 2(1) item 4)
+Tax Laws Amendment
+(2010 Measures No. 4)
+Act 2010
+
+136, 2010
+
+7 Dec 2010
+
+s. 4, Schedule 2,
+Schedule 3 (items 95,
+135–149), Schedule 4,
+Schedule 6 (items 2–4, 6,
+7) and Schedule 7
+
+s. 4, Sch. 2 (items 9–
+12), Sch. 3
+(items 135, 149),
+Sch. 4 (item 5) and
+Sch. 7 (item 4)
+
+(items 1, 2, 4): Royal
+Assent
+Sch 3 (items 3–94, 96–
+130): 26 Mar 2009 (s
+2(1) items 3, 5)
+Sch 3 (item 131): 1 July
+2010 (s 2(1) item 6)
+Sch 6 (items 1, 5): 1 Apr
+2010 (s 2(1) items 11,
+13)
+Tax Laws Amendment
+(Confidentiality of
+Taxpayer Information)
+Act 2010
+
+145, 2010
+
+16 Dec
+2010
+
+Schedule 2 (items 34–
+51) and Schedule 3
+(items 7–15): 17 Dec
+2010
+
+—
+
+Tax Laws Amendment
+(Temporary Flood and
+Cyclone
+Reconstruction Levy)
+Act 2011
+
+16, 2011
+
+12 Apr
+2011
+
+Sch 1 (items 1, 2):
+12 Apr 2011 (s 2(1)
+item 2)
+Sch 2 (items 1, 2): 1 July
+2016 (s 2(1) item 3)
+
+—
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+75
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2011 Measures No. 1)
+Act 2011
+
+31, 2011
+
+25 May
+2011
+
+Schedule 1 (items 1, 2)
+and Schedule 2 (items 1,
+2): 25 May 2011 (s 2(1)
+items 2, 4)
+Schedule 1 (item 4) and
+
+Sch. 3 (item 36)
+
+Schedule 2 (items 4, 5):
+1 July 2014 (s 2(1)
+items 3, 5)
+Schedule 3 (items 32–
+36): 26 May 2011 (s 2(1)
+item 6)
+as amended by
+Tax and
+Superannuation
+Laws Amendment
+(2013 Measures
+No. 2) Act 2013
+
+85, 2013
+
+28 June
+2013
+
+Schedule 2 (item 4):
+Royal Assent
+
+—
+
+Human Services
+Legislation
+Amendment Act 2011
+
+32, 2011
+
+25 May
+2011
+
+Schedule 4 (item 285):
+1 July 2011
+
+—
+
+Tax Laws Amendment
+(2011 Measures No. 2)
+Act 2011
+
+41, 2011
+
+27 June
+2011
+
+Schedule 1 (items 1–3):
+1 Jan 2011
+Schedule 1 (items 4–6)
+and Schedule 5
+(items 25–29, 33, 36–50,
+
+Sch. 5 (items 29, 50,
+56, 90, 105, 153,
+167)
+
+74–78, 80–145, 148–
+167, 173–175, 383–396,
+400, 414–418): Royal
+Assent
+Schedule 5 (items 9, 18–
+20): 28 June 2011
+Schedule 5 (items 51–
+54): 1 July 2011
+
+76
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2013
+Measures No. 2)
+Act 2013
+
+124, 2013
+
+29 June
+2013
+
+Schedule 10 (item 12):
+Royal Assent
+
+—
+
+Tax Laws Amendment
+(2011 Measures No. 4)
+Act 2011
+
+43, 2011
+
+27 June
+2011
+
+s. 4, Schedule 2
+(items 4–6) and
+Schedule 3 (items 1–9):
+Royal Assent
+
+s. 4, Sch. 2 (item 6)
+and Sch. 3 (items 4,
+7, 8)
+
+Acts Interpretation
+Amendment Act 2011
+
+46, 2011
+
+27 June
+2011
+
+Schedule 2 (items 693–
+697) and Schedule 3
+(items 10, 11): 27 Dec
+2011
+
+Sch. 3 (items 10, 11)
+
+Families, Housing,
+Community Services
+and Indigenous Affairs
+and Other Legislation
+Amendment (Election
+
+50, 2011
+
+27 June
+2011
+
+Schedule 4 (items 1–3):
+27 June 2011 (s 2(1)
+item 11)
+Schedule 4 (items 10,
+11): 1 July 2014 (s 2(1)
+
+Sch. 4 (item 3)
+
+as amended by
+
+Commitments and
+Other Measures) Act
+2011
+Tax Laws Amendment
+(2010 Measures No. 5)
+Act 2011
+
+item 12)
+
+61, 2011
+
+29 June
+2011
+
+s. 4, Schedule 1,
+Schedule 2 (items 1–8),
+Schedule 3, Schedule 4
+and Schedule 7: Royal
+Assent
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+s. 4, Sch. 1
+(item 12), Sch. 3
+(item 10), Sch. 4
+(items 6, 7) and Sch.
+7 (item 2)
+
+77
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2011 Measures No. 5)
+Act 2011
+
+62, 2011
+
+29 June
+2011
+
+Sch 1 (items 1–3, 6–12,
+14), Sch 2 (items 8–27,
+45–51), Sch 3 (items 1–
+3, 9–19) and Sch 4
+(items 33, 34): 29 June
+
+Sch 1 (item 14), Sch
+2 (item 51), Sch 3
+(items 3, 7, 8, 11)
+and Sch 4 (item 34)
+
+2011 (s 2(1) items 2, 3,
+5, 6)
+Sch 3 (items 4–8):
+30 June 2011 (s 2(1)
+item 4)
+as amended by
+Tax Laws
+Amendment (2012
+Measures No. 6)
+Act 2013
+
+84, 2013
+
+28 June
+2013
+
+Sch 4: 28 June 2013 (s
+2(1) item 2)
+
+—
+
+Tax Laws
+Amendment (New
+Tax System for
+Managed
+Investment Trusts)
+
+53, 2016
+
+5 May 2016
+
+Sch 8 (items 4, 5):
+5 May 2016 (s 2(1)
+item 4)
+
+—
+
+Tax Laws Amendment
+(Research and
+Development) Act
+2011
+
+93, 2011
+
+8 Sept 2011
+
+Schedule 1, Schedule 3
+(items 1–4, 15–42, 54–
+107) and Schedule 4
+(items 1–9): Royal
+Assent
+
+Sch. 4 (items 1–6)
+
+Veterans’ Entitlements
+Amendment Act 2011
+
+95, 2011
+
+15 Sept
+2011
+
+Schedule 1 (items 8–10)
+and Schedule 3 (items 1,
+2, 15(1)): 20 Sept 2011
+
+Sch. 3 (item 15(1))
+
+Act 2016
+
+78
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2011 Measures No. 6)
+Act 2011
+
+129, 2011
+
+3 Nov 2011
+
+Sch 1 and Sch 3
+(items 3–8): 3 Nov 2011
+(s 2(1) items 2, 6)
+Sch 3 (items 1, 2):
+22 Feb 2011 (s 2(1)
+
+Sch. 1 (item 3)
+
+item 5)
+Sch 3 (items 9, 10):
+1 July 2013 (s 2(1)
+item 7)
+Sch 3 (items 11, 12):
+1 July 2014 (s 2(1)
+item 8)
+Sch 3 (items 13, 14):
+1 July 2015 (s 2(1)
+item 9)
+Clean Energy
+(Consequential
+Amendments) Act
+2011
+
+132, 2011
+
+18 Nov
+2011
+
+Sch 2 (items 4–71): 2
+Apr 2012 (s 2(1) item 5)
+Sch 2 (items 74–77):
+never commenced (s
+2(1) item 6 (rep by 83,
+
+—
+
+2014, Sch 3 item 1))
+as amended by
+Clean Energy
+Legislation (Carbon
+Tax Repeal) Act
+2014
+
+83, 2014
+
+17 July
+2014
+
+Sch 3 (items 1, 2):
+18 July 2014 (s 2(1)
+item 7)
+
+—
+
+Tax Laws Amendment
+(2011 Measures No. 8)
+Act 2011
+
+136, 2011
+
+29 Nov
+2011
+
+s. 4 and Schedule 1:
+Royal Assent
+
+s. 4 and Sch. 1
+(item 3)
+
+Clean Energy
+(Household Assistance
+Amendments) Act
+2011
+
+141, 2011
+
+29 Nov
+2011
+
+Schedule 10 (items 2–
+17): 14 May 2012
+
+—
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+79
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2011
+Measures No. 9)
+Act 2012
+
+12, 2012
+
+21 Mar
+2012
+
+Sch 6 (items 144, 145):
+14 May 2012 (s 2(1)
+items 21, 22)
+
+—
+
+Tax Laws Amendment
+(2011 Measures No. 7)
+Act 2011
+
+147, 2011
+
+29 Nov
+2011
+
+s. 4, Schedule 1,
+Schedule 5 (items 1–9,
+16–20), Schedule 6
+(items 1, 6) and
+Schedule 9: Royal
+
+s. 4, Sch. 1 (items 5,
+9, 12), Sch. 5
+(items 8, 16, 20),
+Sch. 6 (item 6), Sch.
+8 (items 37, 38, 41)
+
+Assent
+Schedule 8 (items 2–9,
+37, 38, 41): 1 Jan 2012
+
+and Sch. 9 (item 31)
+
+Schedule 3 (items 17–21,
+24): 1 July 2012
+
+Sch. 3 (item 24)
+
+as amended by
+
+Clean Energy (Tax
+Laws Amendments)
+Act 2011
+
+80
+Compilation No. 258
+
+159, 2011
+
+4 Dec 2011
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2011 Measures No. 9)
+Act 2012
+
+12, 2012
+
+21 Mar
+2012
+
+s 4, Sch 2 (items 1–23),
+Sch 5 and Sch 6
+(items 3–6, 11–20, 25,
+26, 35–67, 74–83, 94–
+96, 117–142, 157–178,
+
+s 4, Sch 2 (items 11,
+14), Sch 5 (item 5)
+and Sch 6 (items 96,
+109, 116, 158, 161,
+163, 216, 248)
+
+183, 200–203, 214–217,
+235–240, 248): 21 Mar
+2012 (s 2(1) items 1, 3,
+5, 6, 10, 14, 18, 19, 27,
+31)
+Sch 6 (item 7): 1 July
+2007 (s 2(1) item 7)
+Sch 6 (item 10): 1 July
+2010 (s 2(1) item 9)
+Sch 6 (items 106–116):
+22 Mar 2012 (s 2(1)
+items 16, 17)
+Sch 6 (item 143): 22 Jan
+2013 (s 2(1) item 20)
+Sch 6 (items 146–148):
+never commenced (s
+2(1) item 23)
+Sch 6 (items 179, 181): 3
+Oct 2008 (s 2(1)
+items 28, 30)
+Sch 6 (item 180): 3 June
+2010 (s 2(1) item 29)
+as amended by
+Tax and
+Superannuation
+Laws Amendment
+(2013 Measures
+No. 1) Act 2013
+
+88, 2013
+
+28 June
+2013
+
+Schedule 7 (item 228):
+Royal Assent
+Sch 7 (items 230–233):
+21 Mar 2012 (s 2(1)
+item 25)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+—
+
+81
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Tax and
+Superannuation
+Laws Amendment
+(2014 Measures
+No. 4) Act 2014
+Minerals Resource
+Rent Tax
+(Consequential
+Amendments and
+Transitional
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+110, 2014
+
+16 Oct
+2014
+
+Sch 5 (items 148, 149):
+21 Mar 2012 (s 2(1)
+items 13, 14)
+
+—
+
+14, 2012
+
+29 Mar
+2012
+
+Sch 2 (items 11–16):
+never commenced (s
+2(1) item 4)
+Sch 3 (items 7–85, 91):
+1 July 2012 (s 2(1)
+
+—
+
+Provisions) Act 2012
+
+items 5, 7)
+
+as amended by
+Indirect Tax Laws
+Amendment
+(Assessment) Act
+2012
+
+39, 2012
+
+15 Apr
+2012
+
+Sch 1 (items 269, 270):
+never commenced (s
+2(1) item 5)
+
+—
+
+Tax and
+Superannuation
+Laws Amendment
+(2015 Measures
+No. 1) Act 2015
+
+70, 2015
+
+25 June
+2015
+
+Sch 6 (item 41): 1 July
+2012 (s 2(1) item 14)
+
+—
+
+Petroleum Resource
+Rent Tax Assessment
+Amendment Act 2012
+
+18, 2012
+
+29 Mar
+2012
+
+Sch 5 (items 2–5) and
+Sch 6 (item 8): 1 July
+2012 (s 2(1) items 11,
+14)
+
+—
+
+Tax Laws Amendment
+(Stronger, Fairer,
+Simpler and Other
+Measures) Act 2012
+
+23, 2012
+
+29 Mar
+2012
+
+Sch 1 (items 1–6, 10),
+Sch 2 (items 1–64, 67–
+75) and Sch 3: 29 Mar
+2012 (s 2(1) items 2–5)
+Sch 5: 1 July 2013 (s
+
+Sch 1 (item 10), Sch
+2 (items 66, 75), Sch
+3 (item 7) and Sch 5
+(item 4)
+
+2(1) item 7)
+
+82
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Fairer Private Health
+Insurance Incentives
+Act 2012
+
+26, 2012
+
+4 Apr 2012
+
+Schedule 1 (items 3–9,
+48): 1 July 2012
+
+Sch. 1 (item 48)
+
+Excise Amendment
+(Reducing Business
+Compliance Burden)
+Act 2012
+
+36, 2012
+
+15 Apr
+2012
+
+Schedule 1 (items 26,
+27): Royal Assent
+
+—
+
+Customs Amendment
+(Reducing Business
+Compliance Burden)
+Act 2012
+
+37, 2012
+
+15 Apr
+2012
+
+Sch 1 (items 11, 12): 15
+Apr 2012 (s 2(1) item 3)
+Sch 1 (items 13, 14): 15
+Apr 2012 (s 2(1) item 4)
+
+—
+
+Indirect Tax Laws
+Amendment
+(Assessment) Act
+2012
+
+39, 2012
+
+15 Apr
+2012
+
+Sch 1 (items 18–28, 186,
+187, 239): 1 July 2012 (s
+2(1) item 2)
+Sch 1 (items 254, 264): 1
+Jan 2017 (s 2(1) item 3)
+
+Sch 1 (items 239,
+264)
+
+Sch 4 (items 17, 18): 15
+Apr 2012 (s 2(1) item 8)
+Family Assistance and
+Other Legislation
+Amendment Act 2012
+
+49, 2012
+
+26 May
+2012
+
+Schedule 1 (items 46, 47,
+52) and Schedule 4
+(items 10, 11): 1 July
+2012
+
+Sch. 1 (item 52)
+
+Family Assistance and
+Other Legislation
+Amendment
+(Schoolkids Bonus
+Budget Measures) Act
+
+50, 2012
+
+26 May
+2012
+
+Schedule 3: 27 May
+2012
+
+Sch. 3 (item 12)
+
+57, 2012
+
+21 June
+2012
+
+Schedules 1–3: Royal
+Assent
+
+Sch. 2 (item 9)
+
+2012
+Tax Laws Amendment
+(Shipping Reform)
+Act 2012
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+83
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2012 Measures No. 3)
+Act 2012
+
+58, 2012
+
+21 June
+2012
+
+Schedule 1 (items 2–6):
+21 June 2012 (see
+s. 2(1))
+Schedule 4: Royal
+Assent
+
+Sch. 4 (item 15) and
+Sch. 5 (item 2)
+
+Schedule 5: 1 July 2012
+Tax Laws Amendment
+(2012 Measures No. 1)
+Act 2012
+
+71, 2012
+
+27 June
+2012
+
+Sch 1, Sch 2 and Sch 3
+(items 1, 2): 27 June
+2012 (s 2(1) items 2, 3)
+Sch 5 (items 1–3): 1 July
+2012 (s 2(1) item 6)
+
+Sch 1 (item 4) and
+Sch 2 (item 6)
+
+Tax and
+Superannuation
+Laws Amendment
+(2013 Measures
+No. 2) Act 2013
+
+85, 2013
+
+28 June
+2013
+
+Schedule 2 (item 5):
+Royal Assent
+
+—
+
+Tax and
+Superannuation Laws
+Amendment (2012
+Measures No. 1) Act
+2012
+
+75, 2012
+
+27 June
+2012
+
+Schedule 3 and
+Schedule 4 (items 1–10,
+20): Royal Assent
+
+Sch. 4 (item 20)
+
+Tax Laws Amendment
+(2012 Measures No. 2)
+Act 2012
+
+99, 2012
+
+29 June
+2012
+
+s 4 and Sch 3: 29 June
+2012 (s 2(1) items 1, 7–
+10)
+Sch 1 (items 10, 11, 23):
+30 June 2012 (s 2(1)
+
+s 4, Sch 1 (item 23),
+Sch 2 (item 6) and
+Sch 3 (items 49–54)
+
+as amended by
+
+item 3)
+Sch 2 (items 1–4, 6): 26
+Mar 2009 (s 2(1) item 6)
+
+84
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws
+Amendment (2012
+Measures No. 4)
+Act 2012
+
+142, 2012
+
+28 Sept
+2012
+
+Schedule 3: Royal
+Assent
+
+—
+
+Social Security
+Amendment
+(Supporting Australian
+Victims of Terrorism
+Overseas) Act 2012
+
+106, 2012
+
+22 July
+2012
+
+Schedule 1 (items 17,
+18): 22 Jan 2013 (s 2(1)
+item 2)
+
+—
+
+Paid Parental Leave
+and Other Legislation
+Amendment (Dad and
+Partner Pay and Other
+Measures) Act 2012
+
+109, 2012
+
+22 July
+2012
+
+Sch 1 (item 107): 1 Oct
+2012 (s 2(1) item 2)
+
+—
+
+Tax Laws Amendment
+(Cross-Border
+Transfer Pricing) Act
+(No. 1) 2012
+
+115, 2012
+
+8 Sept 2012
+
+Sch 1 (items 5–11): 8
+Sept 2012(s 2)
+
+—
+
+Tax Laws
+Amendment
+(Investment
+Manager Regime)
+Act 2012
+
+126, 2012
+
+13 Sept
+2012
+
+Sch 1 (item 16): never
+commenced (s 2(1)
+item 6)
+
+—
+
+Tax Laws Amendment
+(Investment Manager
+Regime) Act 2012
+
+126, 2012
+
+13 Sept
+2012
+
+Sch 1 (items 1, 2, 4–15,
+17): 13 Sept 2012 (s 2(1)
+items 2, 3, 5, 7)
+Sch 1 (item 3): never
+commenced (s 2(1)
+
+Sch. 1 (item 17)
+
+as amended by
+
+as amended by
+
+item 4)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+85
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Statute Law Revision
+Act 2012
+
+136, 2012
+
+22 Sept
+2012
+
+Sch 7 (items 7–9): 22
+Sept 2012 (s 2(1)
+item 37)
+
+—
+
+Superannuation Laws
+Amendment (Capital
+Gains Tax Relief and
+Other Efficiency
+Measures) Act 2012
+
+158, 2012
+
+28 Nov
+2012
+
+Sch 1 (items 1, 2, 19): 28
+Nov 2012 (s 2(1)
+items 2, 4)
+Sch 1 (items 5–18): 1
+Oct 2011 (s 2(1) item 3)
+
+Sch 1 (item 19)
+
+Treasury Laws
+Amendment (2018
+Measures No. 1)
+Act 2018
+
+23, 2018
+
+29 Mar
+2018
+
+Sch 2 (items 3, 6): 1 Apr
+2018 (s 2(1) item 10)
+
+Sch 2 (item 6)
+
+Treasury Laws
+Amendment (2020
+Measures No. 1)
+Act 2020
+
+49, 2020
+
+25 May
+2020
+
+Sch 2 (items 2, 7): 1 July
+2020 (s 2(1) item 1)
+
+Sch 2 (item 7)
+
+Australian Charities
+and Not-for-profits
+Commission
+(Consequential and
+Transitional) Act 2012
+
+169, 2012
+
+3 Dec 2012
+
+Sch 2 (items 4–23, 28–
+39, 187–189) and Sch 4
+(items 4–7): 3 Dec 2012
+(s. 2(1) items 3, 7, 12)
+Sch 4 (items 8–10, 21,
+
+Sch. 2 (items 14, 23)
+
+as amended by
+
+22): never commenced (s
+2(1) items 13, 14)
+Sch 5: 4 Dec 2012 (s
+2(1) item 15)
+Superannuation
+Legislation
+Amendment (New
+Zealand Arrangement)
+Act 2012
+
+86
+Compilation No. 258
+
+181, 2012
+
+10 Dec
+2012
+
+Sch 1 (items 1–8, 12):
+1 July 2013 (s 2(1)
+item 2)
+
+Sch 1 (item 12)
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2012 Measures No. 5)
+Act 2012
+
+184, 2012
+
+10 Dec
+2012
+
+Sch 1, 2 and 5: 10 Dec
+2012 (s 2)
+
+Sch. 1 (item 2) and
+Sch. 2 (item 4)
+
+Tax Laws Amendment
+(Clean Building
+Managed Investment
+Trust) Act 2012
+
+185, 2012
+
+10 Dec
+2012
+
+Sch 1 (items 1, 2): 10
+Dec 2012 (s 2)
+
+—
+
+Social Security and
+Other Legislation
+Amendment (Income
+Support Bonus) Act
+2013
+
+5, 2013
+
+5 Mar 2013
+
+Sch 1 (items 14–20): 5
+Mar 2013 (s 2)
+
+—
+
+National Disability
+Insurance Scheme
+Legislation
+Amendment Act 2013
+
+44, 2013
+
+28 May
+2013
+
+Sch 3: 28 May 2013 (s
+2(1) item 14)
+
+Sch. 3 (item 9)
+
+Family Assistance and
+Other Legislation
+Amendment Act 2013
+
+70, 2013
+
+27 June
+2013
+
+Sch 2A (items 45–47,
+67(9)): 1 Mar 2014 (s
+2(1) item 9A)
+
+Sch. 2A (item 67(9))
+
+Tax and
+Superannuation Laws
+Amendment
+(Increased
+Concessional
+
+82, 2013
+
+28 June
+2013
+
+Sch 1 (item 1) and Sch 3
+(items 1, 6–11, 39):
+28 June 2013 (s 2)
+
+Sch. 3 (item 39)
+
+84, 2013
+
+28 June
+2013
+
+s 4, Sch 1 (items 2–9,
+19–23), Sch 2, Sch 3,
+Sch 6 and Sch 8
+(items 27–32): 28 June
+2013 (s 2(1) items 1, 2,
+
+s 4, Sch 1 (item 9),
+Sch 3 (item 34), Sch
+6 (item 4) and Sch 8
+(item 31)
+
+Contributions Cap and
+Other Measures) Act
+2013
+Tax Laws Amendment
+(2012 Measures No. 6)
+Act 2013
+
+4)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+87
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax and
+Superannuation Laws
+Amendment (2013
+Measures No. 2) Act
+2013
+
+85, 2013
+
+28 June
+2013
+
+s 4, Sch 1, Sch 2
+(items 1–3), Sch 4
+(items 1–11) and Sch 7
+(items 1, 7–10): 28 June
+2013 (s 2(1) items 1–3,
+
+s 4, Sch 1 (item 12),
+Sch 7 (item 10) and
+Sch 8 (item 9)
+
+7, 10)
+Sch 2 (item 6): 1 July
+2016 (s 2(1) item 4)
+Sch 2 (items 7–9): 1 July
+2017 (s 2(1) item 5)
+Sch 4 (items 12, 13):
+1 July 2022 (s 2(1)
+item 8)
+Sch 4 (items 14, 15):
+1 July 2023 (s 2(1)
+item 9)
+Sch 8 (items 1–48, 55–
+64): 26 Mar 2009 (s 2(1)
+item 11)
+as amended by
+Tax and
+Superannuation
+Laws Amendment
+(2014 Measures
+No. 7) Act 2015
+
+21, 2015
+
+19 Mar
+2015
+
+Sch 7 (item 52): 28 June
+2013 (s 2(1) item 21)
+
+—
+
+Tax and
+Superannuation
+Laws Amendment
+(2015 Measures
+No. 1) Act 2015
+
+70, 2015
+
+25 June
+2015
+
+Sch 5 (items 2, 3):
+26 June 2015 (s 2(1)
+item 8)
+
+—
+
+88
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax and
+Superannuation Laws
+Amendment (2013
+Measures No. 1) Act
+2013
+
+88, 2013
+
+28 June
+2013
+
+s 4, Sch 1 (items 1–18),
+Sch 3 and Sch 7
+(items 200–210, 236–
+242): 28 June 2013 (s
+2(1) items 1, 2, 5, 21, 26)
+
+s 4, Sch 3 (items 18,
+19), Sch 5 (item 8)
+and Sch 7 (item 208)
+
+Sch 1 (items 33, 34):
+1 July 2013 (s 2(1)
+item 3)
+Sch 5 (items 1–5, 7–9)
+and Sch 6 (items 3–41,
+50–65): 29 June 2013 (s
+2(1) items 8, 9, 14)
+Sch 7 (items 1–4): 1 July
+2012 (s 2(1) item 15)
+Superannuation Laws
+Amendment
+(MySuper Capital
+Gains Tax Relief and
+Other Measures) Act
+
+89, 2013
+
+28 June
+2013
+
+2013
+
+Sch 1 (items 1–13):
+28 June 2013 (s 2(1)
+items 2–5)
+Sch 1 (items 14–25):
+2 July 2019 (s 2(1)
+
+Sch 1 (items 2, 13,
+25)
+
+items 6–8)
+
+as amended by
+Tax Laws
+Amendment (Fairer
+Taxation of Excess
+Concessional
+Contributions) Act
+
+118, 2013
+
+29 June
+2013
+
+Sch 1 (item 100): 2 July
+2019 (s 2(1) item 9)
+Sch 1 (item 110):
+29 June 2013 (s 2(1)
+item 11)
+
+Sch 1 (item 110)
+
+96, 2013
+
+28 June
+2013
+
+Sch 1 (items 23–37): 1
+Jan 2014 (s 2(1) item 2)
+
+—
+
+2013
+Charities
+(Consequential
+Amendments and
+Transitional
+Provisions) Act 2013
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+89
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax and
+Superannuation
+Laws Amendment
+(2015 Measures
+No. 1) Act 2015
+
+70, 2015
+
+25 June
+2015
+
+Sch 6 (item 3): 1 Jan
+2014 (s 2(1) item 10)
+
+—
+
+Veterans’ Affairs
+Legislation
+Amendment (Military
+Compensation Review
+and Other Measures)
+
+99, 2013
+
+28 June
+2013
+
+Sch 5 (item 48): 1 July
+2013 (s 2(1) item 2)
+
+—
+
+Tax Laws Amendment
+(Countering Tax
+Avoidance and
+Multinational Profit
+Shifting) Act 2013
+
+101, 2013
+
+29 June
+2013
+
+Sch 2 (items 2, 20–43,
+50): 29 June 2013 (s 2(1)
+item 3)
+Sch 2 (items 55–57): 8
+Sept 2012 (s 2(1) item 4)
+
+Sch. 2 (item 50)
+
+Private Health
+Insurance Amendment
+(Lifetime Health
+Cover Loading and
+Other Measures) Act
+
+105, 2013
+
+29 June
+2013
+
+Sch 2 (items 22–26,
+28(3)): 1 July 2013 (s 2)
+
+Sch. 2 (item 28(3))
+
+118, 2013
+
+29 June
+2013
+
+Sch 1 (items 1, 4–11,
+16–26, 38–79, 88–96,
+110): 29 June 2013 (s
+2(1) items 2–5, 11)
+Sch 1 (item 97): 1 July
+
+Sch. 1 (item 110)
+
+as amended by
+
+Act 2013
+
+2013
+Tax Laws Amendment
+(Fairer Taxation of
+Excess Concessional
+Contributions) Act
+2013
+
+2013 (s 2(1) item 6)
+Tax Laws Amendment
+(2013 Measures No. 1)
+Act 2013
+
+90
+Compilation No. 258
+
+119, 2013
+
+29 June
+2013
+
+Sch 1: 30 June 2013 (s
+2(1) item 2)
+Remainder: 29 June
+2013(s 2(1) items 1, 3, 4)
+
+s. 4, Sch. 1 (items 5,
+6, 9, 10, 20) and
+Sch. 3 (item 3)
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(2013 Measures No. 3)
+Act 2013
+
+120, 2013
+
+29 June
+2013
+
+Sch 1 (items 44–46):
+1 July 2014 (s 2(1)
+item 4)
+Sch 3: 29 June 2013 (s
+2(1) item 8)
+
+—
+
+Tax Laws Amendment
+(2013 Measures No. 2)
+Act 2013
+
+124, 2013
+
+29 June
+2013
+
+Sch 1 (items 37–45),
+Sch 5 (items 7, 8(1)),
+Sch 7, Sch 8, Sch 10
+(items 1–11, 13):
+29 June 2013 (s 2(1)
+
+Sch. 1 (item 45),
+Sch. 2 (item 48),
+Sch. 5 (item 8(1)),
+Sch. 8 (item 3) and
+Sch. 11 (items 9,
+
+items 2, 10–12)
+Sch 2 (items 2–6, 21–42,
+48): 11 July 2013 (s 2(1)
+item 3)
+Sch 2 (item 66): 11 July
+2013 (s 2(1) item 5)
+Sch 10 (item 14): never
+commenced (s 2(1)
+item 13)
+Sch 11 (items 1–3): 3
+Dec 2012 (s 2(1)
+item 15)
+Sch 11 (items 5, 6, 9):
+28 June 2013 (s 2(1)
+item 16)
+Sch 11 (items 28, 32(1),
+35–56): 30 June 2013 (s
+2(1) items 18, 20, 22)
+
+32(1), 56)
+
+Sch 7 (items 53, 54):
+11 July 2013 (s 2(1)
+item 22)
+
+—
+
+as amended by
+Tax and
+Superannuation
+Laws Amendment
+(2014 Measures
+No. 7) Act 2015
+
+21, 2015
+
+19 Mar
+2015
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+91
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax and
+Superannuation Laws
+Amendment (2014
+Measures No. 1) Act
+2014
+
+11, 2014
+
+18 Mar
+2014
+
+Sch 3 (items 7, 8): 1 July
+2019 (s 2(1) item 6)
+Sch 4 (items 1–7): 18
+Mar 2014 (s 2(1) item 7)
+Sch 4 (items 8, 9): 17
+
+—
+
+Dec 2018 (s 2(1) item 8)
+Farm Household
+Support
+(Consequential and
+Transitional
+Provisions) Act 2014
+
+13, 2014
+
+28 Mar
+2014
+
+Sch 2 (items 33–56):
+1 July 2014 (s 2(1)
+item 3)
+Sch 2 (items 143, 144):
+26 Feb 2014 (s 2(1)
+
+Sch 2 (item 56)
+
+item 8)
+Sch 2 (items 147–149): 1
+Oct 2014 (s 2(1) item 9)
+Statute Law Revision
+Act (No. 1) 2014
+
+31, 2014
+
+27 May
+2014
+
+Sch 4 (item 99): 24 June
+2014 (s 2(1) item 9)
+
+—
+
+Tax Bonus for
+Working Australians
+Repeal Act 2014
+
+32, 2014
+
+27 May
+2014
+
+Sch 1 (items 5, 6): 1 July
+2016 (s 2(1) item 3)
+
+—
+
+Tax Laws Amendment
+(2014 Measures No. 1)
+Act 2014
+
+34, 2014
+
+30 May
+2014
+
+Sch 1 (items 3–11,
+13(1)): 30 May 2014 (s
+2(1) item 2)
+
+Sch 1 (item 13(1))
+
+Social Security
+Legislation
+Amendment
+(Increased
+Employment
+
+35, 2014
+
+18 June
+2014
+
+Sch 1 (items 9–12):
+1 July 2014 (s 2)
+
+—
+
+48, 2014
+
+25 June
+2014
+
+Sch 1 (item 1): 25 June
+2014 (s 2(1) item 2)
+
+—
+
+Participation) Act
+2014
+Tax Laws Amendment
+(Temporary Budget
+Repair Levy) Act
+2014
+
+92
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax Laws Amendment
+(Untainting Tax)
+(Temporary Budget
+Repair Levy) Act
+2014
+
+49, 2014
+
+25 June
+2014
+
+Sch 1: 25 June 2014 (s
+2(1) item 2)
+Remainder: 25 June
+2014 (s 2(1) item 1)
+
+Sch 1 (item 4)
+
+Tax Laws Amendment
+(Implementation of the
+FATCA Agreement)
+Act 2014
+
+67, 2014
+
+30 June
+2014
+
+Sch 1 (items 1, 3(1)):
+30 June 2014 (s 2)
+
+Sch 1 (item 3(1))
+
+Tax and
+Superannuation Laws
+Amendment (2014
+Measures No. 2) Act
+2014
+
+68, 2014
+
+30 June
+2014
+
+Sch 3: 30 June 2014 (s
+2(1) item 2)
+
+Sch 3 (items 4, 9)
+
+Tax and
+Superannuation Laws
+Amendment (2014
+Measures No. 3) Act
+2014
+
+69, 2014
+
+30 June
+2014
+
+1 July 2014 (s 2)
+
+Sch 1 (item 16)
+
+Infrastructure
+Australia Amendment
+Act 2014
+
+77, 2014
+
+17 July
+2014
+
+Sch 1 (items 43–99):
+1 Sept 2014 (s 2(1)
+item 2)
+
+—
+
+Trade Support Loans
+(Consequential
+Amendments) Act
+2014
+
+82, 2014
+
+17 July
+2014
+
+Sch 1 (items 5–7):
+18 July 2014 (s 2(1)
+item 2)
+
+—
+
+Clean Energy
+Legislation (Carbon
+Tax Repeal) Act 2014
+
+83, 2014
+
+17 July
+2014
+
+Sch 1 (items 156–195,
+336): 1 July 2014 (s 2(1)
+items 2, 3)
+Sch 3 (items 3–7):
+18 July 2014 (s 2(1)
+
+Sch 1 (item 336) and
+Sch 3 (items 6, 7)
+
+item 7)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+93
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Minerals Resource
+Rent Tax Repeal and
+Other Measures Act
+2014
+
+96, 2014
+
+5 Sept 2014
+
+Sch 1 (items 14–45,
+122–124), Sch 2
+(items 1, 14–40, 42, 43)
+and Sch 3–5: 30 Sept
+2014 (s 2(1) item 2)
+
+Sch 1 (items 122–
+124), Sch 2
+(items 42, 43), Sch 3
+(item 11), Sch 4
+(item 8), Sch 5
+
+Sch 8 (items 15–22, 26)
+and Sch 9 (items 21, 22,
+24): 31 Dec 2016 (s 2(1)
+items 7, 9)
+
+(item 39), Sch 8
+(item 26) and Sch 9
+(item 24)
+
+Land Transport
+Infrastructure
+Amendment Act 2014
+
+101, 2014
+
+11 Sept
+2014
+
+Sch 2 (items 4, 5): 10
+Oct 2014 (s 2(1) item 2)
+
+—
+
+Omnibus Repeal Day
+(Autumn 2014) Act
+2014
+
+109, 2014
+
+16 Oct
+2014
+
+Sch 10 (items 13–15,
+21–48): 17 Oct 2014 (s
+2(1) item 8)
+
+Sch 10 (item 27)
+
+Tax and
+Superannuation Laws
+Amendment (2014
+Measures No. 4) Act
+2014
+
+110, 2014
+
+16 Oct
+2014
+
+Sch 1 and Sch 2
+(items 2–5, 13–23): 17
+Oct 2014 (s 2(1) item 2)
+Sch 3, Sch 4 (items 1, 3)
+and Sch 5 (items 16–67,
+
+Sch 1 (item 56), Sch
+2 (item 23), Sch 3
+(items 5, 10), Sch 4
+(item 3) and Sch 5
+(items 74, 75, 103,
+
+74–76, 84–91, 98–121):
+16 Oct 2014 (s 2(1)
+items 3–5, 7)
+
+107, 112, 119, 121)
+
+Social Services and
+Other Legislation
+Amendment (2014
+Budget Measures
+No. 6) Act 2014
+
+122, 2014
+
+26 Nov
+2014
+
+Sch 1 (items 289–294):
+20 Sept 2014 (s 2(1)
+item 2)
+
+Sch 1 (item 294)
+
+Tax and
+Superannuation Laws
+Amendment (2014
+Measures No. 6) Act
+2014
+
+133, 2014
+
+12 Dec
+2014
+
+s 4, Sch 1 (items 1, 4–29,
+37–40) and Sch 2
+(items 1–3, 5): 12 Dec
+2014 (s 2(1) items 1, 2)
+
+s 4, Sch 1 (items 39,
+40) and Sch 2
+(item 5)
+
+94
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Legislation
+Amendment (Repeal
+Day) Act 2015
+
+2, 2015
+
+25 Feb
+2015
+
+Sch 2 (items 1, 73, 111)
+and Sch 4 (items 1–8,
+79): 25 Feb 2015 (s 2(1)
+items 3, 5, 6)
+Sch 2 (items 29–33):
+
+Sch 2 (item 73) and
+Sch 4 (item 79)
+
+1 July 2015 (s 2(1)
+item 4)
+as amended by
+Tax and
+Superannuation
+Laws Amendment
+(2015 Measures
+No. 1) Act 2015
+
+70, 2015
+
+25 June
+2015
+
+Sch 6 (item 64): 25 Feb
+2015 (s 2(1) item 18)
+
+—
+
+Tax Laws Amendment
+(Research and
+Development) Act
+2015
+
+13, 2015
+
+5 Mar 2015
+
+Sch 1 (items 1–6, 9): 5
+Mar 2015 (s 2(1) item 2)
+Sch 1 (items 10–14, 17):
+repealed before
+commencing (s 2(1)
+
+Sch 1 (items 9, 17)
+
+item 3)
+as amended by
+Treasury Laws
+Amendment (A Tax
+Plan for the
+COVID-19
+Economic
+
+92, 2020
+
+14 Oct
+2020
+
+Sch 4 (items 12–14): 1
+Jan 2021 (s 2(1) item 7)
+
+Sch 4 (item 14)
+
+20, 2015
+
+19 Mar
+2015
+
+Sch 1 (items 1–3, 6): 20
+Mar 2015 (s 2(1) item 2)
+Sch 4: 19 Mar 2015 (s
+2(1) item 3)
+
+Sch 1 (item 6)
+
+Recovery) Act 2020
+Tax and
+Superannuation Laws
+Amendment (2014
+Measures No. 5) Act
+2015
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+95
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax and
+Superannuation Laws
+Amendment (2014
+Measures No. 7) Act
+2015
+
+21, 2015
+
+19 Mar
+2015
+
+s 4 and Sch 6 (items 1, 2,
+16–25, 73): 19 Mar 2015
+(s 2(1) items 1, 7–11, 13)
+Sch 1 (items 1–17, 49),
+Sch 3 and Sch 7
+
+s 4, Sch 1 (item 49),
+Sch 3 (item 8), Sch
+4 (item 9), Sch 6
+(items 73–79) and
+Sch 7 (items 18, 21)
+
+(items 13–21): 20 Mar
+2015 (s 2(1) items 2, 4,
+15)
+Sch 4 (items 1–5, 9–17):
+1 July 2015 (s 2(1)
+item 5)
+Sch 6 (items 51–59, 74–
+79): never commences (s
+2(1) items 12, 14)
+as amended by
+Tax and
+Superannuation
+Laws Amendment
+(2016 Measures
+No. 2) Act 2017
+
+15, 2017
+
+28 Feb
+2017
+
+Sch 4 (items 94, 95): 1
+Apr 2017 (s 2(1)
+item 12)
+
+—
+
+Treasury Laws
+Amendment (Junior
+Minerals
+Exploration
+Incentive) Act 2018
+
+15, 2018
+
+28 Mar
+2018
+
+Sch 2: 29 Mar 2018 (s
+2(1) item 6)
+
+—
+
+36, 2015
+
+13 Apr
+2015
+
+Sch 5 (items 40, 74–77)
+and Sch 7: 14 Apr 2015
+(s 2)
+
+Sch 5 (items 74–77)
+and Sch 7
+
+Public Governance
+and Resources
+Legislation
+Amendment Act
+(No. 1) 2015
+
+96
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+126, 2015
+
+10 Sept
+2015
+
+Sch 1 (item 486): 5 Mar
+2016 (s 2(1) item 2)
+
+—
+
+Tax and
+Superannuation Laws
+Amendment (Norfolk
+Island Reforms) Act
+2015
+
+53, 2015
+
+26 May
+2015
+
+Sch 1 (items 9–17, 19):
+1 July 2016 (s 2)
+
+Sch 1 (item 19)
+
+Tax Laws Amendment
+(Small Business
+Measures No. 1) Act
+2015
+
+66, 2015
+
+22 June
+2015
+
+Sch 1 (items 6–29, 32):
+22 June 2015 (s 2(1)
+items 3, 5)
+
+Sch 1 (item 32)
+
+Tax Laws Amendment
+(Small Business
+Measures No. 2) Act
+2015
+
+67, 2015
+
+22 June
+2015
+
+Sch 1 (items 1–8) and
+Sch 2: 22 June 2015 (s
+2(1) items 2, 5)
+Sch 1 (items 10–14):
+repealed before
+
+Sch 2 (item 21)
+
+as amended by
+Acts and
+Instruments
+(Framework
+Reform)
+(Consequential
+Provisions) Act
+2015
+
+commencing (s 2(1)
+items 3, 4)
+as amended by
+Treasury Laws
+Amendment
+(Accelerated
+Depreciation For
+Small Business
+
+56, 2017
+
+22 June
+2017
+
+Sch 1 (items 12, 13):
+22 June 2017 (s 2(1)
+item 3)
+
+—
+
+Entities) Act 2017
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+97
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Tax and
+Superannuation Laws
+Amendment (2015
+Measures No. 1) Act
+2015
+
+70, 2015
+
+25 June
+2015
+
+Sch 1 (items 65–108,
+188–192, 195–205):
+1 July 2015 (s 2(1)
+items 3, 4, 6)
+Sch 2 (items 17, 24–29,
+
+Sch 1 (items 195–
+205), Sch 2
+(items 38, 39), Sch 6
+(item 28) and Sch 7
+(item 11)
+
+34–39), Sch 6 (items 13–
+30, 32–38) and Sch 7
+(items 1, 5–11): 25 June
+2015 (s 2(1) items 7, 11,
+13, 20)
+Sch 4 (items 1, 2) and
+Sch 5 (item 1): 26 June
+2015 (s 2(1) items 7A, 8)
+Sch 4 (items 3, 4): 1 July
+2025 (s 2(1) item 7B)
+Sch 6 (item 31): 29 June
+2013 (s 2(1) item 12)
+The commencement date
+for amendments made by
+the Tax and
+Superannuation Laws
+Amendment (2015
+Measures No. 1) Act
+2015 Sch 4 (items 1, 2)
+was retrospectively
+changed from 25 June
+2015 to 26 June 2015
+as amended by
+Tax and
+Superannuation
+Laws Amendment
+(2016 Measures
+No. 2) Act 2017
+
+98
+Compilation No. 258
+
+15, 2017
+
+28 Feb
+2017
+
+Sch 4 (item 96): 1 Apr
+2017 (s 2(1) item 12)
+
+—
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (2019
+Measures No. 1)
+Act 2019
+
+49, 2019
+
+5 Apr 2019
+
+Sch 3 (item 2): 1 July
+2019 (s 2(1) item 10)
+
+—
+
+Private Health
+Insurance (Prudential
+Supervision)
+(Consequential
+Amendments and
+
+87, 2015
+
+26 June
+2015
+
+Sch 1 (items 23–33):
+1 July 2015 (s 2(1)
+item 2)
+Sch 2: 27 June 2015
+(s 2(1) item 9)
+
+Sch 2
+
+Social Services and
+Other Legislation
+Amendment (Seniors
+Supplement
+Cessation) Act 2015
+
+91, 2015
+
+26 June
+2015
+
+Sch 1 (items 49–53, 56):
+20 June 2015 (s 2(1)
+item 2)
+
+Sch 1 (items 53, 56)
+
+Tax and
+Superannuation Laws
+Amendment
+(Employee Share
+Schemes) Act 2015
+
+105, 2015
+
+30 June
+2015
+
+Sch 1 (items 2–41, 44–
+51): 1 July 2015 (s 2)
+
+Sch 1 (items 44, 51)
+
+Tax Laws Amendment
+(Small Business
+Measures No. 3) Act
+2015
+
+114, 2015
+
+26 Aug
+2015
+
+Sch 1 and 2: 26 Aug
+2015 (s 2(1) item 1)
+
+Sch 1 (item 6) and
+Sch 2 (item 5)
+
+Defence Legislation
+Amendment
+(Superannuation and
+ADF Cover) Act 2015
+
+120, 2015
+
+10 Sept
+2015
+
+Sch 1 (item 54): 11 Sept
+2015 (s 2(1) item 2)
+
+—
+
+Acts and Instruments
+(Framework Reform)
+(Consequential
+Provisions) Act 2015
+
+126, 2015
+
+10 Sept
+2015
+
+Sch 1 (items 299–301): 5
+Mar 2016 (s 2(1) item 2)
+
+—
+
+Transitional
+Provisions) Act 2015
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+99
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Social Services
+Legislation
+Amendment (No. 2)
+Act 2015
+
+128, 2015
+
+16 Sept
+2015
+
+Sch 1 (items 29–31):
+1 July 2017 (s 2(1)
+item 3)
+Sch 1 (items 32, 33): 17
+Sept 2015 (s 2(1) item 4)
+
+Sch 1 (items 32, 33)
+
+Tax and
+Superannuation Laws
+Amendment (2015
+Measures No. 2) Act
+2015
+
+130, 2015
+
+16 Sept
+2015
+
+s 4, Sch 1 (items 1–3, 5–
+21) and Sch 3 (items 1–
+5): 16 Sept 2015 (s 2(1)
+items 1, 2, 4)
+Sch 2: 1 July 2015 (s
+
+s 4, Sch 1 (items 5,
+19, 21), Sch 2
+(item 3) and Sch 4
+(items 55, 57, 58)
+
+2(1) item 3)
+Sch 4 (items 1–52, 54–
+58): 17 Sept 2015 (s 2(1)
+item 5)
+Tax and
+Superannuation Laws
+Amendment (2015
+Measures No. 4) Act
+2015
+
+135, 2015
+
+13 Oct
+2015
+
+Sch 1: 13 Oct 2015 (s
+2(1) item 2)
+
+Sch 1 (item 15)
+
+Statute Law Revision
+Act (No. 2) 2015
+
+145, 2015
+
+12 Nov
+2015
+
+Sch 4 (items 21, 22): 10
+Dec 2015 (s 2(1) item 7)
+
+—
+
+Foreign Acquisitions
+and Takeovers
+Legislation
+Amendment Act 2015
+
+150, 2015
+
+25 Nov
+2015
+
+Sch 4 (items 2, 12): 1
+Dec 2015 (s 2(1) item 4)
+
+Sch 4 (item 12)
+
+Education Legislation
+Amendment (Overseas
+Debt Recovery) Act
+2015
+
+154, 2015
+
+26 Nov
+2015
+
+Sch 5 (items 2–4): 1 Jan
+2016 (s 2(1) item 9)
+
+—
+
+Tax and
+Superannuation Laws
+Amendment (2015
+Measures No. 5) Act
+2015
+
+162, 2015
+
+30 Nov
+2015
+
+Sch 1 (items 1–3, 21–46)
+and Sch 4 (items 2, 27):
+30 Nov 2015 (s 2(1)
+items 2, 3, 6)
+
+Sch 1 (items 45, 46)
+and Sch 4 (item 27)
+
+100
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Labor 2013-14 Budget
+Savings (Measures
+No. 2) Act 2015
+
+169, 2015
+
+11 Dec
+2015
+
+Sch 1 (items 6–10, 111):
+1 Jan 2016 (s 2(1)
+item 2)
+
+Sch 1 (item 111)
+
+Tax Laws Amendment
+(Combating
+Multinational Tax
+Avoidance) Act 2015
+
+170, 2015
+
+11 Dec
+2015
+
+Sch 1 (items 1–4) and
+Sch 4: 11 Dec 2015
+(s 2(1) item 1)
+
+Sch 4 (item 2)
+
+Tax Laws Amendment
+(Gifts) Act 2015
+
+177, 2015
+
+11 Dec
+2015
+
+11 Dec 2015 (s 2(1)
+item 1)
+
+—
+
+Tax and
+Superannuation Laws
+Amendment (2015
+Measures No. 6) Act
+2016
+
+10, 2016
+
+25 Feb
+2016
+
+Sch 1 (items 1–32, 38,
+39) and Sch 2 (items 3–
+9, 30): 26 Feb 2016 (s
+2(1) items 2, 4)
+
+Sch 1 (items 38, 39)
+and Sch 2 (item 30)
+
+Insolvency Law
+Reform Act 2016
+
+11, 2016
+
+29 Feb
+2016
+
+Sch 2 (items 274–277): 1
+Mar 2017 (s 2(1) item 5)
+
+—
+
+Tax Laws Amendment
+(Small Business
+Restructure Roll-over)
+Act 2016
+
+18, 2016
+
+8 Mar 2016
+
+1 Apr 2016 (s 2(1)
+item 1)
+
+Sch 1 (item 8)
+
+Tax Laws Amendment
+(Norfolk Island CGT
+Exemption) Act 2016
+
+20, 2016
+
+18 Mar
+2016
+
+Sch 1 (items 1, 2): 1 July
+2016 (s 2(1) item 2)
+
+—
+
+Tax Laws Amendment
+(Implementation of the
+Common Reporting
+Standard) Act 2016
+
+23, 2016
+
+18 Mar
+2016
+
+Sch 1 (items 1, 14, 15):
+19 Mar 2016 (s 2(1)
+items 2, 6)
+
+Sch 1 (items 14, 15)
+
+8, 2019
+
+1 Mar 2019
+
+Sch 8 (item 2): 1 Jan
+2018 (s 2(1) item 9)
+
+—
+
+as amended by
+Treasury Laws
+Amendment (2018
+Measures No. 4)
+Act 2019
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+101
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Omnibus Repeal Day
+(Autumn 2015) Act
+2016
+
+47, 2016
+
+5 May 2016
+
+Sch 6 (items 16–25):
+6 May 2016 (s 2(1)
+item 8)
+
+Sch 6 (items 19–25)
+
+Tax and
+Superannuation Laws
+Amendment (2016
+Measures No. 1) Act
+2016
+
+52, 2016
+
+5 May 2016
+
+Sch 3 (items 1–13, 15–
+22): 1 July 2016 (s 2(1)
+item 1)
+
+Sch 3 (items 15, 22)
+
+Tax Laws Amendment
+(New Tax System for
+Managed Investment
+Trusts) Act 2016
+
+53, 2016
+
+5 May 2016
+
+Sch 1 (item 1), Sch 2,
+Sch 3 (items 2–4), Sch 4
+(items 1–5), Sch 5
+(items 2, 29–67, 75), Sch
+6 (items 21–34), Sch 8
+
+Sch 5 (item 75) and
+Sch 8 (item 1)
+
+(item 1) and Sch 9:
+5 May 2016 (s 2(1)
+items 2, 4)
+as amended by
+Treasury Laws
+Amendment (2018
+Measures No. 5)
+Act 2019
+
+15, 2019
+
+12 Mar
+2019
+
+Sch 1 (items 34–46): 1
+Apr 2019 (s 2(1) item 2)
+
+Sch 1 (item 46)
+
+Tax Laws Amendment
+(Tax Incentives for
+Innovation) Act 2016
+
+54, 2016
+
+5 May 2016
+
+Sch 1 (items 1, 12–14,
+19) and Sch 2 (items 1–
+5, 8–14, 20–34, 44–51,
+53–56, 63–74, 76):
+1 July 2016 (s 2(1)
+
+Sch 1 (item 19) and
+Sch 2 (items 4, 5,
+20, 23, 44, 45, 53,
+63, 72, 76)
+
+items 2–5, 7)
+
+102
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Budget Savings
+(Omnibus) Act 2016
+
+55, 2016
+
+16 Sept
+2016
+
+Sch 3 (items 16–19):
+1 July 2017 (s 2(1)
+item 4)
+Sch 4 (items 9–13): 1
+Jan 2017 (s 2(1) item 5)
+
+Sch 3 (item 19), Sch
+4 (item 13), Sch 22
+(item 5) and Sch 23
+(items 22–24)
+
+Sch 22 and Sch 23
+(items 2, 3, 22–24): 1
+Oct 2016 (s 2(1)
+item 25)
+Industry Research and
+Development
+Amendment
+(Innovation and
+Science Australia) Act
+
+63, 2016
+
+20 Oct
+2016
+
+Sch 1 (item 40): 20 Oct
+2016 (s 2(1) item 1)
+
+—
+
+81, 2016
+
+29 Nov
+2016
+
+Sch 1 (items 2–6, 26–32,
+36), Sch 2 (items 1–8,
+13–18, 20), Sch 3
+(items 1–5, 9), Sch 5–8,
+Sch 9 (items 1–3, 5), Sch
+
+Sch 1 (item 36), Sch
+2 (items 13, 20), Sch
+3 (item 9), Sch 5
+(item 7), Sch 6
+(item 5), Sch 7
+
+10 (items 72–80, 93) and
+Sch 11: 1 Jan 2017 (s
+2(1) items 2, 4, 6, 9)
+Sch 10 (items 2–27, 49–
+54): 1 July 2018 (s 2(1)
+item 5)
+
+(item 4), Sch 8
+(item 28), Sch 9
+(item 5), Sch 10
+(items 49–54), Sch
+10 (item 93) and Sch
+11 (item 11)
+
+Sch 1 (items 25–28): 1
+Jan 2017 (s 2(1) item 6)
+
+—
+
+2016
+Treasury Laws
+Amendment (Fair and
+Sustainable
+Superannuation) Act
+2016
+
+as amended by
+Treasury Laws
+Amendment (2017
+Measures No. 2)
+Act 2017
+
+55, 2017
+
+22 June
+2017
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+103
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (Working
+Holiday Maker
+Reform) Act 2016
+
+89, 2016
+
+2 Dec 2016
+
+Sch 2 (items 2, 6): 2 Dec
+2016 (s 2(1) item 3)
+
+Sch 2 (item 6)
+
+Treasury Laws
+Amendment (Bourke
+Street Fund) Act 2017
+
+14, 2017
+
+28 Feb
+2017
+
+1 Apr 2017 (s 2(1)
+item 1)
+
+—
+
+Tax and
+Superannuation Laws
+Amendment (2016
+Measures No. 2) Act
+2017
+
+15, 2017
+
+28 Feb
+2017
+
+Sch 1 (item 1): 1 Mar
+2017 (s 2(1) item 2)
+Sch 2 and Sch 4
+(items 26–69, 71–83): 1
+Apr 2017 (s 2(1) items 3,
+
+Sch 2 (item 5) and
+Sch 4 (items 32, 34,
+36)
+
+8, 10)
+Sch 4 (item 70): 19 Mar
+2015 (s 2(1) item 9)
+Family Assistance
+Legislation
+Amendment (Jobs for
+Families Child Care
+Package) Act 2017
+
+22, 2017
+
+4 Apr 2017
+
+Sch 2 (items 6–8): 2 July
+2018 (s 2(1) item 2)
+Sch 4: 5 Apr 2017 (s
+2(1) item 5)
+
+Sch 4
+
+Treasury Laws
+Amendment (2016
+Measures No. 1) Act
+2017
+
+25, 2017
+
+4 Apr 2017
+
+Sch 3 (items 1–11) and
+Sch 4 (items 3–5): 5 Apr
+2017 (s 2(1) items 4, 6)
+Sch 3 (items 12–14): 1
+Sept 2017 (s 2(1) item 5)
+
+Sch 3 (items 11, 14)
+
+Treasury Laws
+Amendment (2017
+Measures No. 1) Act
+2017
+
+26, 2017
+
+4 Apr 2017
+
+Sch 1: 1 July 2017 (s
+2(1) item 2)
+
+Sch 1 (item 5)
+
+Treasury Laws
+Amendment
+(Combating
+Multinational Tax
+Avoidance) Act 2017
+
+27, 2017
+
+4 Apr 2017
+
+Sch 1 (items 14–43, 52)
+and Sch 3: 1 July 2017 (s
+2(1) items 4, 5)
+
+Sch 1 (item 52) and
+Sch 3 (item 4)
+
+104
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment
+(Enterprise Tax Plan)
+Act 2017
+
+41, 2017
+
+19 May
+2017
+
+Sch 2 (item 1), Sch 3
+(items 1–21), Sch 4
+(items 1–29) and Sch 5
+(items 1, 2): 1 July 2016
+(s 2(1) items 9, 14, 16,
+
+Sch 2 (item 5), Sch
+3 (item 22) and Sch
+4 (item 58)
+
+18)
+Sch 2 (item 2) and Sch 5
+(items 17, 18): repealed
+before commencing (s
+2(1) items 10, 20)
+Sch 2 (item 3) and Sch 5
+(items 19, 20): 1 July
+2020 (s 2(1) items 11,
+21)
+Sch 2 (item 4) and Sch 5
+(items 21, 22): 1 July
+2021 (s 2(1) items 12,
+22)
+Sch 2 (item 5), Sch 3
+(item 22) and Sch 4
+(item 58): 19 May 2017
+(s 2(1) items 13, 15, 17)
+Sch 5 (items 3–8): 1 July
+2017 (s 2(1) item 19)
+as amended by
+Treasury Laws
+Amendment (Lower
+Taxes for Small and
+Medium
+Businesses) Act
+
+134, 2018
+
+25 Oct
+2018
+
+Sch 1 (items 2, 5, 6) and
+Sch 2: 1 Jan 2019 (s 2(1)
+item 1)
+
+—
+
+2018
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+105
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Social Services
+Legislation
+Amendment (Energy
+Assistance Payment
+and Pensioner
+
+46, 2017
+
+19 June
+2017
+
+Sch 1 (items 10–16):
+19 June 2017 (s 2(1)
+item 2)
+
+—
+
+Treasury Laws
+Amendment (2017
+Measures No. 2) Act
+2017
+
+55, 2017
+
+22 June
+2017
+
+Sch 1 (items 1–15, 32):
+1 July 2017 (s 2(1)
+items 2, 7)
+
+Sch 1 (item 32)
+
+Treasury Laws
+Amendment
+(Accelerated
+Depreciation For
+Small Business
+
+56, 2017
+
+22 June
+2017
+
+Sch 1 (items 1–7): 1 July
+2017 (s 2(1) item 2)
+
+—
+
+Veterans’ Affairs
+Legislation
+Amendment (Budget
+Measures) Act 2017
+
+59, 2017
+
+22 June
+2017
+
+Sch 1 (items 26–33):
+1 July 2017 (s 2(1)
+item 4)
+
+—
+
+Treasury Laws
+Amendment (Major
+Bank Levy) Act 2017
+
+64, 2017
+
+23 June
+2017
+
+Sch 1 (items 4–13, 23):
+24 June 2017 (s 2(1)
+item 2)
+
+Sch 1 (item 23)
+
+Statute Update
+(Winter 2017) Act
+2017
+
+93, 2017
+
+23 Aug
+2017
+
+Sch 2 (items 10–12): 20
+Sept 2017 (s 2(1) item 4)
+
+—
+
+Treasury Laws
+Amendment (2017
+Measures No. 4) Act
+2017
+
+94, 2017
+
+23 Aug
+2017
+
+Sch 2: 1 Oct 2017 (s 2(1)
+item 2)
+
+Sch 2 (item 20)
+
+Concession Card) Act
+2017
+
+Entities) Act 2017
+
+106
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Safety, Rehabilitation
+and Compensation
+Legislation
+Amendment (Defence
+Force) Act 2017
+
+108, 2017
+
+14 Sept
+2017
+
+Sch 3 (item 12): 12 Oct
+2017 (s 2(1) item 5)
+
+—
+
+Treasury Laws
+Amendment (2017
+Measures No. 6) Act
+2017
+
+118, 2017
+
+30 Oct
+2017
+
+Sch 2: 1 Jan 2018 (s 2(1)
+item 3)
+
+—
+
+Treasury Laws
+Amendment (Housing
+Tax Integrity) Act
+2017
+
+126, 2017
+
+30 Nov
+2017
+
+Sch 1 and 2: 1 Jan 2018
+(s 2(1) item 2)
+
+Sch 1 (item 5) and
+Sch 2 (item 13)
+
+Veterans’ Affairs
+Legislation
+Amendment
+(Omnibus) Act 2017
+
+128, 2017
+
+30 Nov
+2017
+
+Sch 8 (items 11–15, 19,
+26, 27): 1 Dec 2017 (s
+2(1) item 10)
+
+Sch 8 (items 19, 27)
+
+Treasury Laws
+Amendment
+(Reducing Pressure on
+Housing Affordability
+Measures No. 1) Act
+
+132, 2017
+
+13 Dec
+2017
+
+Sch 1 (items 6–12, 21,
+27–31): 1 July 2018 (s
+2(1) item 2)
+Sch 2 (items 1–5, 7): 1
+Jan 2018 (s 2(1) item 3)
+
+Sch 2 (item 7)
+
+Statute Update
+(Smaller Government)
+Act 2018
+
+4, 2018
+
+20 Feb
+2018
+
+Sch 6 (items 9–20, 27):
+21 Feb 2018 (s 2(1)
+item 1)
+
+Sch 6 (item 27)
+
+Financial Sector
+Legislation
+Amendment (Crisis
+Resolution Powers and
+Other Measures) Act
+
+10, 2018
+
+5 Mar 2018
+
+Sch 7 (items 4–11):
+5 Mar 2018 (s 2(1)
+item 2)
+
+—
+
+2017
+
+2018
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+107
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (Putting
+Consumers First—
+Establishment of the
+Australian Financial
+
+13, 2018
+
+5 Mar 2018
+
+s 4: 5 Mar 2018 (s 2(1)
+item 1)
+Sch 1 (items 15, 31, 46,
+58): 6 Mar 2018 (s 2(1)
+items 2, 6)
+
+s 4 and Sch 1
+(items 31, 58)
+
+Treasury Laws
+Amendment (Income
+Tax Consolidation
+Integrity) Act 2018
+
+14, 2018
+
+28 Mar
+2018
+
+Sch 1: 1 Apr 2018 (s
+2(1) items 2–4)
+
+Sch 1 (items 6, 9,
+14, 15, 18, 19, 21,
+25, 30, 31)
+
+Treasury Laws
+Amendment (Junior
+Minerals Exploration
+Incentive) Act 2018
+
+15, 2018
+
+28 Mar
+2018
+
+Sch 1 (items 1–6A, 11–
+26, 65–67): 1 Apr 2018
+(s 2(1) items 2, 4)
+Sch 1 (items 42–52, 68–
+73): repealed before
+
+Sch 1 (items 65–73)
+
+Complaints Authority)
+Act 2018
+
+commencing (s 2(1)
+items 3, 5)
+as amended by
+Treasury Laws
+Amendment (2021
+Measures No. 4)
+Act 2021
+Veterans’ Affairs
+Legislation
+Amendment
+(Veteran-centric
+Reforms No. 1) Act
+
+72, 2021
+
+30 June
+2021
+
+Sch 2 (items 13–16):
+1 July 2021 (s 2(1)
+item 3)
+
+—
+
+17, 2018
+
+28 Mar
+2018
+
+Sch 2 (items 47, 48):
+1 May 2018 (s 2(1)
+item 3)
+
+—
+
+2018
+
+108
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (2018
+Measures No. 1) Act
+2018
+
+23, 2018
+
+29 Mar
+2018
+
+Sch 1 (items 12–19, 21–
+23, 60–62), Sch 2
+(items 1, 2, 6) and Sch 5
+(items 7–11, 26–28): 1
+Apr 2018 (s 2(1) items 3,
+
+Sch 1 (items 19, 75–
+79), Sch 2 (item 6)
+and Sch 5
+(items 26–28)
+
+5, 8, 10, 12)
+Sch 1 (items 75–79): 30
+Mar 2018 (s 2(1) item 9)
+Social Services
+Legislation
+Amendment (Welfare
+Reform) Act 2018
+
+Treasury Laws
+Amendment (Personal
+Income Tax Plan) Act
+2018
+
+26, 2018
+
+47, 2018
+
+11 Apr
+2018
+
+21 June
+2018
+
+Sch 1 (items 14–23,
+342–354), Sch 2
+(items 3–6, 82–93),
+Sch 3 (items 5–8, 98–
+111) and Sch 4 (items 1–
+
+Sch 1 (items 342–
+354), Sch 2
+(items 82–93), Sch 3
+(items 98–111),
+Sch 4 (items 105–
+
+7, 105–110): 20 Mar
+2020 (s 2(1) items 2, 4–
+6)
+Sch 5 (items 32–39,
+139–148): 20 Sept 2020
+(s 2(1) item 8)
+Sch 6 (items 6–8, 63–72)
+and Sch 7 (items 2–6,
+68–77): 1 Jan 2022
+(s 2(1) items 10, 11)
+
+110), Sch 5
+(items 139–148),
+Sch 6 (items 63–72)
+and Sch 7
+(items 68–77)
+
+Sch 1 (items 1, 6, 7):
+1 July 2018 (s 2(1)
+item 2)
+Sch 1 (items 11–15, 19,
+20): repealed before
+
+Sch 1 (item 20)
+
+commencing (s 2(1)
+item 3)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+109
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+92, 2020
+
+14 Oct
+2020
+
+Sch 1 (items 28, 30): 15
+Oct 2020 (s 2(1) item 6)
+
+—
+
+Legislation
+Amendment
+(Sunsetting Review
+and Other Measures)
+Act 2018
+
+78, 2018
+
+24 Aug
+2018
+
+Sch 2 (item 16): 25 Aug
+2018 (s 2(1) item 5)
+
+—
+
+Treasury Laws
+Amendment (Illicit
+Tobacco Offences)
+Act 2018
+
+82, 2018
+
+24 Aug
+2018
+
+Sch 1 (items 3, 25): 25
+Aug 2018 (s 2(1) item 2)
+
+Sch 1 (item 25)
+
+Treasury Laws
+Amendment (Tax
+Integrity and Other
+Measures No. 2) Act
+2018
+
+84, 2018
+
+24 Aug
+2018
+
+Sch 1 (items 1, 8–13,
+15), Sch 2 (items 1–3, 6–
+10), Sch 3, Sch 4
+(items 2–4) and Sch 5: 1
+Oct 2018 (s 2(1) item 1)
+
+Sch 1 (item 15), Sch
+2 (items 9, 10) and
+Sch 3 (item 2)
+
+Treasury Laws
+Amendment
+(Enterprise Tax Plan
+Base Rate Entities)
+Act 2018
+
+94, 2018
+
+31 Aug
+2018
+
+Sch 2 (items 1, 2): 1 July
+2017 (s 2(1) item 4)
+
+Sch 2 (item 2)
+
+Treasury Laws
+Amendment
+(Accelerated
+Depreciation for Small
+Business Entities) Act
+
+109, 2018
+
+21 Sept
+2018
+
+Sch 1 (items 1–7): 1 Oct
+2018 (s 2(1) item 2)
+
+—
+
+as amended by
+Treasury Laws
+Amendment (A Tax
+Plan for the
+COVID-19
+Economic
+Recovery) Act 2020
+
+2018
+
+110
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Education and Other
+Legislation
+Amendment (VET
+Student Loan Debt
+Separation) Act 2018
+
+116, 2018
+
+25 Sept
+2018
+
+Sch 1 (items 27–32):
+1 July 2019 (s 2(1)
+item 2B)
+
+—
+
+Treasury Laws
+Amendment (Black
+Economy Taskforce
+Measures No. 1) Act
+2018
+
+121, 2018
+
+3 Oct 2018
+
+Sch 1 (items 1, 4): 4 Oct
+2018 (s 2(1) item 1)
+
+Sch 1 (item 4)
+
+Treasury Laws
+Amendment
+(Supporting Australian
+Farmers) Act 2018
+
+123, 2018
+
+3 Oct 2018
+
+Sch 1: 1 Jan 2019 (s 2(1)
+item 2)
+
+Sch 1 (item 3)
+
+Treasury Laws
+Amendment (Tax
+Integrity and Other
+Measures) Act 2018
+
+124, 2018
+
+3 Oct 2018
+
+Sch 2, Sch 3 (items 1–
+3A, 6) and Sch 4: 1 Jan
+2019 (s 2(1) item 1)
+
+Sch 2 (item 3), Sch
+3 (item 6) and Sch 4
+(item 5)
+
+Civil Law and Justice
+Legislation
+Amendment Act 2018
+
+130, 2018
+
+25 Oct
+2018
+
+Sch 6 (item 66): 22 Nov
+2018 (s 2(1) item 10)
+
+—
+
+Treasury Laws
+Amendment (Black
+Economy Taskforce
+Measures No. 2) Act
+2018
+
+141, 2018
+
+29 Nov
+2018
+
+Sch 1: 1 Jan 2019 (s 2(1)
+item 2)
+
+Sch 1 (item 2)
+
+Treasury Laws
+Amendment (2017
+Enterprise Incentives
+No. 1) Act 2019
+
+7, 2019
+
+1 Mar 2019
+
+Sch 1 (items 1–13, 33–
+164): 1 Apr 2019 (s 2(1)
+item 1)
+
+Sch 1 (items 13,
+164)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+111
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (2018
+Measures No. 4) Act
+2019
+
+8, 2019
+
+1 Mar 2019
+
+Sch 3 (items 1, 10), Sch
+8 (items 8, 10, 11, 13,
+35–46), Sch 9 and 10: 1
+Apr 2019 (s 2(1) items 3,
+11, 13)
+
+Sch 3 (item 10) and
+Sch 8 (items 10, 11,
+36, 38, 40, 44)
+
+Sch 11: 1 July 2019 (s
+2(1) item 14)
+Treasury Laws
+Amendment (2018
+Measures No. 5) Act
+2019
+
+15, 2019
+
+12 Mar
+2019
+
+Sch 1 (items 2–17, 46): 1
+Apr 2019 (s 2(1) item 2)
+
+Sch 1 (item 46)
+
+Treasury Laws
+Amendment
+(Protecting Your
+Superannuation
+Package) Act 2019
+
+16, 2019
+
+12 Mar
+2019
+
+Sch 3 (items 1–15, 38):
+13 Mar 2019 (s 2(1)
+item 2)
+
+Sch 3 (item 38)
+
+Treasury Laws
+Amendment (2019
+Measures No. 3)
+Act 2020
+
+64, 2020
+
+22 June
+2020
+
+Sch 3 (item 62): 23 June
+2020 (s 2(1) item 4)
+
+—
+
+Social Services
+Legislation
+Amendment (Energy
+Assistance Payment)
+Act 2019
+
+28, 2019
+
+5 Apr 2019
+
+Sch 1 (items 10–13): 6
+Apr 2019 (s 2(1) item 1)
+
+—
+
+Treasury Laws
+Amendment (North
+Queensland Flood
+Recovery) Act 2019
+
+30, 2019
+
+5 Apr 2019
+
+Sch 1 and 2: 1 July 2019
+(s 2(1) item 2)
+
+Sch 1 (item 3) and
+Sch 2 (item 3)
+
+as amended by
+
+112
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (Making
+Sure Foreign Investors
+Pay Their Fair Share
+of Tax in Australia
+
+34, 2019
+
+5 Apr 2019
+
+Sch 1 (items 1–5, 12, 13,
+16), Sch 2, Sch 4
+(items 3–6, 8, 9) and Sch
+5 (items 1, 2, 5): 1 July
+2019 (s 2(1) items 2, 3)
+
+Sch 1 (item 16), Sch
+2 (item 4) and Sch 5
+(item 5)
+
+Treasury Laws
+Amendment (Mutual
+Reforms) Act 2019
+
+37, 2019
+
+5 Apr 2019
+
+Sch 2 (items 17–22): 6
+Apr 2019 (s 2(1) item 1)
+
+—
+
+Treatment Benefits
+(Special Access)
+(Consequential
+Amendments and
+Transitional
+
+42, 2019
+
+5 Apr 2019
+
+Sch 1 (items 1, 2) and
+Sch 2 (items 9–11): 6
+Apr 2019 (s 2(1) item 2)
+
+Sch 1 (items 1, 2)
+
+Treasury Laws
+Amendment (2019
+Petroleum Resource
+Rent Tax Reforms
+No. 1) Act 2019
+
+43, 2019
+
+5 Apr 2019
+
+Sch 2 (items 79–92):
+1 July 2019 (s 2(1)
+item 1)
+
+Sch 2 (items 85–92)
+
+Treasury Laws
+Amendment (2019
+Measures No. 1) Act
+2019
+
+49, 2019
+
+5 Apr 2019
+
+Sch 3 (item 1) and Sch 4
+(items 71–94, 111):
+1 July 2019 (s 2(1)
+items 10, 12)
+
+Sch 4 (item 111)
+
+Treasury Laws
+Amendment
+(Increasing and
+Extending the Instant
+Asset Write-Off) Act
+
+51, 2019
+
+6 Apr 2019
+
+Sch 1 (items 1–7) and
+Sch 2: 1 July 2019 (s
+2(1) item 1)
+
+—
+
+and Other Measures)
+Act 2019
+
+Provisions) Act 2019
+
+2019
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+113
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (Tax
+Relief So Working
+Australians Keep
+More Of Their
+
+52, 2019
+
+5 July 2019
+
+Sch 1: 6 July 2019 (s
+2(1) item 1)
+
+Sch 1 (item 4)
+
+Treasury Laws
+Amendment (Timor
+Sea Maritime
+Boundaries Treaty)
+Act 2019
+
+59, 2019
+
+7 Aug 2019
+
+Sch 1 and Sch 2
+(items 9–20): 30 Aug
+2019 (s 2(1) item 2)
+
+—
+
+Treasury Laws
+Amendment (Making
+Sure Multinationals
+Pay Their Fair Share
+of Tax in Australia
+
+65, 2019
+
+13 Sept
+2019
+
+Sch 1 (items 4–18): 1
+Oct 2019 (s 2(1) item 2)
+
+Sch 1 (items 17, 18)
+
+Treasury Laws
+Amendment (2018
+Superannuation
+Measures No. 1) Act
+2019
+
+78, 2019
+
+2 Oct 2019
+
+Sch 2 and Sch 3
+(items 1, 2): 1 Jan 2020
+(s 2(1) item 3)
+
+Sch 2 (item 4)
+
+Treasury Laws
+Amendment (2019
+Measures No. 2) Act
+2019
+
+94, 2019
+
+28 Oct
+2019
+
+Sch 1: 29 Oct 2019 (s
+2(1) item 2)
+
+Sch 1 (item 3)
+
+Treasury Laws
+Amendment (2019
+Tax Integrity and
+Other Measures No. 1)
+Act 2019
+
+95, 2019
+
+28 Oct
+2019
+
+Sch 2 and 3: 1 Jan 2020
+(s 2(1) item 2)
+Sch 5 (items 1, 4): 29
+Oct 2019 (s 2(1) item 3)
+
+Sch 2 (item 3), Sch
+3 (item 4) and Sch 5
+(item 4)
+
+Money) Act 2019
+
+and Other Measures)
+Act 2019
+
+114
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Medical and Midwife
+Indemnity Legislation
+Amendment Act 2019
+
+105, 2019
+
+28 Nov
+2019
+
+Sch 1 (items 5–7, 54):
+1 July 2020 (s 2(1)
+item 2)
+
+Sch 1 (item 54)
+
+Treasury Laws
+Amendment
+(International Tax
+Agreements) Act 2019
+
+107, 2019
+
+28 Nov
+2019
+
+Sch 2 (items 1, 2): 1 Jan
+2020 (s 2(1) item 3)
+
+—
+
+Military Rehabilitation
+and Compensation
+Amendment (Single
+Treatment Pathway)
+Act 2019
+
+122, 2019
+
+12 Dec
+2019
+
+Sch 1 (items 25, 28–32):
+12 Dec 2019 (s 2(1)
+item 1)
+
+Sch 1 (items 28–32)
+
+Treasury Laws
+Amendment
+(Reducing Pressure on
+Housing Affordability
+Measures) Act 2019
+
+129, 2019
+
+12 Dec
+2019
+
+Sch 1 (items 1–31, 33–
+36) and Sch 2: 1 Jan
+2020 (s 2(1) item 2)
+
+Sch 1 (items 33, 36)
+and Sch 2 (item 3)
+
+Treasury Laws
+Amendment (2019-20
+Bushfire Tax
+Assistance) Act 2020
+
+1, 2020
+
+13 Feb
+2020
+
+14 Feb 2020 (s 2(1)
+item 1)
+
+Sch 1 (item 3)
+
+Treasury Laws
+Amendment (2018
+Measures No. 2) Act
+2020
+
+8, 2020
+
+26 Feb
+2020
+
+Sch 2 (items 1–17): 1
+Apr 2020 (s 2(1) item 3)
+
+Sch 2 (items 3, 14,
+17)
+
+Statute Update
+(Regulations
+References) Act 2020
+
+18, 2020
+
+6 Mar 2020
+
+Sch 1 (items 24–26): 6
+Sept 2020 (s 2(1) item 1)
+
+—
+
+Treasury Laws
+Amendment
+(Recovering Unpaid
+Superannuation) Act
+2020
+
+21, 2020
+
+6 Mar 2020
+
+Sch 1 (items 1–9): 1 Apr
+2020 (s 2(1) item 2)
+
+Sch 1 (item 9)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+115
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Coronavirus
+Economic Response
+Package Omnibus Act
+2020
+
+22, 2020
+
+24 Mar
+2020
+
+Sch 1 (items 1–14), Sch
+2 (items 1–6) and Sch 4
+(items 12–22): 25 Mar
+2020 (s 2(1) items 2, 4)
+Sch 3 (items 1, 2): 24
+
+—
+
+Mar 2020 (s 2(1) item 3)
+Coronavirus
+Economic Response
+Package Omnibus
+(Measures No. 2) Act
+2020
+
+38, 2020
+
+9 Apr 2020
+
+Sch 2 (items 3–6): 9 Apr
+2020 (s 2(1) item 4)
+
+—
+
+Treasury Laws
+Amendment (2020
+Measures No. 1) Act
+2020
+
+49, 2020
+
+25 May
+2020
+
+Sch 1 (items 1–17, 21)
+and Sch 2 (items 1, 7):
+1 July 2020 (s 2(1)
+item 1)
+
+Sch 1 (item 21) and
+Sch 2 (item 7)
+
+Treasury Laws
+Amendment (2020
+Measures No. 3) Act
+2020
+
+61, 2020
+
+19 June
+2020
+
+Sch 2: 1 July 2020 (s
+2(1) item 5)
+Sch 4 (items 1–17):
+20 June 2020 (s 2(1)
+item 6)
+
+—
+
+Treasury Laws
+Amendment (2019
+Measures No. 3) Act
+2020
+
+64, 2020
+
+22 June
+2020
+
+Sch 3 (items 72–122):
+1 July 2020 (s 2(1)
+item 5)
+Sch 3 (items 228–239,
+325, 326): 1 Oct 2020 (s
+
+Sch 3 (items 73, 83,
+91, 93, 105, 110,
+114, 119, 325, 326,
+330)
+
+2(1) item 6)
+Sch 3 (items 327–330):
+1 July 2017 (s 2(1)
+item 7)
+
+116
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment
+(Registries
+Modernisation and
+Other Measures) Act
+
+69, 2020
+
+22 June
+2020
+
+Sch 1 (items 1369–1385,
+1465–1467): awaiting
+commencement (s 2(1)
+item 5)
+
+Sch 1 (items 1465–
+1467) and Sch 1
+(item 1468)
+
+Treasury Laws
+Amendment (2021
+Measures No. 5)
+Act 2021
+
+127, 2021
+
+7 Dec 2021
+
+Sch 3 (item 105):
+22 June 2020 (s 2(1)
+item 8)
+
+—
+
+Treasury Laws
+Amendment (2022
+Measures No. 1)
+Act 2022
+
+35, 2022
+
+9 Aug 2022
+
+Sch 4 (item 7): 21 June
+2022 (s 2(1) item 5)
+Sch 4 (item 15): 10 Aug
+2022 (s 2(1) item 6)
+
+—
+
+Treasury Laws
+Amendment (2020
+Measures No. 2) Act
+2020
+
+79, 2020
+
+3 Sept 2020
+
+Sch 1, 3 and 5: 1 Oct
+2020 (s 2(1) items 2, 4)
+
+Sch 1 (items 41, 51,
+60, 64) and Sch 3
+(item 4)
+
+Treasury Laws
+Amendment (A Tax
+Plan for the
+COVID-19 Economic
+Recovery) Act 2020
+
+92, 2020
+
+14 Oct
+2020
+
+Sch 1 (items 18–21, 24):
+15 Oct 2020 (s 2(1)
+item 4)
+Sch 1 (items 25–27):
+1 July 2022 (s 2(1)
+
+Sch 1 (items 24, 27),
+Sch 3 (item 40), Sch
+4 (item 14) and Sch
+5 (item 56)
+
+2020
+as amended by
+
+item 5)
+Sch 2 (items 1–3, 16–
+35), Sch 3 (items 25–36,
+40), Sch 4 (items 1–11,
+14), Sch 5 (items 11–38,
+56) and Sch 7 (items 5–
+8, 12–25): 1 Jan 2021 (s
+2(1) item 7)
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+117
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (2021
+Measures No. 4)
+Act 2021
+
+72, 2021
+
+30 June
+2021
+
+Sch 6: 14 Oct 2020 (s
+2(1) item 6)
+
+—
+
+Social Services and
+Other Legislation
+Amendment
+(Coronavirus and
+Other Measures) Act
+
+97, 2020
+
+13 Nov
+2020
+
+Sch 1 (items 28–36): 14
+Nov 2020 (s 2(1) item 2)
+
+—
+
+Social Services and
+Other Legislation
+Amendment
+(Omnibus) Act 2020
+
+107, 2020
+
+26 Nov
+2020
+
+Sch 3 (items 2–9): 27
+Nov 2020 (s 2(1) item 3)
+
+—
+
+Family Law
+Amendment (Western
+Australia De Facto
+Superannuation
+Splitting and
+
+112, 2020
+
+8 Dec 2020
+
+Sch 3 (items 39–47): 28
+Sept 2022 (s 2(1) item 1)
+
+—
+
+118, 2020
+
+11 Dec
+2020
+
+Sch 1: 12 Dec 2020 (s
+2(1) item 2)
+Sch 2 (items 1–6): 11
+Dec 2021 (s 2(1) item 3)
+Sch 3: 1 Jan 2021 (s 2(1)
+
+Sch 1 (item 3)
+
+as amended by
+
+2020
+
+Bankruptcy) Act 2020
+Treasury Laws
+Amendment (2020
+Measures No. 5) Act
+2020
+
+item 5)
+National Emergency
+Declaration
+(Consequential
+Amendments) Act
+2020
+
+118
+Compilation No. 258
+
+129, 2020
+
+15 Dec
+2020
+
+Sch 1 (item 24): 16 Dec
+2020 (s 2(1) item 2)
+
+—
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (2020
+Measures No. 6) Act
+2020
+
+141, 2020
+
+17 Dec
+2020
+
+Sch 1 (item 1) and Sch 4
+(items 82–101): 1 Jan
+2021 (s 2(1) items 2, 7)
+Sch 4 (item 146): 18 Dec
+2020 (s 2(1) item 16)
+
+Sch 4 (item 146)
+
+Radiocommunications
+Legislation
+Amendment (Reform
+and Modernisation)
+Act 2020
+
+151, 2020
+
+17 Dec
+2020
+
+Sch 9 (items 101–106):
+17 June 2021 (s 2(1)
+item 12)
+
+Sch 9 (item 106)
+
+Federal Circuit and
+Family Court of
+Australia
+(Consequential
+Amendments and
+
+13, 2021
+
+1 Mar 2021
+
+Sch 2 (item 467): 1 Sept
+2021 (s 2(1) item 5)
+
+—
+
+Treasury Laws
+Amendment
+(Reuniting More
+Superannuation) Act
+2021
+
+24, 2021
+
+22 Mar
+2021
+
+Sch 1 (items 1–14): 23
+Mar 2021 (s 2(1) item 2)
+Sch 2 (items 1–14): 29
+Mar 2021 (s 2(1) item 3)
+
+—
+
+Treasury Laws
+Amendment (More
+Flexible
+Superannuation) Act
+2021
+
+45, 2021
+
+22 June
+2021
+
+Sch 1, Sch 2 (items 1–4,
+14) and Sch 3: 1 July
+2021 (s 2(1) items 2, 3)
+
+Sch 1 (item 2) and
+Sch 2 (item 14)
+
+Treasury Laws
+Amendment (Self
+Managed
+Superannuation
+Funds) Act 2021
+
+47, 2021
+
+22 June
+2021
+
+Sch 1 (items 4–9): 1 July
+2021 (s 2(1) item 1)
+
+—
+
+Transitional
+Provisions) Act 2021
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+119
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (2021
+Measures No. 3) Act
+2021
+
+61, 2021
+
+29 June
+2021
+
+Sch 3 (items 1–3), Sch 4
+and Sch 5: 1 July 2021 (s
+2(1) items 4, 6)
+
+Sch 3 (item 3) and
+Sch 4 (item 3)
+
+Treasury Laws
+Amendment
+(COVID-19 Economic
+Response) Act 2021
+
+71, 2021
+
+30 June
+2021
+
+Sch 1: 1 July 2021 (s
+2(1) item 1)
+
+Sch 1 (item 2)
+
+Treasury Laws
+Amendment (2021
+Measures No. 4) Act
+2021
+
+72, 2021
+
+30 June
+2021
+
+Sch 2 (items 1–12, 17,
+18) and Sch 3 (items 1,
+2): 1 July 2021 (s 2(1)
+items 3, 4)
+
+Sch 2 (items 17, 18)
+
+Treasury Laws
+Amendment
+(COVID-19 Economic
+Response No. 2) Act
+2021
+
+79, 2021
+
+10 Aug
+2021
+
+Sch 3 and Sch 5: 11 Aug
+2021 (s 2(1) item 1)
+
+Sch 3 (item 3) and
+Sch 5 (item 3)
+
+Industry Research and
+Development
+Amendment (Industry
+Innovation and
+Science Australia) Act
+
+101, 2021
+
+10 Sept
+2021
+
+Sch 1 (item 3): 11 Sept
+2021 (s 2(1) item 1)
+
+—
+
+Treasury Laws
+Amendment (2021
+Measures No. 2) Act
+2021
+
+110, 2021
+
+13 Sept
+2021
+
+Sch 1 and Sch 2
+(items 8–13): 1 Oct 2021
+(s 2(1) item 2)
+
+Sch 1 (items 12–16)
+and Sch 2 (item 13)
+
+Treasury Laws
+Amendment (2021
+Measures No. 6) Act
+2021
+
+111, 2021
+
+13 Sept
+2021
+
+Sch 1 and 3: 1 Oct 2021
+(s 2(1) items 2, 4)
+
+Sch 1 (item 3) and
+Sch 3 (item 2)
+
+2021
+
+120
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (2021
+Measures No. 5) Act
+2021
+
+127, 2021
+
+7 Dec 2021
+
+Sch 1 and Sch 3
+(items 42, 49–63, 65–69,
+71, 72): 1 Jan 2022
+(s 2(1) items 2, 5)
+Sch 2 (item 56) and
+
+Sch 1 (item 28) and
+Sch 3 (items 5, 51,
+63, 69, 72)
+
+Sch 3 (items 3–5, 33–
+35): 8 Dec 2021 (s 2(1)
+items 3, 4)
+Territories Stolen
+Generations Redress
+Scheme
+(Consequential
+Amendments) Act
+
+141, 2021
+
+13 Dec
+2021
+
+Sch 1 (items 1–3): 1 Jan
+2022 (s 2(1) item 2)
+
+Sch 1 (item 3)
+
+142, 2021
+
+13 Dec
+2021
+
+Sch 1 (items 15–20): 1
+Jan 2022 (s 2(1) item 2)
+
+Sch 1 (item 20)
+
+2021
+Veterans’ Affairs
+Legislation
+Amendment
+(Exempting Disability
+Payments from
+Income Testing and
+Other Measures) Act
+2021
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+121
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Corporate Collective
+Investment Vehicle
+Framework and Other
+Measures Act 2022
+
+8, 2022
+
+22 Feb
+2022
+
+Sch 5 (items 1–4, 8–14):
+1 July 2022 (s 2(1)
+item 4)
+Sch 5 (items 15–19):
+awaiting commencement
+
+Sch 5 (item 19), Sch
+5 (item 20), Sch 8
+(item 34) and Sch 10
+(item 9)
+
+(s 2(1) item 5)
+Sch 6 (items 1–22, 24),
+Sch 7, Sch 8 (items 33,
+34) and Sch 10: 1 Apr
+2022 (s 2(1) items 6–8,
+10, 14)
+as amended by
+Treasury Laws
+Amendment (Fairer
+for Families and
+Farmers and Other
+Measures) Act 2024
+Treasury Laws
+Amendment
+(Enhancing
+Superannuation
+Outcomes For
+
+136, 2024
+
+10 Dec
+2024
+
+Sch 1 (item 5): 31 Dec
+2024 (s 2(1) item 3)
+Sch 1 (item 6): 11 Dec
+2024 (s 2(1) item 4)
+
+—
+
+10, 2022
+
+22 Feb
+2022
+
+Sch 3–5: 1 Apr 2022 (s
+2(1) item 3)
+
+Sch 3 (item 2), Sch
+4 (item 5) and Sch 5
+(item 2)
+
+14, 2022
+
+31 Mar
+2022
+
+Sch 2, 3, 6 and Sch 8
+(items 1–9): 1 Apr 2022
+(s 2(1) items 3, 7, 9)
+
+Sch 2 (item 4)
+
+Australians and
+Helping Australian
+Businesses Invest) Act
+2022
+Treasury Laws
+Amendment (Cost of
+Living Support and
+Other Measures) Act
+2022
+
+122
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment
+(Laminaria and
+Corallina
+Decommissioning
+
+24, 2022
+
+1 Apr 2022
+
+Sch 1 (items 1–5, 21): 2
+Apr 2022 (s 2(1) item 1)
+
+Sch 1 (item 21)
+
+Treasury Laws
+Amendment (2022
+Measures No. 1) Act
+2022
+
+35, 2022
+
+9 Aug 2022
+
+Sch 1 (items 1–3) and
+Sch 3 (items 2, 3): 1 Oct
+2022 (s 2(1) items 2, 4)
+
+Sch 1 (item 3)
+
+Defence, Veterans’
+and Families’ Acute
+Support Package Act
+2022
+
+40, 2022
+
+7 Oct 2022
+
+Sch 1 (items 25–27): 14
+Oct 2022 (s 2(1) item 1)
+
+Sch 1 (item 27)
+
+Treasury Laws
+Amendment (2022
+Measures No. 3) Act
+2022
+
+75, 2022
+
+5 Dec 2022
+
+Sch 4 (items 2–21, 38):
+1 July 2022 (s 2(1)
+item 4)
+
+Sch 4 (item 38)
+
+Treasury Laws
+Amendment (2022
+Measures No. 2) Act
+2022
+
+84, 2022
+
+12 Dec
+2022
+
+Sch 1 (item 16), Sch 3
+(items 28–33) and Sch 5:
+1 Jan 2023 (s 2(1)
+items 2, 4)
+
+Sch 3 (item 33) and
+Sch 5 (item 2)
+
+Treasury Laws
+Amendment (2022
+Measures No. 5) Act
+2023
+
+2, 2023
+
+16 Feb
+2023
+
+1 Apr 2023 (s 2(1)
+item 1)
+
+—
+
+Paid Parental Leave
+Amendment
+(Improvements for
+Families and Gender
+Equality) Act 2023
+
+4, 2023
+
+10 Mar
+2023
+
+Sch 2 (item 16) and Sch
+3 (items 1, 2): 26 Mar
+2023 (s 2(1) item 1)
+
+Sch 3 (items 1, 2)
+
+Cost Recovery Levy)
+Act 2022
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+123
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Safeguard Mechanism
+(Crediting)
+Amendment Act 2023
+
+14, 2023
+
+11 Apr
+2023
+
+Sch 1 (items 64–66): 12
+Apr 2023 (s 2(1) item 2)
+
+—
+
+Australia Council
+Amendment (Creative
+Australia) Act 2023
+
+15, 2023
+
+11 Apr
+2023
+
+Sch 1 (items 6, 7): 1 July
+2023 (s 2(1) item 2)
+
+—
+
+Treasury Laws
+Amendment (2023
+Measures No. 2) Act
+2023
+
+28, 2023
+
+23 June
+2023
+
+Sch 3: 1 July 2023
+(s 2(1) item 3)
+Sch 6: 24 June 2023
+(s 2(1) item 7)
+
+Sch 3 (item 8)
+
+Treasury Laws
+Amendment (2022
+Measures No. 4) Act
+2023
+
+29, 2023
+
+23 June
+2023
+
+Sch 1 and Sch 2
+(items 12, 13, 15): 1 July
+2023 (s 2(1) item 2)
+Sch 9 (items 5–7):
+24 June 2023 (s 2(1)
+
+Sch 1 (item 7) and
+Sch 2 (item 15)
+
+item 5)
+Treasury Laws
+Amendment (Refining
+and Improving Our
+Tax System) Act 2023
+
+40, 2023
+
+28 June
+2023
+
+Sch 2 and Sch 4
+(items 14–16): 1 July
+2023 (s 2(1) items 3, 5)
+Sch 3: 1 Jan 2024 (s 2(1)
+item 4)
+
+Sch 2 (item 3) and
+Sch 3 (items 7, 11,
+16, 20)
+
+Trade Support Loans
+Amendment Act 2023
+
+61, 2023
+
+21 Aug
+2023
+
+Sch 1 (items 132–136,
+156–165): 1 Jan 2024 (s
+2(1) item 1)
+
+Sch 1 (items 156–
+165)
+
+Treasury Laws
+Amendment
+(Modernising
+Business
+Communications and
+
+69, 2023
+
+14 Sept
+2023
+
+Sch 1 (item 109): 1 Jan
+2024 (s 2(1) item 3)
+Sch 4 (items 74–76): 15
+Sept 2023 (s 2(1) item 5)
+
+Sch 4 (item 76)
+
+Other Measures) Act
+2023
+
+124
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Inspector-General of
+Intelligence and
+Security and Other
+Legislation
+Amendment
+
+73, 2023
+
+20 Sept
+2023
+
+Sch 1 (item 179) and Sch
+3 (item 2): 21 Sept 2023
+(s 2(1) items 2, 5)
+
+Sch 3 (item 2)
+
+Treasury Laws
+Amendment (2023
+Measures No. 3) Act
+2023
+
+75, 2023
+
+20 Sept
+2023
+
+Sch 4 (items 1–13, 28,
+30): 15 Sept 2024 (s 2(1)
+item 11)
+
+Sch 4 (items 28, 30)
+
+Treasury Laws
+Amendment (2023
+Law Improvement
+Package No. 1) Act
+2023
+
+76, 2023
+
+20 Sept
+2023
+
+Sch 2 (items 649–659)
+and Sch 3 (item 41): 20
+Oct 2023 (s 2(1) items 2,
+14)
+Sch 6 (item 32): 21 Sept
+
+—
+
+(Modernisation) Act
+2023
+
+2023 (s 2(1) item 22)
+Treasury Laws
+Amendment (2023
+Measures No. 1) Act
+2023
+
+101, 2023
+
+27 Nov
+2023
+
+Sch 4 (items 6–9, 13–
+21): 1 Jan 2024 (s 2(1)
+item 6)
+Sch 5: 28 Nov 2023 (s
+2(1) item 7)
+
+Sch 4 (items 9, 21)
+and Sch 5 (item 3)
+
+Disability Services
+and Inclusion
+(Consequential
+Amendments and
+Transitional
+
+103, 2023
+
+28 Nov
+2023
+
+Sch 2 (item 10): 1 Jan
+2024 (s 2(1) item 2)
+
+—
+
+5, 2024
+
+8 Mar 2024
+
+Sch 1 (items 11–14): 1
+Oct 2024 (s 2(1) item 3)
+
+Sch 1 (item 14)
+
+Provisions) Act 2023
+Crimes Legislation
+Amendment
+(Combatting Foreign
+Bribery) Act 2024
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+125
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (Making
+Multinationals Pay
+Their Fair Share—
+Integrity and
+
+23, 2024
+
+8 Apr 2024
+
+Sch 2 (items 3–142,
+144–146): 1 July 2024 (s
+2(1) item 3)
+
+Sch 2 (items 144–
+146)
+
+38, 2024
+
+31 May
+2024
+
+Sch 1 (items 31–37, 64):
+14 Oct 2024 (s 2(1)
+item 2)
+
+—
+
+52, 2024
+
+28 June
+2024
+
+Sch 3 (items 1–5):
+29 June 2024 (s 2(1)
+item 3)
+Sch 4–7: 1 July 2024 (s
+2(1) item 4)
+
+Sch 6 (items 24–27)
+and Sch 7 (item 5)
+
+67, 2024
+
+9 July 2024
+
+Sch 1 (items 4–7), Sch 3
+(items 1–7), Sch 5
+(items 49–52) and Sch 6:
+1 Oct 2024 (s 2(1)
+items 3, 7, 10, 12)
+
+Sch 1 (item 7), Sch
+3 (item 7), Sch 5
+(items 50, 52), Sch 6
+(items 3, 14–19, 23)
+
+Paid Parental Leave
+Amendment (Adding
+Superannuation for a
+More Secure
+Retirement) Act 2024
+
+90, 2024
+
+1 Oct 2024
+
+Sch 2 (items 2–6): 2 Oct
+2024 (s 2(1) item 1)
+
+—
+
+Crown References
+Amendment Act 2024
+
+115, 2024
+
+10 Dec
+2024
+
+Sch 1 (items 27, 28): 11
+Dec 2024 (s 2(1) item 1)
+
+—
+
+Transparency) Act
+2024
+Administrative
+Review Tribunal
+(Consequential and
+Transitional
+Provisions No. 1) Act
+2024
+Treasury Laws
+Amendment (Support
+for Small Business
+and Charities and
+Other Measures) Act
+2024
+Treasury Laws
+Amendment
+(Delivering Better
+Financial Outcomes
+and Other Measures)
+Act 2024
+
+126
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment
+(Multinational—
+Global and Domestic
+Minimum Tax)
+
+134, 2024
+
+10 Dec
+2024
+
+Sch 1 (items 6–29, 66):
+11 Dec 2024 (s 2(1)
+item 1)
+
+Sch 1 (item 66)
+
+Treasury Laws
+Amendment (Fairer
+for Families and
+Farmers and Other
+Measures) Act 2024
+
+136, 2024
+
+10 Dec
+2024
+
+Sch 5 and Sch 6
+(items 12–21): 1 Jan
+2025 (s 2(1) items 10,
+12)
+
+Sch 6 (item 15)
+
+Treasury Laws
+Amendment
+(Responsible Buy
+Now Pay Later and
+Other Measures) Act
+
+138, 2024
+
+10 Dec
+2024
+
+Sch 1 (items 2–12): 1
+Jan 2025 (s 2(1) item 2)
+Sch 5 (items 1–13): 11
+Dec 2024 (s 2(1) items 6,
+7)
+
+—
+
+(Consequential) Act
+2024
+
+2024
+
+Sch 5 (item 14): never
+commenced (s 2(1)
+item 8)
+
+Future Made in
+Australia (Production
+Tax Credits and Other
+Measures) Act 2025
+
+9, 2025
+
+14 Feb
+2025
+
+Sch 1 (items 1–4):
+awaiting commencement
+(s 2(1) item 2)
+Sch 2 (items 1, 12–14): 1
+Apr 2025 (s 2(1) item 5)
+
+—
+
+Veterans’
+Entitlements,
+Treatment and Support
+(Simplification and
+Harmonisation) Act
+
+17, 2025
+
+20 Feb
+2025
+
+Sch 8 (items 38–52):
+1 July 2026 (s 2(1)
+item 6)
+
+Sch 8 (items 51, 52)
+
+2025
+
+Income Tax Assessment Act 1997
+Compilation No. 258
+
+127
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+Endnotes
+
+Endnote 3—Legislation history
+Act
+
+Number
+and year
+
+Assent
+
+Commencement
+
+Application,
+saving and
+transitional
+provisions
+
+Treasury Laws
+Amendment (Tax
+Incentives and
+Integrity) Act 2025
+
+29, 2025
+
+27 Mar
+2025
+
+Sch 2: 1 Apr 2025 (s
+2(1) item 2)
+
+Sch 2 (item 4)
+
+Commencement
+
+Application,
+
+Name
+
+Registration
+
+saving and
+transitional
+provisions
+Workplace Relations
+Amendment (Work
+Choices) (Consequential
+Amendments)
+Regulations 2006 (No. 1)
+
+17 Mar 2006
+(F2006L00820)
+
+Sch 51: 27 Mar 2006
+(r 2(b))
+
+—
+
+(SLI No. 50, 2006)
+
+128
+Compilation No. 258
+
+Income Tax Assessment Act 1997
+Compilation date: 01/07/2025
+
+Authorised Version C2025C00405 registered 01/07/2025
+
+
