@@ -75,19 +75,33 @@ class RAGService:
                 break
         
         return "".join(context_parts)
-    
-    async def generate_response(self, query: str, context: str) -> str:
-        """Production response generation with monitoring"""
-        system_prompt = """You are an expert assistant for R&D Tax Incentive legislation and compliance. 
-        Use the provided context to answer questions accurately and comprehensively.
+
+    def build_system_prompt(self, output_size: Optional[int] = None) -> str:
+        prompt = """You are an expert assistant for R&D Tax Incentive legislation and compliance.
+    Use the provided context to answer questions accurately and comprehensively.
+
+    Guidelines:
+    - Base your answers strictly on the provided context
+    - If the context doesn't contain enough information, say so
+    - Provide specific references to legislation sections when available
+    - Be precise about eligibility criteria and requirements
+    - Use clear, professional language suitable for business users"""
+
+        if output_size:
+            prompt += f"""
+    - Limit your answer to a maximum of {output_size} words.
+    - Count your words carefully.
+    - Do NOT exceed {output_size} words under any condition.
+    - Use bullet points or concise paragraphs if helpful.
+    - Keep the answer short, informative, and within the limit."""
         
-        Guidelines:
-        - Base your answers on the provided context
-        - If the context doesn't contain enough information, say so
-        - Provide specific references to legislation sections when available
-        - Be precise about eligibility criteria and requirements
-        - Use clear, professional language suitable for business users
-        """
+        return prompt
+
+
+    
+    async def generate_response(self, query: str, context: str, output_size: Optional[int] = None) -> str:
+        """Production response generation with monitoring"""        
+        system_prompt = self.build_system_prompt(output_size)
         
         user_prompt = f"""Context from R&D Tax Incentive documents:
         {context}
@@ -158,8 +172,7 @@ class RAGService:
             logger.error(f"Production structured data extraction error: {e}")
             return None
     
-    async def query(self, query: str, top_k: int = None, 
-                   similarity_threshold: float = None) -> Dict[str, Any]:
+    async def query(self, query: str, top_k: int = None, similarity_threshold: float = None, output_size: Optional[int] = None) -> Dict[str, Any]:
         """Production RAG query with full monitoring"""
         start_time = time.time()
         
@@ -185,7 +198,7 @@ class RAGService:
             context = self.build_context(relevant_chunks, available_tokens)
             
             # Step 3: Generate response
-            answer = await self.generate_response(query, context)
+            answer = await self.generate_response(query, context, output_size=output_size)
             
             # Step 4: Prepare sources
             sources = []

@@ -16,6 +16,41 @@ from processing_pipeline import processing_pipeline
 from document_loader import document_loader
 from rag_service import rag_service
 
+
+import re
+
+def format_answer(answer: str) -> str:
+    """
+    Clean and format the answer for plain text output:
+    - Removes markdown bold (**text**)
+    - Converts numbered items or bullet points from \n1., \n- etc. to real lines
+    - Removes all stray \n characters
+    - Makes the text clean and readable
+    """
+    # Remove bold markers
+    answer = re.sub(r"\*\*(.*?)\*\*", r"\1", answer)
+
+    # Convert \n followed by dash or number into real new lines
+    answer = re.sub(r"\\n[\s\-]*", "\n• ", answer)  # convert all \n or \n- to bullets
+
+    # Also convert \n1., \n2., etc. into new lines
+    answer = re.sub(r"\\n\d+\.", "\n•", answer)
+
+    # Replace remaining \n with space (in case anything missed)
+    answer = answer.replace("\\n", " ")
+
+    # Clean multiple spaces
+    answer = re.sub(r'\s+', ' ', answer).strip()
+
+    # Add line breaks for bullet points if merged
+    answer = re.sub(r'\•', '\n•', answer)
+
+    return answer.strip()
+
+
+
+
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -40,6 +75,7 @@ class QueryRequest(BaseModel):
     query: str
     top_k: Optional[int] = None
     similarity_threshold: Optional[float] = None
+    output_size: Optional[int] = None  # 🔧 NEW FIELD
 
 class QueryResponse(BaseModel):
     query: str
@@ -173,12 +209,14 @@ async def query_documents(
         result = await rag_service.query(
             query=request.query,
             top_k=request.top_k,
-            similarity_threshold=request.similarity_threshold
-        )
+            similarity_threshold=request.similarity_threshold,
+            output_size=request.output_size  # ✅ pass output size to RAG
+        )   
+
         
         return QueryResponse(
             query=request.query,
-            answer=result['answer'],
+            answer=format_answer(result['answer']),  # Apply formatting here
             sources=result['sources'],
             processing_time_seconds=result['processing_time_seconds']
         )
