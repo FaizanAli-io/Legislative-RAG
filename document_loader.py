@@ -1,6 +1,7 @@
 """
 Document loader with preprocessing for various text formats
 """
+
 import os
 import re
 import logging
@@ -10,34 +11,35 @@ from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
+
 class DocumentLoader:
     def __init__(self, documents_dir: str = "documents"):
         self.documents_dir = Path(documents_dir)
-        self.supported_extensions = {'.txt', '.md'}
-        
+        self.supported_extensions = {".txt", ".md"}
+
     def normalize_text(self, text: str) -> str:
         """Normalize text formatting for consistent processing"""
-        text = re.sub(r'\r\n', '\n', text)
-        text = re.sub(r'\n{3,}', '\n\n', text)
-        text = re.sub(r'[ \t]+', ' ', text)
-        text = re.sub(r' +\n', '\n', text)
-        text = re.sub(r'(\d+)\.\s*\n\s*(\w)', r'\1. \2', text)
-        text = re.sub(r'([a-z])\n([a-z])', r'\1 \2', text)
+        text = re.sub(r"\r\n", "\n", text)
+        text = re.sub(r"\n{3,}", "\n\n", text)
+        text = re.sub(r"[ \t]+", " ", text)
+        text = re.sub(r" +\n", "\n", text)
+        text = re.sub(r"(\d+)\.\s*\n\s*(\w)", r"\1. \2", text)
+        text = re.sub(r"([a-z])\n([a-z])", r"\1 \2", text)
         return text.strip()
-    
+
     def extract_metadata(self, text: str, filename: str) -> Dict[str, Any]:
-        lines = text.split('\n')
+        lines = text.split("\n")
         metadata = {
-            'filename': filename,
-            'character_count': len(text),
-            'line_count': len(lines),
-            'estimated_pages': len(text) // 2000,
+            "filename": filename,
+            "character_count": len(text),
+            "line_count": len(lines),
+            "estimated_pages": len(text) // 2000,
         }
         for line in lines[:10]:
             line = line.strip()
-            if line and len(line) > 10 and not line.startswith('#'):
+            if line and len(line) > 10 and not line.startswith("#"):
                 if line.isupper() or line.istitle():
-                    metadata['title'] = line
+                    metadata["title"] = line
                     break
         return metadata
 
@@ -54,13 +56,15 @@ class DocumentLoader:
             return None
 
         try:
-            encodings = ['utf-8', 'utf-8-sig', 'latin-1', 'cp1252']
+            encodings = ["utf-8", "utf-8-sig", "latin-1", "cp1252"]
             text = None
             for encoding in encodings:
                 try:
-                    with open(file_path, 'r', encoding=encoding) as f:
+                    with open(file_path, "r", encoding=encoding) as f:
                         text = f.read()
-                    logger.info(f"Successfully read {file_path} with {encoding} encoding")
+                    logger.info(
+                        f"Successfully read {file_path} with {encoding} encoding"
+                    )
                     break
                 except UnicodeDecodeError:
                     continue
@@ -73,17 +77,19 @@ class DocumentLoader:
             metadata = self.extract_metadata(normalized_text, file_path.name)
 
             return {
-                'filename': file_path.name,
-                'filepath': str(file_path),
-                'content': normalized_text,
-                'metadata': metadata
+                "filename": file_path.name,
+                "filepath": str(file_path),
+                "content": normalized_text,
+                "metadata": metadata,
             }
 
         except Exception as e:
             logger.error(f"Error loading document {file_path}: {e}")
             return None
 
-    async def load_documents_from_directory(self, directory: str = None) -> List[Dict[str, Any]]:
+    async def load_documents_from_directory(
+        self, directory: str = None
+    ) -> List[Dict[str, Any]]:
         """Load all supported documents from directory"""
         docs_dir = self.documents_dir / directory if directory else self.documents_dir
 
@@ -107,6 +113,7 @@ class DocumentLoader:
 
         logger.info(f"Successfully loaded {len(documents)} documents")
         return documents
+
 
 # Global document loader instance
 document_loader = DocumentLoader()

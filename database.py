@@ -1,13 +1,15 @@
 """
 Database connection and table management
 """
+
+import json
 import asyncpg
 import logging
-from typing import List, Dict, Any, Optional
 from config import settings
-import json
+from typing import List, Dict, Any, Optional
 
 logger = logging.getLogger(__name__)
+
 
 class DatabaseManager:
     def __init__(self):
@@ -17,10 +19,7 @@ class DatabaseManager:
         """Initialize database connection pool and create tables"""
         try:
             self.pool = await asyncpg.create_pool(
-                settings.database_url,
-                min_size=5,
-                max_size=20,
-                command_timeout=60
+                settings.database_url, min_size=5, max_size=20, command_timeout=60
             )
             await self.create_tables()
             logger.info("Database initialized successfully")
@@ -35,7 +34,8 @@ class DatabaseManager:
             await conn.execute("CREATE EXTENSION IF NOT EXISTS vector;")
 
             # Create document_chunks table
-            await conn.execute("""
+            await conn.execute(
+                """
                 CREATE TABLE IF NOT EXISTS document_chunks (
                     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
                     document_name TEXT NOT NULL,
@@ -47,19 +47,24 @@ class DatabaseManager:
                     metadata JSONB DEFAULT '{}',
                     created_at TIMESTAMPTZ DEFAULT NOW()
                 );
-            """)
+            """
+            )
 
             # Create indexes for efficient retrieval
-            await conn.execute("""
+            await conn.execute(
+                """
                 CREATE INDEX IF NOT EXISTS idx_chunks_embedding 
                 ON document_chunks USING ivfflat (embedding vector_cosine_ops)
                 WITH (lists = 100);
-            """)
+            """
+            )
 
-            await conn.execute("""
+            await conn.execute(
+                """
                 CREATE INDEX IF NOT EXISTS idx_chunks_document 
                 ON document_chunks (document_name, chunk_index);
-            """)
+            """
+            )
 
     async def close(self):
         """Close database connection pool"""
@@ -80,13 +85,13 @@ class DatabaseManager:
 
             values = [
                 (
-                    chunk['document_name'],
-                    chunk.get('section_title'),
-                    chunk['chunk_index'],
-                    chunk['chunk_text'],
-                    chunk.get('token_count'),
+                    chunk["document_name"],
+                    chunk.get("section_title"),
+                    chunk["chunk_index"],
+                    chunk["chunk_text"],
+                    chunk.get("token_count"),
                     f"[{', '.join(map(str, chunk.get('embedding', [])))}]",
-                    json.dumps(chunk.get('metadata', {}))
+                    json.dumps(chunk.get("metadata", {})),
                 )
                 for chunk in chunks
             ]
@@ -97,17 +102,22 @@ class DatabaseManager:
     async def get_document_chunks(self, document_name: str) -> List[Dict[str, Any]]:
         """Retrieve all chunks for a document"""
         async with self.pool.acquire() as conn:
-            rows = await conn.fetch("""
+            rows = await conn.fetch(
+                """
                 SELECT id, document_name, section_title, chunk_index, 
                        chunk_text, token_count, metadata, created_at
                 FROM document_chunks 
                 WHERE document_name = $1 
                 ORDER BY chunk_index
-            """, document_name)
+            """,
+                document_name,
+            )
 
             return [dict(row) for row in rows]
 
-    async def search_similar_chunks(self, embedding: List[float], top_k: int, threshold: float) -> List[Dict[str, Any]]:
+    async def search_similar_chunks(
+        self, embedding: List[float], top_k: int, threshold: float
+    ) -> List[Dict[str, Any]]:
         """Find similar chunks using vector similarity search"""
         async with self.pool.acquire() as conn:
             query = """
@@ -127,7 +137,6 @@ class DatabaseManager:
             except Exception as e:
                 logger.error(f"Vector search failed: {e}")
                 raise
-
 
 
 # Global database manager instance
